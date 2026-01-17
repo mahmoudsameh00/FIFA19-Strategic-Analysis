@@ -1,0 +1,82 @@
+Metric,Comparison_Metric,Correlation
+Value,Value,1.0
+Wage,Value,0.8583764040199036
+Release Clause,Value,0.9945025459189908
+Overall,Value,0.6270253564833032
+Potential,Value,0.576606194954218
+Age,Value,0.07531932582479482
+Reactions,Value,0.5406068981479444
+Composure,Value,0.4503813165567638
+International Reputation,Value,0.6531523167516051
+Value,Wage,0.8583764040199036
+Wage,Wage,1.0
+Release Clause,Wage,0.853271557154645
+Overall,Wage,0.571795243999671
+Potential,Wage,0.48660832765371487
+Age,Wage,0.14151884130593925
+Reactions,Wage,0.49559819726308146
+Composure,Wage,0.41961519164324007
+International Reputation,Wage,0.6686120951549331
+Value,Release Clause,0.9945025459189908
+Wage,Release Clause,0.853271557154645
+Release Clause,Release Clause,1.0
+Overall,Release Clause,0.614173251189943
+Potential,Release Clause,0.5781060683552616
+Age,Release Clause,0.05968178950169218
+Reactions,Release Clause,0.528284321208311
+Composure,Release Clause,0.4387612245091313
+International Reputation,Release Clause,0.6369715478640623
+Value,Overall,0.6270253564833032
+Wage,Overall,0.571795243999671
+Release Clause,Overall,0.614173251189943
+Overall,Overall,1.0
+Potential,Overall,0.6609467959043068
+Age,Overall,0.45335436631377307
+Reactions,Overall,0.8500712692670357
+Composure,Overall,0.7276456784419397
+International Reputation,Overall,0.4995960727072717
+Value,Potential,0.576606194954218
+Wage,Potential,0.48660832765371487
+Release Clause,Potential,0.5781060683552616
+Overall,Potential,0.6609467959043068
+Potential,Potential,1.0
+Age,Potential,-0.2522587130100829
+Reactions,Potential,0.5134152762201664
+Composure,Potential,0.439958858049195
+International Reputation,Potential,0.3730239900486778
+Value,Age,0.07531932582479482
+Wage,Age,0.14151884130593925
+Release Clause,Age,0.05968178950169218
+Overall,Age,0.45335436631377307
+Potential,Age,-0.2522587130100829
+Age,Age,1.0
+Reactions,Age,0.4531739437252307
+Composure,Age,0.39108319574747047
+International Reputation,Age,0.25398463195906124
+Value,Reactions,0.5406068981479444
+Wage,Reactions,0.49559819726308146
+Release Clause,Reactions,0.528284321208311
+Overall,Reactions,0.8500712692670357
+Potential,Reactions,0.5134152762201664
+Age,Reactions,0.4531739437252307
+Reactions,Reactions,1.0
+Composure,Reactions,0.685535354164553
+International Reputation,Reactions,0.44566348379861814
+Value,Composure,0.4503813165567638
+Wage,Composure,0.41961519164324007
+Release Clause,Composure,0.4387612245091313
+Overall,Composure,0.7276456784419397
+Potential,Composure,0.439958858049195
+Age,Composure,0.39108319574747047
+Reactions,Composure,0.685535354164553
+Composure,Composure,1.0
+International Reputation,Composure,0.39282128429297436
+Value,International Reputation,0.6531523167516051
+Wage,International Reputation,0.6686120951549331
+Release Clause,International Reputation,0.6369715478640623
+Overall,International Reputation,0.4995960727072717
+Potential,International Reputation,0.3730239900486778
+Age,International Reputation,0.25398463195906124
+Reactions,International Reputation,0.44566348379861814
+Composure,International Reputation,0.39282128429297436
+International Reputation,International Reputation,1.0

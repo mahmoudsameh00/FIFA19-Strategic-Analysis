@@ -1,0 +1,101 @@
+Name,Club,Age,Position,Overall,Value,Wage,Status,Potential
+E. Hazard,Chelsea,27,LF,91,93000000.0,340000.0,Expiring (1y),91
+C. Eriksen,Tottenham Hotspur,26,CAM,88,73500000.0,205000.0,Expiring (1y),91
+De Gea,Manchester United,27,GK,91,72000000.0,260000.0,Expiring (1y),93
+J. Rodríguez,FC Bayern München,26,LAM,88,69500000.0,315000.0,Free Agent (0y),89
+L. Modrić,Real Madrid,32,RCM,91,67000000.0,420000.0,Expiring (1y),91
+E. Cavani,Paris Saint-Germain,31,LS,89,60000000.0,200000.0,Expiring (1y),89
+David Silva,Manchester City,32,LCM,90,60000000.0,285000.0,Expiring (1y),90
+G. Higuaín,Milan,30,LS,88,57000000.0,245000.0,Free Agent (0y),88
+Sergio Ramos,Real Madrid,32,RCB,91,51000000.0,380000.0,Expiring (1y),91
+N. Fekir,Olympique Lyonnais,24,CAM,85,50000000.0,92000.0,Expiring (1y),89
+M. Hamšík,Napoli,30,LCM,87,46500000.0,125000.0,Expiring (1y),87
+Koke,Atlético Madrid,26,LM,85,45000000.0,88000.0,Free Agent (0y),86
+D. Mertens,Napoli,31,RF,87,45000000.0,135000.0,Expiring (1y),87
+D. Godín,Atlético Madrid,32,CB,90,44000000.0,125000.0,Free Agent (0y),90
+A. Martial,Manchester United,22,LW,84,42500000.0,165000.0,Free Agent (0y),90
+Y. Brahimi,FC Porto,28,LM,85,39000000.0,28000.0,Free Agent (0y),85
+T. Alderweireld,Tottenham Hotspur,29,RCB,86,39000000.0,150000.0,Expiring (1y),87
+Jordi Alba,FC Barcelona,29,LB,87,38000000.0,250000.0,Expiring (1y),87
+Paulinho,Guangzhou Evergrande Taobao FC,29,LDM,85,37000000.0,235000.0,Free Agent (0y),85
+Parejo,Valencia CF,29,RCM,85,37000000.0,66000.0,Expiring (1y),85
+Alex Sandro,Juventus,27,LB,86,36500000.0,160000.0,Expiring (1y),86
+Anderson Talisca,Guangzhou Evergrande Taobao FC,24,CAM,83,36500000.0,18000.0,Free Agent (0y),90
+M. Kovačić,Chelsea,24,LCM,83,35000000.0,165000.0,Free Agent (0y),89
+T. Werner,RB Leipzig,22,RW,83,34500000.0,70000.0,Expiring (1y),87
+S. Gnabry,FC Bayern München,22,ST,83,34500000.0,85000.0,Expiring (1y),88
+J. Vertonghen,Tottenham Hotspur,31,LCB,87,34000000.0,155000.0,Free Agent (0y),87
+A. Rabiot,Paris Saint-Germain,23,CM,83,33000000.0,91000.0,Free Agent (0y),87
+I. Gündoğan,Manchester City,27,CM,84,32000000.0,175000.0,Expiring (1y),84
+Willian,Chelsea,29,RW,84,30500000.0,175000.0,Expiring (1y),84
+E. Džeko,Roma,32,ST,85,30500000.0,115000.0,Expiring (1y),85
+K. Navas,Real Madrid,31,GK,87,30500000.0,195000.0,Expiring (1y),87
+Oscar,Shanghai SIPG FC,26,LCM,83,30500000.0,29000.0,Expiring (1y),84
+M. Benatia,Juventus,31,CB,86,30000000.0,160000.0,Expiring (1y),86
+J. Cuadrado,Juventus,30,RAM,84,29500000.0,150000.0,Expiring (1y),84
+Rafinha,FC Barcelona,25,CAM,82,29500000.0,165000.0,Expiring (1y),87
+E. Banega,Sevilla FC,30,CDM,84,29000000.0,31000.0,Expiring (1y),84
+José Callejón,Napoli,31,RM,84,27500000.0,105000.0,Expiring (1y),84
+M. Balotelli,OGC Nice,27,LS,83,27500000.0,55000.0,Free Agent (0y),83
+M. Rashford,Manchester United,20,LW,81,27000000.0,110000.0,Expiring (1y),89
+G. Chiellini,Juventus,33,LCB,89,27000000.0,215000.0,Expiring (1y),89
+M. Götze,Borussia Dortmund,26,CM,82,27000000.0,67000.0,Expiring (1y),85
+B. Matuidi,Juventus,31,LM,85,26000000.0,145000.0,Expiring (1y),85
+S. Savić,Atlético Madrid,27,CB,83,26000000.0,67000.0,Expiring (1y),86
+Pablo Sarabia,Sevilla FC,26,RCM,82,26000000.0,26000.0,Expiring (1y),83
+A. Ramsey,Arsenal,27,CAM,82,25000000.0,130000.0,Free Agent (0y),83
+A. Lopes,Olympique Lyonnais,27,GK,84,25000000.0,72000.0,Expiring (1y),86
+M. Mandžukić,Juventus,32,ST,84,25000000.0,160000.0,Expiring (1y),84
+Falcao,AS Monaco,32,RS,84,25000000.0,115000.0,Expiring (1y),84
+Juan Mata,Manchester United,30,RM,83,24500000.0,160000.0,Free Agent (0y),83
+R. Guerreiro,Borussia Dortmund,24,LM,81,24000000.0,54000.0,Expiring (1y),86
+Thiago Silva,Paris Saint-Germain,33,RCB,88,24000000.0,165000.0,Expiring (1y),88
+N. Matić,Manchester United,29,CDM,84,24000000.0,165000.0,Expiring (1y),84
+M. Dembélé,Tottenham Hotspur,30,CM,83,24000000.0,120000.0,Free Agent (0y),83
+M. Lanzini,West Ham United,25,CAM,81,23000000.0,90000.0,Expiring (1y),85
+Jonathan Viera,Beijing Sinobo Guoan FC,28,LF,82,22500000.0,31000.0,Expiring (1y),82
+J. Martínez,Atlanta United,25,LS,81,22500000.0,14000.0,Expiring (1y),84
+M. Politano,Inter,24,RM,81,22500000.0,57000.0,Free Agent (0y),84
+V. Kompany,Manchester City,32,CB,85,22000000.0,170000.0,Free Agent (0y),85
+G. Bonaventura,Milan,28,CM,82,22000000.0,115000.0,Expiring (1y),82
+Cesc Fàbregas,Chelsea,31,CM,83,22000000.0,140000.0,Free Agent (0y),83
+Filipe Luís,Atlético Madrid,32,LB,85,21500000.0,81000.0,Free Agent (0y),85
+J. Corona,FC Porto,25,RM,81,21500000.0,18000.0,Expiring (1y),83
+M. Kruse,SV Werder Bremen,30,ST,82,21500000.0,45000.0,Free Agent (0y),82
+T. Hazard,Borussia Mönchengladbach,25,RW,81,21500000.0,40000.0,Expiring (1y),83
+E. Bailly,Manchester United,24,CB,81,21000000.0,105000.0,Expiring (1y),87
+S. El Shaarawy,Roma,25,LM,81,21000000.0,77000.0,Expiring (1y),82
+S. Zaza,Torino,27,RS,81,21000000.0,48000.0,Free Agent (0y),82
+Pedro,Chelsea,30,RW,82,21000000.0,140000.0,Expiring (1y),82
+Marlos,Shakhtar Donetsk,30,RM,82,21000000.0,1000.0,Free Agent (0y),82
+T. Meunier,Paris Saint-Germain,26,RM,82,21000000.0,87000.0,Expiring (1y),83
+S. Giovinco,Toronto FC,31,CF,82,20000000.0,15000.0,Free Agent (0y),82
+O. Giroud,Chelsea,31,ST,82,20000000.0,140000.0,Free Agent (0y),82
+G. Lo Celso,Real Betis,22,RCM,80,20000000.0,72000.0,Free Agent (0y),86
+K. Baldé,Inter,23,RM,80,20000000.0,65000.0,Free Agent (0y),85
+Víctor Ruiz,Villarreal CF,29,LCB,82,19500000.0,43000.0,Free Agent (0y),83
+M. Almirón,Atlanta United,24,CAM,80,19500000.0,11000.0,Free Agent (0y),84
+André Gomes,Everton,24,LDM,80,19500000.0,130000.0,Free Agent (0y),85
+M. Batshuayi,Valencia CF,24,ST,80,19500000.0,105000.0,Free Agent (0y),84
+F. Kessié,Milan,21,CM,79,19500000.0,24000.0,Free Agent (0y),88
+A. Guardado,Real Betis,31,CM,82,19000000.0,35000.0,Expiring (1y),82
+André Silva,Sevilla FC,22,ST,79,19000000.0,84000.0,Free Agent (0y),87
+E. Salvio,SL Benfica,27,RW,81,18500000.0,19000.0,Free Agent (0y),81
+S. Vrsaljko,Inter,26,RB,81,18000000.0,57000.0,Free Agent (0y),84
+Fernandinho,Manchester City,33,CDM,86,18000000.0,185000.0,Expiring (1y),86
+A. Ljajić,Beşiktaş JK,26,CAM,80,17500000.0,52000.0,Free Agent (0y),81
+David Luiz,Chelsea,31,LCB,83,17500000.0,130000.0,Free Agent (0y),83
+Ander Herrera,Manchester United,28,CM,81,17500000.0,140000.0,Free Agent (0y),81
+H. Herrera,FC Porto,28,CM,81,17500000.0,20000.0,Free Agent (0y),81
+T. Strakosha,Lazio,23,GK,81,17000000.0,36000.0,Free Agent (0y),86
+T. Bakayoko,Milan,23,LCM,80,17000000.0,85000.0,Free Agent (0y),85
+A. Areola,Paris Saint-Germain,25,GK,81,16500000.0,61000.0,Free Agent (0y),85
+Rosberto Dourado,Atlético Mineiro,30,RCM,82,16500000.0,46000.0,Free Agent (0y),82
+C. Smalling,Manchester United,28,RCB,81,16000000.0,130000.0,Free Agent (0y),82
+A. Robben,FC Bayern München,34,RM,84,15500000.0,110000.0,Free Agent (0y),84
+L. Jović,Eintracht Frankfurt,20,LS,78,15500000.0,12000.0,Free Agent (0y),86
+D. Sturridge,Liverpool,28,ST,80,15500000.0,125000.0,Free Agent (0y),80
+Alexandre Pato,Tianjin Quanjian FC,28,ST,80,15500000.0,35000.0,Free Agent (0y),80
+Sergi Enrich,SD Eibar,28,RS,80,15500000.0,34000.0,Free Agent (0y),80
+B. Cristante,Roma,23,CM,78,15000000.0,26000.0,Free Agent (0y),86
+Manuel Fernandes,Lokomotiv Moscow,32,LM,81,14000000.0,1000.0,Free Agent (0y),81

@@ -1,0 +1,2606 @@
+Club,Position,Starter_Name,Starter_Rating,Backup_Name,Backup_Rating,Gap
+FC Barcelona,Goalkeeper,M. ter Stegen,89,J. Cillessen,82,7
+FC Barcelona,Defender,S. Umtiti,87,Jordi Alba,87,0
+FC Barcelona,Midfielder,Sergio Busquets,89,I. Rakitić,87,2
+FC Barcelona,Attacker,L. Messi,94,L. Suárez,91,3
+Juventus,Goalkeeper,W. Szczęsny,85,M. Perin,84,1
+Juventus,Defender,G. Chiellini,89,Alex Sandro,86,3
+Juventus,Midfielder,Douglas Costa,86,M. Pjanić,86,0
+Juventus,Attacker,Cristiano Ronaldo,94,P. Dybala,89,5
+Paris Saint-Germain,Goalkeeper,G. Buffon,88,A. Areola,81,7
+Paris Saint-Germain,Defender,Thiago Silva,88,P. Kimpembe,83,5
+Paris Saint-Germain,Midfielder,K. Mbappé,88,M. Verratti,86,2
+Paris Saint-Germain,Attacker,Neymar Jr,92,E. Cavani,89,3
+Manchester United,Goalkeeper,De Gea,91,S. Romero,80,11
+Manchester United,Defender,E. Bailly,81,C. Smalling,81,0
+Manchester United,Midfielder,N. Matić,84,Juan Mata,83,1
+Manchester United,Attacker,R. Lukaku,87,A. Sánchez,85,2
+Manchester City,Goalkeeper,Ederson,86,C. Bravo,78,8
+Manchester City,Defender,N. Otamendi,85,V. Kompany,85,0
+Manchester City,Midfielder,K. De Bruyne,91,David Silva,90,1
+Manchester City,Attacker,S. Agüero,89,L. Sané,86,3
+Chelsea,Goalkeeper,Kepa,83,W. Caballero,76,7
+Chelsea,Defender,Azpilicueta,86,Marcos Alonso,83,3
+Chelsea,Midfielder,Jorginho,84,M. Kovačić,83,1
+Chelsea,Attacker,E. Hazard,91,Willian,84,7
+Real Madrid,Goalkeeper,T. Courtois,89,K. Navas,87,2
+Real Madrid,Defender,Sergio Ramos,91,Marcelo,88,3
+Real Madrid,Midfielder,L. Modrić,91,T. Kroos,90,1
+Real Madrid,Attacker,Isco,88,G. Bale,88,0
+Atlético Madrid,Goalkeeper,J. Oblak,90,Adán,83,7
+Atlético Madrid,Defender,D. Godín,90,Filipe Luís,85,5
+Atlético Madrid,Midfielder,A. Griezmann,89,Saúl,85,4
+Atlético Madrid,Attacker,Diego Costa,85,N. Kalinić,79,6
+FC Bayern München,Goalkeeper,M. Neuer,89,S. Ulreich,80,9
+FC Bayern München,Defender,M. Hummels,88,D. Alaba,85,3
+FC Bayern München,Midfielder,J. Rodríguez,88,T. Müller,86,2
+FC Bayern München,Attacker,R. Lewandowski,90,S. Gnabry,83,7
+Tottenham Hotspur,Goalkeeper,H. Lloris,88,M. Vorm,77,11
+Tottenham Hotspur,Defender,J. Vertonghen,87,T. Alderweireld,86,1
+Tottenham Hotspur,Midfielder,C. Eriksen,88,D. Alli,84,4
+Tottenham Hotspur,Attacker,H. Kane,89,Llorente,76,13
+Liverpool,Goalkeeper,Alisson,85,S. Mignolet,79,6
+Liverpool,Defender,V. van Dijk,86,A. Robertson,82,4
+Liverpool,Midfielder,M. Salah,88,S. Mané,86,2
+Liverpool,Attacker,D. Sturridge,80,D. Origi,77,3
+Napoli,Goalkeeper,O. Karnezis,79,D. Ospina,79,0
+Napoli,Defender,K. Koulibaly,87,Raúl Albiol,84,3
+Napoli,Midfielder,M. Hamšík,87,José Callejón,84,3
+Napoli,Attacker,L. Insigne,88,D. Mertens,87,1
+Arsenal,Goalkeeper,B. Leno,84,P. Čech,82,2
+Arsenal,Defender,Sokratis,84,S. Mustafi,82,2
+Arsenal,Midfielder,P. Aubameyang,88,M. Özil,86,2
+Arsenal,Attacker,A. Lacazette,85,D. Welbeck,77,8
+Milan,Goalkeeper,Pepe Reina,83,G. Donnarumma,82,1
+Milan,Defender,A. Romagnoli,82,M. Caldara,80,2
+Milan,Midfielder,Samu Castillejo,82,G. Bonaventura,82,0
+Milan,Attacker,G. Higuaín,88,Suso,83,5
+Inter,Goalkeeper,S. Handanovič,88,D. Padelli,74,14
+Inter,Defender,M. Škriniar,85,Miranda,85,0
+Inter,Midfielder,I. Perišić,85,R. Nainggolan,85,0
+Inter,Attacker,M. Icardi,87,L. Martínez,79,8
+Lazio,Goalkeeper,T. Strakosha,81,S. Proto,76,5
+Lazio,Defender,F. Acerbi,83,S. Radu,80,3
+Lazio,Midfielder,S. Milinković-Savić,85,M. Badelj,80,5
+Lazio,Attacker,C. Immobile,87,Luis Alberto,82,5
+Borussia Dortmund,Goalkeeper,R. Bürki,82,M. Hitz,79,3
+Borussia Dortmund,Defender,M. Akanji,81,O. Toprak,81,0
+Borussia Dortmund,Midfielder,M. Reus,86,A. Witsel,84,2
+Borussia Dortmund,Attacker,Paco Alcácer,81,M. Philipp,79,2
+Vissel Kobe,Goalkeeper,Kim Seung Gyu,68,K. Ogi,56,12
+Vissel Kobe,Defender,H. Watanabe,66,M. Mihara,66,0
+Vissel Kobe,Midfielder,J. Tanaka,66,M. Inoha,66,0
+Vissel Kobe,Attacker,Iniesta,86,L. Podolski,78,8
+Olympique Lyonnais,Goalkeeper,A. Lopes,84,M. Gorgelin,68,16
+Olympique Lyonnais,Defender,Marcelo,80,Rafael,79,1
+Olympique Lyonnais,Midfielder,N. Fekir,85,T. Ndombele,80,5
+Olympique Lyonnais,Attacker,M. Depay,84,M. Dembélé,76,8
+Roma,Goalkeeper,A. Mirante,80,R. Olsen,76,4
+Roma,Defender,K. Manolas,85,A. Florenzi,82,3
+Roma,Midfielder,J. Pastore,82,S. Nzonzi,82,0
+Roma,Attacker,E. Džeko,85,D. Perotti,81,4
+Valencia CF,Goalkeeper,Neto,83,Jaume,76,7
+Valencia CF,Defender,Gabriel Paulista,82,E. Garay,82,0
+Valencia CF,Midfielder,Parejo,85,Gonçalo Guedes,82,3
+Valencia CF,Attacker,Rodrigo,83,Santi Mina,80,3
+Guangzhou Evergrande Taobao FC,Goalkeeper,Zeng Cheng,72,Liu Dianzuo,65,7
+Guangzhou Evergrande Taobao FC,Defender,Feng Xiaoting,71,Li Xuepeng,70,1
+Guangzhou Evergrande Taobao FC,Midfielder,Anderson Talisca,83,Yu Hanchao,72,11
+Guangzhou Evergrande Taobao FC,Attacker,Ricardo Goulart,79,Alan Carvalho,76,3
+FC Porto,Goalkeeper,Casillas,82,Fabiano,73,9
+FC Porto,Defender,Alex Telles,84,Felipe,83,1
+FC Porto,Midfielder,Y. Brahimi,85,Danilo Pereira,83,2
+FC Porto,Attacker,M. Marega,80,V. Aboubakar,80,0
+FC Schalke 04,Goalkeeper,R. Fährmann,83,A. Nübel,66,17
+FC Schalke 04,Defender,Naldo,85,S. Sané,82,3
+FC Schalke 04,Midfielder,S. Rudy,80,A. Harit,79,1
+FC Schalke 04,Attacker,M. Uth,80,Y. Konoplyanka,79,1
+Beşiktaş JK,Goalkeeper,L. Karius,79,T. Zengin,72,7
+Beşiktaş JK,Defender,Pepe,85,G. Medel,81,4
+Beşiktaş JK,Midfielder,Quaresma,84,A. Ljajić,80,4
+Beşiktaş JK,Attacker,Vágner Love,77,C. Larin,75,2
+LA Galaxy,Goalkeeper,D. Bingham,67,B. Sylvestre,63,4
+LA Galaxy,Defender,A. Cole,71,M. Ciani,69,2
+LA Galaxy,Midfielder,R. Alessandrini,78,J. dos Santos,77,1
+LA Galaxy,Attacker,Z. Ibrahimović,85,O. Kamara,75,10
+Sporting CP,Goalkeeper,E. Viviano,82,Renan Ribeiro,77,5
+Sporting CP,Defender,S. Coates,82,J. Mathieu,81,1
+Sporting CP,Midfielder,Bruno Fernandes,84,Nani,81,3
+Sporting CP,Attacker,B. Dost,83,F. Montero,76,7
+Real Betis,Goalkeeper,Pau López,82,Joel Robles,75,7
+Real Betis,Defender,Bartra,82,Z. Feddal,80,2
+Real Betis,Midfielder,William Carvalho,84,A. Guardado,82,2
+Real Betis,Attacker,Joaquín,81,A. Sanabria,79,2
+Olympique de Marseille,Goalkeeper,S. Mandanda,83,Y. Pelé,75,8
+Olympique de Marseille,Defender,Luiz Gustavo,83,A. Rami,82,1
+Olympique de Marseille,Midfielder,F. Thauvin,84,D. Payet,84,0
+Olympique de Marseille,Attacker,V. Germain,77,K. Mitroglou,77,0
+RC Celta,Goalkeeper,Sergio,78,Rubén Blanco,76,2
+RC Celta,Defender,Hugo Mallo,80,David Juncà,76,4
+RC Celta,Midfielder,S. Lobotka,78,S. Boufal,77,1
+RC Celta,Attacker,Iago Aspas,84,M. Gómez,80,4
+Bayer 04 Leverkusen,Goalkeeper,L. Hrádecký,84,R. Özcan,75,9
+Bayer 04 Leverkusen,Defender,J. Tah,83,L. Bender,83,0
+Bayer 04 Leverkusen,Midfielder,J. Brandt,82,L. Bailey,81,1
+Bayer 04 Leverkusen,Attacker,K. Volland,81,L. Alario,79,2
+Real Sociedad,Goalkeeper,G. Rulli,80,Moyá,80,0
+Real Sociedad,Defender,Diego Llorente,77,T. Hernández,77,0
+Real Sociedad,Midfielder,Oyarzabal,80,Juanmi,76,4
+Real Sociedad,Attacker,Willian José,82,A. Januzaj,78,4
+Villarreal CF,Goalkeeper,Sergio Asenjo,84,M. Barbosa,76,8
+Villarreal CF,Defender,Víctor Ruiz,82,Mario Gaspar,80,2
+Villarreal CF,Midfielder,Manu Trigueros,83,Pablo Fornals,81,2
+Villarreal CF,Attacker,Gerard Moreno,83,C. Bacca,81,2
+Sevilla FC,Goalkeeper,T. Vaclík,80,Soriano,68,12
+Sevilla FC,Defender,S. Kjær,81,G. Mercado,79,2
+Sevilla FC,Midfielder,E. Banega,84,Q. Promes,83,1
+Sevilla FC,Attacker,W. Ben Yedder,82,L. Muriel,80,2
+SL Benfica,Goalkeeper,O. Vlachodimos,76,Bruno Varela,74,2
+SL Benfica,Defender,Jardel,82,Grimaldo,81,1
+SL Benfica,Midfielder,Pizzi,83,L. Fejsa,82,1
+SL Benfica,Attacker,Jonas,84,E. Salvio,81,3
+AS Saint-Étienne,Goalkeeper,S. Ruffier,84,J. Moulin,68,16
+AS Saint-Étienne,Defender,L. Perrin,80,M. Debuchy,78,2
+AS Saint-Étienne,Midfielder,R. Cabella,78,Y. Salibur,76,2
+AS Saint-Étienne,Attacker,R. Berić,75,M. Gueye,62,13
+AS Monaco,Goalkeeper,D. Subašić,83,D. Benaglio,77,6
+AS Monaco,Defender,K. Glik,83,D. Sidibé,79,4
+AS Monaco,Midfielder,Rony Lopes,80,A. Golovin,79,1
+AS Monaco,Attacker,Falcao,84,S. Jovetić,79,5
+Leicester City,Goalkeeper,K. Schmeichel,84,D. Ward,73,11
+Leicester City,Defender,H. Maguire,82,Ricardo Pereira,81,1
+Leicester City,Midfielder,Iborra,79,Adrien Silva,79,0
+Leicester City,Attacker,J. Vardy,82,S. Okazaki,75,7
+Atalanta,Goalkeeper,P. Gollini,71,F. Rossi,60,11
+Atalanta,Defender,A. Masiello,79,Rafael Tolói,78,1
+Atalanta,Midfielder,J. Iličić,81,E. Rigoni,78,3
+Atalanta,Attacker,A. Gómez,84,D. Zapata,78,6
+Grêmio,Goalkeeper,Raphaelito Anjos,82,Adrianiscito,74,8
+Grêmio,Defender,Josué Chiamulera,83,Everticinho,78,5
+Grêmio,Midfielder,Edercinho Sepa,74,Marlon Nideiro,74,0
+Grêmio,Attacker,Ronaldo Cabrais,83,José Mirazar,75,8
+Atlético Mineiro,Goalkeeper,Freder Cabral,73,Kaíque Mutto,69,4
+Atlético Mineiro,Defender,Maikel Catarino,79,Ronaldo Esler,78,1
+Atlético Mineiro,Midfielder,Rosberto Dourado,82,Simão Acunha,77,5
+Atlético Mineiro,Attacker,Louri Beretta,83,Evandro Rochedo,73,10
+RB Leipzig,Goalkeeper,P. Gulácsi,80,Y. Mvogo,75,5
+RB Leipzig,Defender,W. Orban,79,M. Halstenberg,78,1
+RB Leipzig,Midfielder,K. Kampl,83,E. Forsberg,82,1
+RB Leipzig,Attacker,T. Werner,83,Bruma,79,4
+Ajax,Goalkeeper,A. Onana,80,K. Lamprou,73,7
+Ajax,Defender,M. de Ligt,82,N. Tagliafico,80,2
+Ajax,Midfielder,H. Ziyech,83,D. Tadić,81,2
+Ajax,Attacker,David Neres,79,K. Huntelaar,77,2
+Dalian YiFang FC,Goalkeeper,Yu Ziqian,63,Zhang Chong,58,5
+Dalian YiFang FC,Defender,Yang Shanping,62,Li Shuai,62,0
+Dalian YiFang FC,Midfielder,Y. Carrasco,83,N. Gaitán,82,1
+Dalian YiFang FC,Attacker,D. Riascos,72,N. Mushekwi,72,0
+Everton,Goalkeeper,J. Pickford,83,M. Stekelenburg,73,10
+Everton,Defender,M. Keane,80,L. Digne,80,0
+Everton,Midfielder,G. Sigurðsson,82,Bernard,80,2
+Everton,Attacker,Richarlison,79,C. Tosun,79,0
+West Ham United,Goalkeeper,L. Fabiański,81,N. Trott,59,22
+West Ham United,Defender,F. Balbuena,80,A. Ogbonna,77,3
+West Ham United,Midfielder,Felipe Anderson,83,M. Lanzini,81,2
+West Ham United,Attacker,M. Arnautović,82,J. Hernández,79,3
+1. FC Köln,Goalkeeper,T. Horn,83,T. Kessler,71,12
+1. FC Köln,Defender,J. Hector,79,Jorge Meré,77,2
+1. FC Köln,Midfielder,V. Koziello,76,L. Schaub,75,1
+1. FC Köln,Attacker,S. Terodde,76,J. Córdoba,74,2
+TSG 1899 Hoffenheim,Goalkeeper,O. Baumann,83,G. Kobel,66,17
+TSG 1899 Hoffenheim,Defender,K. Vogt,81,P. Kadeřábek,80,1
+TSG 1899 Hoffenheim,Midfielder,A. Kramarić,82,K. Demirbay,80,2
+TSG 1899 Hoffenheim,Attacker,I. Belfodil,76,A. Szalai,76,0
+Shanghai SIPG FC,Goalkeeper,Yan Junling,73,Sun Le,57,16
+Shanghai SIPG FC,Defender,Wang Shenchao,68,Yu Hai,68,0
+Shanghai SIPG FC,Midfielder,Oscar,83,Hulk,81,2
+Shanghai SIPG FC,Attacker,Elkeson,79,Wu Lei,76,3
+OGC Nice,Goalkeeper,W. Benítez,77,Y. Cardinale,75,2
+OGC Nice,Defender,Dante,80,C. Hérelle,76,4
+OGC Nice,Midfielder,P. Lees-Melou,78,W. Cyprien,77,1
+OGC Nice,Attacker,M. Balotelli,83,A. Saint-Maximin,79,4
+Al Nassr,Goalkeeper,B. Jones,75,W. Abdullah,63,12
+Al Nassr,Defender,Bruno Uvini,72,O. Hawsawi,71,1
+Al Nassr,Midfielder,Giuliano,83,A. Musa,75,8
+Al Nassr,Attacker,A. Hamdallah,74,M. Al Sahlawi,69,5
+Wolverhampton Wanderers,Goalkeeper,Rui Patrício,83,J. Ruddy,72,11
+Wolverhampton Wanderers,Defender,Jonny,79,L. Dendoncker,78,1
+Wolverhampton Wanderers,Midfielder,João Moutinho,81,Rúben Neves,80,1
+Wolverhampton Wanderers,Attacker,Diogo Jota,78,R. Jiménez,78,0
+Borussia Mönchengladbach,Goalkeeper,Y. Sommer,83,T. Sippel,74,9
+Borussia Mönchengladbach,Defender,M. Ginter,80,N. Elvedi,77,3
+Borussia Mönchengladbach,Midfielder,C. Kramer,81,J. Hofmann,79,2
+Borussia Mönchengladbach,Attacker,A. Plea,81,T. Hazard,81,0
+Hertha BSC,Goalkeeper,R. Jarstein,83,T. Kraft,76,7
+Hertha BSC,Defender,K. Rekik,79,N. Stark,78,1
+Hertha BSC,Midfielder,S. Kalou,79,V. Darida,78,1
+Hertha BSC,Attacker,V. Ibišević,77,D. Selke,77,0
+SV Werder Bremen,Goalkeeper,J. Pavlenka,82,J. Drobný,73,9
+SV Werder Bremen,Defender,L. Augustinsson,77,S. Langkamp,76,1
+SV Werder Bremen,Midfielder,D. Klaassen,79,N. Şahin,79,0
+SV Werder Bremen,Attacker,M. Kruse,82,M. Harnik,77,5
+Cruzeiro,Goalkeeper,Simão Donatinho,75,Nathael Silbeira,71,4
+Cruzeiro,Defender,Juiano Mestres,82,Welington Dano,80,2
+Cruzeiro,Midfielder,Jessé Ledeiro,72,Mauro Riboas,72,0
+Cruzeiro,Attacker,Dênildo Stein,76,Sevinho Santos,70,6
+Athletic Club de Bilbao,Goalkeeper,Álex Remiro,77,Unai Simón,72,5
+Athletic Club de Bilbao,Defender,Iñigo Martínez,79,De Marcos,79,0
+Athletic Club de Bilbao,Midfielder,Dani García,82,Muniain,80,2
+Athletic Club de Bilbao,Attacker,Aduriz,82,Williams,81,1
+Torino,Goalkeeper,S. Sirigu,82,A. Rosati,69,13
+Torino,Defender,N. Nkoulou,80,A. Izzo,76,4
+Torino,Midfielder,D. Baselli,79,C. Ansaldi,78,1
+Torino,Attacker,A. Belotti,82,S. Zaza,81,1
+Medipol Başakşehir FK,Goalkeeper,V. Babacan,77,M. Günok,72,5
+Medipol Başakşehir FK,Defender,Júnior Caiçara,76,G. Clichy,76,0
+Medipol Başakşehir FK,Midfielder,E. Višća,82,E. Belözoğlu,79,3
+Medipol Başakşehir FK,Attacker,E. Adebayor,79,R. Bajić,71,8
+Beijing Sinobo Guoan FC,Goalkeeper,Yang Zhi,65,Chi Wenyi,63,2
+Beijing Sinobo Guoan FC,Defender,Yu Yang,68,Yu Dabao,67,1
+Beijing Sinobo Guoan FC,Midfielder,Renato Augusto,81,Wei Shihao,70,11
+Beijing Sinobo Guoan FC,Attacker,C. Bakambu,82,Jonathan Viera,82,0
+Crystal Palace,Goalkeeper,Guaita,80,W. Hennessey,75,5
+Crystal Palace,Defender,M. Sakho,79,J. Tomkins,78,1
+Crystal Palace,Midfielder,M. Meyer,79,L. Milivojević,79,0
+Crystal Palace,Attacker,W. Zaha,82,C. Benteke,76,6
+PFC CSKA Moscow,Goalkeeper,I. Akinfeev,80,I. Pomazun,63,17
+PFC CSKA Moscow,Defender,Mário Fernandes,82,V. Vasin,77,5
+PFC CSKA Moscow,Midfielder,N. Vlašić,75,K. Nababkin,73,2
+PFC CSKA Moscow,Attacker,A. Hernández,75,F. Chalov,71,4
+VfL Wolfsburg,Goalkeeper,K. Casteels,82,P. Pervan,66,16
+VfL Wolfsburg,Defender,J. Brooks,79,J. Roussillon,79,0
+VfL Wolfsburg,Midfielder,Camacho,80,J. Guilavogui,79,1
+VfL Wolfsburg,Attacker,W. Weghorst,78,D. Ginczek,77,1
+Shakhtar Donetsk,Goalkeeper,A. Pyatov,77,O. Shevchenko,70,7
+Shakhtar Donetsk,Defender,Ismaily,80,Y. Rakitskyi,80,0
+Shakhtar Donetsk,Midfielder,Taison,82,Marlos,82,0
+Shakhtar Donetsk,Attacker,Júnior Moraes,76,O. Kayode,74,2
+Toronto FC,Goalkeeper,A. Bono,68,C. Irwin,65,3
+Toronto FC,Defender,G. van der Wiel,73,C. Mavinga,72,1
+Toronto FC,Midfielder,Víctor Vázquez,76,M. Bradley,76,0
+Toronto FC,Attacker,S. Giovinco,82,J. Altidore,76,6
+Lokomotiv Moscow,Goalkeeper,Guilherme,78,A. Kochenkov,68,10
+Lokomotiv Moscow,Defender,V. Ćorluka,82,B. Höwedes,81,1
+Lokomotiv Moscow,Midfielder,Manuel Fernandes,81,J. Farfán,79,2
+Lokomotiv Moscow,Attacker,F. Smolov,81,Éder,75,6
+Sassuolo,Goalkeeper,A. Consigli,82,G. Pegolo,71,11
+Sassuolo,Defender,G. Ferrari,75,M. Lemos,75,0
+Sassuolo,Midfielder,K. Boateng,81,M. Locatelli,75,6
+Sassuolo,Attacker,D. Berardi,78,F. Di Francesco,76,2
+New York City FC,Goalkeeper,S. Johnson,70,B. Stuver,64,6
+New York City FC,Defender,R. Matarrita,71,A. Callens,71,0
+New York City FC,Midfielder,M. Moralez,76,A. Ring,75,1
+New York City FC,Attacker,David Villa,82,I. Tajouri-Shradi,71,11
+Fluminense,Goalkeeper,Kaíquão Castro,75,Wiliam Santinho,71,4
+Fluminense,Defender,Andeson Trigo,76,Kaimo Lima,75,1
+Fluminense,Midfielder,Laure Santeiro,81,Everton Andrão,80,1
+Fluminense,Attacker,Nicholas Aldair,75,Adão Morrinhos,68,7
+PSV,Goalkeeper,J. Zoet,80,E. Room,74,6
+PSV,Defender,D. Schwaab,77,Angeliño,77,0
+PSV,Midfielder,G. Pereiro,77,J. Hendrix,77,0
+PSV,Attacker,H. Lozano,81,L. de Jong,80,1
+Levante UD,Goalkeeper,Oier,75,Aitor,72,3
+Levante UD,Defender,E. Cabaco,75,Postigo,75,0
+Levante UD,Midfielder,Campaña,79,E. Bardhi,77,2
+Levante UD,Attacker,Morales,81,Roger,79,2
+Fulham,Goalkeeper,Sergio Rico,79,Fabricio,79,0
+Fulham,Defender,A. Mawson,75,T. Fosu-Mensah,74,1
+Fulham,Midfielder,A. Schürrle,77,R. Sessegnon,75,2
+Fulham,Attacker,A. Mitrović,77,L. Vietto,76,1
+Watford,Goalkeeper,Gomes,77,P. Dahlberg,67,10
+Watford,Defender,J. Holebas,78,D. Janmaat,77,1
+Watford,Midfielder,R. Pereyra,80,W. Hughes,77,3
+Watford,Attacker,Deulofeu,80,A. Gray,76,4
+Atlanta United,Goalkeeper,B. Guzan,73,A. Kann,66,7
+Atlanta United,Defender,L. González Pirez,75,G. Garza,70,5
+Atlanta United,Midfielder,M. Almirón,80,H. Villalba,75,5
+Atlanta United,Attacker,J. Martínez,81,R. Williams,64,17
+Montpellier HSC,Goalkeeper,B. Lecomte,81,J. Ligali,67,14
+Montpellier HSC,Defender,Pedro Mendes,78,Hilton,78,0
+Montpellier HSC,Midfielder,E. Skhiri,77,F. Mollet,76,1
+Montpellier HSC,Attacker,G. Laborde,76,A. Delort,76,0
+Galatasaray SK,Goalkeeper,F. Muslera,81,I. Çipe,64,17
+Galatasaray SK,Defender,Maicon,80,Mariano,79,1
+Galatasaray SK,Midfielder,Y. Belhanda,79,S. Feghouli,79,0
+Galatasaray SK,Attacker,H. Onyekuru,76,E. Derdiyok,73,3
+Fenerbahçe SK,Goalkeeper,H. Tekin,76,C. Kameni,75,1
+Fenerbahçe SK,Defender,M. Škrtel,80,D. Reyes,76,4
+Fenerbahçe SK,Midfielder,M. Valbuena,81,A. Ayew,77,4
+Fenerbahçe SK,Attacker,Soldado,76,I. Slimani,76,0
+SD Eibar,Goalkeeper,M. Dmitrović,79,Riesgo,73,6
+SD Eibar,Defender,Arbilla,78,Iván Ramis,77,1
+SD Eibar,Midfielder,Pedro León,81,Joan Jordán,78,3
+SD Eibar,Attacker,Sergi Enrich,80,Kike García,79,1
+Los Angeles FC,Goalkeeper,T. Miller,67,L. López,64,3
+Los Angeles FC,Defender,W. Zimmerman,72,Danilo Silva,71,1
+Los Angeles FC,Midfielder,B. Feilhaber,75,L. Nguyen,75,0
+Los Angeles FC,Attacker,C. Vela,81,D. Rossi,72,9
+Sampdoria,Goalkeeper,Rafael,74,E. Audero,73,1
+Sampdoria,Defender,L. Tonelli,77,O. Colley,76,1
+Sampdoria,Midfielder,G. Ramírez,79,R. Saponara,78,1
+Sampdoria,Attacker,F. Quagliarella,81,G. Defrel,78,3
+Al Hilal,Goalkeeper,A. Al Habsi,72,A. Al Mayoof,66,6
+Al Hilal,Defender,Botía,73,Y. Al Shahrani,72,1
+Al Hilal,Midfielder,A. Carrillo,78,Carlos Eduardo,77,1
+Al Hilal,Attacker,B. Gomis,81,O. Kharbin,75,6
+VfB Stuttgart,Goalkeeper,R. Zieler,79,J. Grahl,69,10
+VfB Stuttgart,Defender,B. Pavard,80,Pablo Maffeo,78,2
+VfB Stuttgart,Midfielder,D. Didavi,80,S. Ascacíbar,78,2
+VfB Stuttgart,Attacker,M. Gómez,80,C. Akolo,73,7
+SC Braga,Goalkeeper,Matheus,78,Marafona,75,3
+SC Braga,Defender,Raúl,80,Marcelo Goiano,78,2
+SC Braga,Midfielder,Ricardo Horta,79,João Novais,78,1
+SC Braga,Attacker,Dyego Sousa,78,Wilson Eduardo,77,1
+River Plate,Goalkeeper,F. Armani,80,G. Lux,71,9
+River Plate,Defender,J. Pinola,77,J. Maidana,77,0
+River Plate,Midfielder,G. Martínez,78,J. Quintero,78,0
+River Plate,Attacker,L. Pratto,78,R. Borré,75,3
+Deportivo Alavés,Goalkeeper,Pacheco,80,Sivera,71,9
+Deportivo Alavés,Defender,Laguardia,77,Rubén Duarte,76,1
+Deportivo Alavés,Midfielder,Ibai Gómez,79,Manu García,78,1
+Deportivo Alavés,Attacker,J. Guidetti,78,J. Calleri,77,1
+Free Agent,Goalkeeper,A. Lunev,79,J. Villar,77,2
+Free Agent,Defender,A. Granqvist,80,I. Smolnikov,79,1
+Free Agent,Midfielder,L. Paredes,80,D. Kuzyaev,77,3
+Free Agent,Attacker,A. Dzyuba,78,G. Sio,77,1
+Eintracht Frankfurt,Goalkeeper,K. Trapp,80,F. Rønnow,75,5
+Eintracht Frankfurt,Defender,D. Abraham,79,T. Chandler,77,2
+Eintracht Frankfurt,Midfielder,A. Rebić,79,N. Müller,77,2
+Eintracht Frankfurt,Attacker,S. Haller,80,L. Jović,78,2
+Girona FC,Goalkeeper,Y. Bounou,77,Iraizoz,75,2
+Girona FC,Defender,Granell,79,J. Mojica,78,1
+Girona FC,Midfielder,Portu,80,Borja García,79,1
+Girona FC,Attacker,C. Stuani,80,S. Doumbia,76,4
+Guangzhou R&F; FC,Goalkeeper,Cheng Yuelei,68,Han Feng,58,10
+Guangzhou R&F; FC,Defender,D. Tošić,74,Tang Miao,69,5
+Guangzhou R&F; FC,Midfielder,Júnior Urso,75,Renatinho,74,1
+Guangzhou R&F; FC,Attacker,E. Zahavi,80,Xiao Zhi,67,13
+Burnley,Goalkeeper,N. Pope,80,T. Heaton,79,1
+Burnley,Defender,J. Tarkowski,80,B. Mee,79,1
+Burnley,Midfielder,S. Defour,80,J. Guðmundsson,79,1
+Burnley,Attacker,C. Wood,77,A. Barnes,76,1
+Stoke City,Goalkeeper,J. Butland,80,A. Federici,72,8
+Stoke City,Defender,M. Bauer,74,R. Shawcross,74,0
+Stoke City,Midfielder,Bojan,75,I. Afellay,74,1
+Stoke City,Attacker,M. Diouf,74,T. Ince,73,1
+Southampton,Goalkeeper,A. McCarthy,77,F. Forster,76,1
+Southampton,Defender,J. Vestergaard,80,R. Bertrand,79,1
+Southampton,Midfielder,M. Elyounoussi,79,M. Lemina,78,1
+Southampton,Attacker,M. Gabbiadini,77,C. Austin,77,0
+Tianjin Quanjian FC,Goalkeeper,Zhang Lu,66,Yang Jun,60,6
+Tianjin Quanjian FC,Defender,Kwon Kyung Won,67,Mi Haolun,64,3
+Tianjin Quanjian FC,Midfielder,Sun Ke,68,Wang Yongpo,66,2
+Tianjin Quanjian FC,Attacker,Alexandre Pato,80,Wang Xiaolong,65,15
+Getafe CF,Goalkeeper,David Soria,78,L. Chichizola,77,1
+Getafe CF,Defender,Antunes,80,D. Djené,78,2
+Getafe CF,Midfielder,Markel Bergara,77,G. Shibasaki,77,0
+Getafe CF,Attacker,Ángel,79,Jorge Molina,77,2
+Beijing Renhe FC,Goalkeeper,Zhang Lie,65,Li Chen,55,10
+Beijing Renhe FC,Defender,Wang Gang,65,Liu Jian,64,1
+Beijing Renhe FC,Midfielder,B. Moukandjo,77,A. Masika,67,10
+Beijing Renhe FC,Attacker,M. Diop,74,Han Peng,65,9
+Montreal Impact,Goalkeeper,E. Bush,70,C. Diop,63,7
+Montreal Impact,Defender,R. Fanni,74,B. Sagna,74,0
+Montreal Impact,Midfielder,S. Taïder,76,S. Piette,71,5
+Montreal Impact,Attacker,I. Piatti,80,A. Silva,75,5
+Chievo Verona,Goalkeeper,S. Sorrentino,80,A. Seculin,70,10
+Chievo Verona,Defender,L. Rossettini,76,N. Tomović,75,1
+Chievo Verona,Midfielder,V. Birsa,80,P. Hetemaj,77,3
+Chievo Verona,Attacker,E. Giaccherini,77,R. Meggiorini,74,3
+Genoa,Goalkeeper,F. Marchetti,77,I. Radu,69,8
+Genoa,Defender,D. Criscito,80,L. López,77,3
+Genoa,Midfielder,Iuri Medeiros,76,Rômulo,76,0
+Genoa,Attacker,G. Lapadula,76,K. Piątek,74,2
+Portland Timbers,Goalkeeper,J. Attinella,67,J. Gleeson,65,2
+Portland Timbers,Defender,L. Mabiala,72,L. Ridgewell,69,3
+Portland Timbers,Midfielder,D. Chará,74,D. Guzman,72,2
+Portland Timbers,Attacker,D. Valeri,80,S. Blanco,76,4
+Tigres U.A.N.L.,Goalkeeper,N. Guzmán,77,M. Ortega,61,16
+Tigres U.A.N.L.,Defender,H. Ayala,75,J. Dueñas,74,1
+Tigres U.A.N.L.,Midfielder,J. Aquino,77,E. Vargas,76,1
+Tigres U.A.N.L.,Attacker,A. Gignac,80,E. Valencia,76,4
+RCD Espanyol,Goalkeeper,Diego López,80,Roberto,77,3
+RCD Espanyol,Defender,David López,79,Mario Hermoso,76,3
+RCD Espanyol,Midfielder,Sergi Darder,79,Granero,78,1
+RCD Espanyol,Attacker,Leo Baptistao,78,Sergio García,77,1
+Hebei China Fortune FC,Goalkeeper,Yang Cheng,66,Ou Ya,59,7
+Hebei China Fortune FC,Defender,Jiang Zhipeng,68,Ren Hang,67,1
+Hebei China Fortune FC,Midfielder,E. Lavezzi,79,Zhang Chengdong,69,10
+Hebei China Fortune FC,Attacker,A. El Kaabi,67,Dong Xuesheng,66,1
+Cagliari,Goalkeeper,A. Cragno,78,Rafael,75,3
+Cagliari,Defender,D. Srna,80,R. Klavan,77,3
+Cagliari,Midfielder,L. Castro,78,N. Barella,77,1
+Cagliari,Attacker,L. Pavoletti,78,João Pedro,76,2
+Chicago Fire,Goalkeeper,R. Sánchez,63,S. Cleveland,62,1
+Chicago Fire,Defender,B. Schweinsteiger,80,J. Kappelhof,69,11
+Chicago Fire,Midfielder,A. Katai,74,M. de Leeuw,67,7
+Chicago Fire,Attacker,N. Nikolić,75,Y. Movsisyan,69,6
+DC United,Goalkeeper,B. Hamid,73,D. Ousted,70,3
+DC United,Defender,S. Birnbaum,70,K. Opare,68,2
+DC United,Midfielder,L. Acosta,77,Y. Asad,73,4
+DC United,Attacker,W. Rooney,80,D. Mattocks,68,12
+Sagan Tosu,Goalkeeper,S. Gonda,68,Y. Takaoka,59,9
+Sagan Tosu,Defender,Y. Yoshida,68,Kim Min Hyeok,68,0
+Sagan Tosu,Midfielder,Y. Ono,68,H. Kawano,66,2
+Sagan Tosu,Attacker,Fernando Torres,80,M. Kanazaki,73,7
+Dynamo Kyiv,Goalkeeper,D. Boyko,76,A. Rudko,70,6
+Dynamo Kyiv,Defender,T. Kádár,75,M. Morozyuk,75,0
+Dynamo Kyiv,Midfielder,V. Tsygankov,79,B. Verbič,79,0
+Dynamo Kyiv,Attacker,A. Besedin,74,M. Duelund,70,4
+Santos,Goalkeeper,Pierrino Faria,73,Ailton Cardenhas,69,4
+Santos,Defender,Vieirundinho,77,Joshuando Sá,72,5
+Santos,Midfielder,Adilson Edrada,75,Leordinho Paes,72,3
+Santos,Attacker,Luimo Boas Santos,79,Arthur Silbeira,68,11
+Internacional,Goalkeeper,Gabri Prestão,79,Jairo Farnias,70,9
+Internacional,Defender,Antônio Chiamuloira,79,Gazzolisco,77,2
+Internacional,Midfielder,Sidney Pessinho,78,Claudio Coíntra,78,0
+Internacional,Attacker,Hélton Celanova,74,Gus Outomouro,73,1
+América FC (Minas Gerais),Goalkeeper,Jaim Abra,73,Mateus Tangil,67,6
+América FC (Minas Gerais),Defender,Osvaldo Lodeiro,74,Douglas Armeira,73,1
+América FC (Minas Gerais),Midfielder,Melvin Parrela,79,Ailton Guevara,75,4
+América FC (Minas Gerais),Attacker,Thiago Alminxa,72,Túlio Sandoiro,71,1
+Independiente,Goalkeeper,M. Campaña,79,G. Rehak,65,14
+Independiente,Defender,F. Bustos,76,A. Franco,75,1
+Independiente,Midfielder,M. Meza,78,P. Hernández,78,0
+Independiente,Attacker,E. Gigliotti,77,L. Fernández,74,3
+Boca Juniors,Goalkeeper,E. Andrada,75,A. Rossi,74,1
+Boca Juniors,Defender,C. Izquierdoz,78,F. Fabra,77,1
+Boca Juniors,Midfielder,W. Barrios,78,C. Tévez,78,0
+Boca Juniors,Attacker,C. Pavón,79,D. Benedetto,79,0
+Cruz Azul,Goalkeeper,J. Corona,75,G. Allison,65,10
+Cruz Azul,Defender,P. Aguilar,76,J. Madueña,70,6
+Cruz Azul,Midfielder,E. Hernández,78,Edgar Méndez,75,3
+Cruz Azul,Attacker,M. Caraglio,74,A. Mena,72,2
+1. FSV Mainz 05,Goalkeeper,R. Adler,79,J. Huth,69,10
+1. FSV Mainz 05,Defender,Aarón Martín,77,D. Brosinski,76,1
+1. FSV Mainz 05,Midfielder,J. Gbamin,79,D. Latza,77,2
+1. FSV Mainz 05,Attacker,R. Quaison,74,A. Ujah,73,1
+Bournemouth,Goalkeeper,A. Begović,79,A. Boruc,74,5
+Bournemouth,Defender,N. Aké,79,S. Cook,78,1
+Bournemouth,Midfielder,J. Lerma,79,L. Cook,77,2
+Bournemouth,Attacker,C. Wilson,79,J. Defoe,77,2
+Spartak Moscow,Goalkeeper,A. Selikhov,78,A. Rebrov,74,4
+Spartak Moscow,Defender,G. Dzhikiya,77,S. Bocchetti,76,1
+Spartak Moscow,Midfielder,Fernando,78,R. Eremenko,78,0
+Spartak Moscow,Attacker,Zé Luís,79,I. Popov,76,3
+Racing Club,Goalkeeper,G. Arias,73,J. García,70,3
+Racing Club,Defender,A. Donatti,76,L. Orbán,74,2
+Racing Club,Midfielder,R. Centurión,79,M. Díaz,76,3
+Racing Club,Attacker,L. López,79,G. Bou,77,2
+FC Augsburg,Goalkeeper,A. Luthe,73,F. Giefer,70,3
+FC Augsburg,Defender,J. Gouweleeuw,79,P. Max,78,1
+FC Augsburg,Midfielder,M. Gregoritsch,79,D. Baier,79,0
+FC Augsburg,Attacker,J. Schieber,73,Ji Dong Won,71,2
+Fiorentina,Goalkeeper,A. Lafont,78,B. Drągowski,71,7
+Fiorentina,Defender,G. Pezzella,79,Vitor Hugo,76,3
+Fiorentina,Midfielder,J. Veretout,79,M. Benassi,77,2
+Fiorentina,Attacker,F. Chiesa,78,G. Simeone,78,0
+FC Nantes,Goalkeeper,C. Tătăruşanu,79,M. Dupé,69,10
+FC Nantes,Defender,Diego Carlos,78,K. Mbodji,77,1
+FC Nantes,Midfielder,V. Rongier,78,A. Touré,76,2
+FC Nantes,Attacker,E. Sala,78,Gabriel Boschilia,76,2
+Feyenoord,Goalkeeper,K. Vermeer,75,J. Bijlow,72,3
+Feyenoord,Defender,Eric Botteghin,76,S. van Beek,75,1
+Feyenoord,Midfielder,T. Vilhena,77,J. Clasie,76,1
+Feyenoord,Attacker,S. Berghuis,79,N. Jørgensen,77,2
+Club Brugge KV,Goalkeeper,K. Letica,72,E. Horvath,71,1
+Club Brugge KV,Defender,S. Denswil,75,B. Mechele,75,0
+Club Brugge KV,Midfielder,H. Vanaken,79,M. Nakamba,78,1
+Club Brugge KV,Attacker,Wesley,77,J. Vossen,74,3
+Brighton & Hove Albion,Goalkeeper,M. Ryan,79,D. Button,68,11
+Brighton & Hove Albion,Defender,L. Dunk,78,Montoya,77,1
+Brighton & Hove Albion,Midfielder,J. Izquierdo,77,P. Groß,77,0
+Brighton & Hove Albion,Attacker,G. Murray,77,F. Andone,77,0
+Al Ahli,Goalkeeper,M. Al Owais,71,Y. Al Mosailem,68,3
+Al Ahli,Defender,Alexis,74,M. Hawsawi,73,1
+Al Ahli,Midfielder,Souza,79,Jurado,78,1
+Al Ahli,Attacker,O. Al Soma,78,Djaniny,77,1
+Jiangsu Suning FC,Goalkeeper,Gu Chao,66,Li Haitao,57,9
+Jiangsu Suning FC,Defender,G. Paletta,77,Ji Xiang,67,10
+Jiangsu Suning FC,Midfielder,Wu Xi,69,Wang Song,63,6
+Jiangsu Suning FC,Attacker,Alex Teixeira,79,Eder,79,0
+SC Freiburg,Goalkeeper,A. Schwolow,77,M. Flekken,72,5
+SC Freiburg,Defender,D. Heintz,77,C. Günter,75,2
+SC Freiburg,Midfielder,J. Gondorf,75,Y. Ravet,75,0
+SC Freiburg,Attacker,N. Petersen,79,F. Niederlechner,75,4
+PAOK,Goalkeeper,A. Paschalakis,75,R. Rey,74,1
+PAOK,Defender,Vieirinha,76,Varela,76,0
+PAOK,Midfielder,P. Wernbloom,79,O. El Kaddouri,76,3
+PAOK,Attacker,A. Prijović,77,N. Karelis,72,5
+Stade Rennais FC,Goalkeeper,T. Koubek,76,A. Diallo,71,5
+Stade Rennais FC,Defender,D. Da Silva,77,Mexer,75,2
+Stade Rennais FC,Midfielder,H. Ben Arfa,79,B. Bourigeaud,77,2
+Stade Rennais FC,Attacker,M. Niang,76,J. Siebatcheu,70,6
+Trabzonspor,Goalkeeper,O. Kıvrak,77,E. Alvarado,67,10
+Trabzonspor,Defender,João Pereira,74,F. Novák,73,1
+Trabzonspor,Midfielder,J. Kucka,77,Y. Yazıcı,76,1
+Trabzonspor,Attacker,B. Yılmaz,79,H. Rodallega,74,5
+SPAL,Goalkeeper,A. Gomis,76,V. Milinković-Savić,71,5
+SPAL,Defender,Felipe,75,J. Djourou,73,2
+SPAL,Midfielder,M. Lazzari,78,F. Viviani,76,2
+SPAL,Attacker,A. Paloschi,76,A. Petagna,76,0
+Portimonense SC,Goalkeeper,Ricardo Ferreira,70,Leonardo,64,6
+Portimonense SC,Defender,Rúben Fernandes,72,Jubal,72,0
+Portimonense SC,Midfielder,Paulinho,75,Pedro Sá,73,2
+Portimonense SC,Attacker,S. Nakajima,78,J. Martínez,77,1
+Olympiacos CFP,Goalkeeper,José Sá,77,A. Gianniotis,74,3
+Olympiacos CFP,Defender,O. Elabdellaoui,75,J. Vuković,75,0
+Olympiacos CFP,Midfielder,Daniel Podence,78,B. Natcho,78,0
+Olympiacos CFP,Attacker,Guerrero,74,A. Hassan,74,0
+Club Atlético Huracán,Goalkeeper,M. Díaz,78,F. Pellegrino,70,8
+Club Atlético Huracán,Defender,S. Salcedo,73,C. Chimino,72,1
+Club Atlético Huracán,Midfielder,A. Roa,75,I. Damonte,72,3
+Club Atlético Huracán,Attacker,A. Chávez,74,L. Gamba,73,1
+Kasimpaşa SK,Goalkeeper,R. Köse,71,E. Birniçan,65,6
+Kasimpaşa SK,Defender,O. Veigneau,73,Josué Sá,72,1
+Kasimpaşa SK,Midfielder,Trezeguet,78,D. Pavelka,72,6
+Kasimpaşa SK,Attacker,M. Diagne,74,B. Koita,71,3
+Newcastle United,Goalkeeper,M. Dúbravka,78,K. Darlow,73,5
+Newcastle United,Defender,J. Lascelles,78,F. Lejeune,78,0
+Newcastle United,Midfielder,J. Shelvey,78,M. Ritchie,77,1
+Newcastle United,Attacker,S. Rondón,77,Ayoze Pérez,76,1
+Frosinone,Goalkeeper,M. Sportiello,78,F. Bardi,74,4
+Frosinone,Defender,E. Goldaniga,74,C. Molinaro,72,2
+Frosinone,Midfielder,L. Crisetig,74,E. Hallfreðsson,72,2
+Frosinone,Attacker,J. Campbell,76,C. Ciano,75,1
+Querétaro,Goalkeeper,Tiago Volpi,78,L. Cárdenas,67,11
+Querétaro,Defender,M. Samudio,71,D. Novaretti,69,2
+Querétaro,Midfielder,E. Puch,74,J. Güemez,72,2
+Querétaro,Attacker,Camilo,74,M. Britos,73,1
+KRC Genk,Goalkeeper,D. Vukovic,73,N. Jackers,66,7
+KRC Genk,Defender,J. Aidoo,74,S. Dewaest,73,1
+KRC Genk,Midfielder,L. Trossard,78,Pozuelo,78,0
+KRC Genk,Attacker,M. Samatta,76,Z. Gano,70,6
+Hannover 96,Goalkeeper,M. Esser,76,P. Tschauner,75,1
+Hannover 96,Defender,W. Anton,77,J. Korb,75,2
+Hannover 96,Midfielder,P. Schwegler,76,I. Bebou,76,0
+Hannover 96,Attacker,N. Füllkrug,78,B. Wood,73,5
+Stade Malherbe Caen,Goalkeeper,E. Zelazny,71,P. Reulet,69,2
+Stade Malherbe Caen,Defender,P. Baysse,76,A. Djiku,76,0
+Stade Malherbe Caen,Midfielder,F. Fajr,78,S. Peeters,73,5
+Stade Malherbe Caen,Attacker,C. Beauvue,75,E. Crivelli,74,1
+Godoy Cruz,Goalkeeper,R. Ramírez,65,A. Mehring,62,3
+Godoy Cruz,Defender,D. Viera,74,L. Abecasis,72,2
+Godoy Cruz,Midfielder,J. Elías,71,J. Andrada,67,4
+Godoy Cruz,Attacker,S. García,78,A. González,72,6
+Toulouse Football Club,Goalkeeper,B. Reynet,78,M. Goicoechea,72,6
+Toulouse Football Club,Defender,K. Amian,75,S. Yago,72,3
+Toulouse Football Club,Midfielder,M. Dossevi,77,J. Durmaz,75,2
+Toulouse Football Club,Attacker,M. Gradel,78,F. Mubele,74,4
+RSC Anderlecht,Goalkeeper,T. Didillon,74,F. Boeckx,71,3
+RSC Anderlecht,Defender,O. Vranješ,74,A. Najar,73,1
+RSC Anderlecht,Midfielder,A. Trebel,78,S. Kums,75,3
+RSC Anderlecht,Attacker,I. Santini,76,L. Dimata,74,2
+Huddersfield Town,Goalkeeper,J. Lössl,76,B. Hamer,67,9
+Huddersfield Town,Defender,T. Kongolo,78,C. Schindler,78,0
+Huddersfield Town,Midfielder,J. Hogg,76,R. Sobhi,74,2
+Huddersfield Town,Attacker,S. Mounié,75,L. Depoitre,75,0
+CD Tondela,Goalkeeper,Cláudio Ramos,78,Pedro Silva,65,13
+CD Tondela,Defender,Ricardo Costa,74,Jorge Fernandes,69,5
+CD Tondela,Midfielder,Xavier,71,J. Murillo,70,1
+CD Tondela,Attacker,C. Arango,69,Tomané,69,0
+Seattle Sounders FC,Goalkeeper,S. Frei,72,B. Meredith,61,11
+Seattle Sounders FC,Defender,C. Marshall,72,R. Torres,71,1
+Seattle Sounders FC,Midfielder,N. Lodeiro,78,G. Svensson,74,4
+Seattle Sounders FC,Attacker,R. Ruidíaz,76,J. Morris,70,6
+Hamburger SV,Goalkeeper,J. Pollersbeck,72,T. Mickel,65,7
+Hamburger SV,Defender,K. Papadopoulos,78,Douglas Santos,76,2
+Hamburger SV,Midfielder,A. Hunt,76,L. Holtby,76,0
+Hamburger SV,Attacker,P. Lasogga,72,Hwang Hee Chan,72,0
+FC Red Bull Salzburg,Goalkeeper,A. Walke,72,C. Stanković,69,3
+FC Red Bull Salzburg,Defender,André Ramalho,75,S. Lainer,74,1
+FC Red Bull Salzburg,Midfielder,Z. Junuzović,78,A. Haidara,75,3
+FC Red Bull Salzburg,Attacker,M. Dabbur,77,T. Minamino,73,4
+Rio Ave FC,Goalkeeper,Léo Jardim,71,G. Makaridze,70,1
+Rio Ave FC,Defender,Afonso Figueiredo,71,Miguel Rodrigues,71,0
+Rio Ave FC,Midfielder,Tarantini,75,Diego Lopes,73,2
+Rio Ave FC,Attacker,Fábio Coentrão,78,Galeno,73,5
+FC Girondins de Bordeaux,Goalkeeper,B. Costil,78,J. Prior,71,7
+FC Girondins de Bordeaux,Defender,Y. Sabaly,77,Pablo,76,1
+FC Girondins de Bordeaux,Midfielder,Otávio,77,Y. Sankharé,76,1
+FC Girondins de Bordeaux,Attacker,F. Kamano,77,J. Briand,76,1
+Melbourne Victory,Goalkeeper,L. Thomas,69,M. Acton,59,10
+Melbourne Victory,Defender,G. Niedermeier,69,T. Deng,67,2
+Melbourne Victory,Midfielder,K. Honda,78,J. Troisi,70,8
+Melbourne Victory,Attacker,O. Toivonen,75,K. Barbarouses,70,5
+Parma,Goalkeeper,L. Sepe,75,P. Frattali,67,8
+Parma,Defender,M. Gazzola,73,Bruno Alves,71,2
+Parma,Midfielder,A. Grassi,75,L. Rigoni,75,0
+Parma,Attacker,Gervinho,78,R. Inglese,77,1
+FC Basel 1893,Goalkeeper,J. Omlin,71,M. Hansen,69,2
+FC Basel 1893,Defender,M. Suchý,77,S. Widmer,76,1
+FC Basel 1893,Midfielder,L. Zuffi,76,Serey Dié,75,1
+FC Basel 1893,Attacker,A. Ajeti,74,D. Oberlin,69,5
+Al Wehda,Goalkeeper,M. Awad,66,A. Al Jadani,61,5
+Al Wehda,Defender,O. Hawsawi,72,Renato Chaves,70,2
+Al Wehda,Midfielder,E. Çolak,77,R. Otero,75,2
+Al Wehda,Attacker,Fernandão,74,A. Abdu Jaber,63,11
+BSC Young Boys,Goalkeeper,D. von Ballmoos,70,M. Wölfli,68,2
+BSC Young Boys,Defender,K. Mbabu,77,S. von Bergen,73,4
+BSC Young Boys,Midfielder,S. Sanogo,76,C. Fassnacht,72,4
+BSC Young Boys,Attacker,G. Hoarau,77,R. Assalé,73,4
+KAA Gent,Goalkeeper,L. Kalinić,76,C. Coosemans,70,6
+KAA Gent,Defender,A. Souquet,76,D. Bronn,73,3
+KAA Gent,Midfielder,V. Odjidja-Ofoe,77,B. Verstraete,75,2
+KAA Gent,Attacker,G. Kvilitaia,71,R. Yaremchuk,71,0
+Al Ittihad,Goalkeeper,F. Al Qarni,68,A. Al Qarni,67,1
+Al Ittihad,Defender,Thiago Carleto,70,M. Jurman,70,0
+Al Ittihad,Midfielder,C. Villanueva,77,Valdivia,73,4
+Al Ittihad,Attacker,Romarinho,72,A. Pešić,70,2
+Standard de Liège,Goalkeeper,G. Ochoa,77,J. Gillet,70,7
+Standard de Liège,Defender,C. Luyindama,75,K. Laifis,74,1
+Standard de Liège,Midfielder,M. Carcela-González,77,R. Marin,76,1
+Standard de Liège,Attacker,Orlando Sá,73,R. Emond,73,0
+Shanghai Greenland Shenhua FC,Goalkeeper,Li Shuai,63,Qiu Shengjiong,57,6
+Shanghai Greenland Shenhua FC,Defender,Bai Jiajun,68,Rong Hao,64,4
+Shanghai Greenland Shenhua FC,Midfielder,G. Moreno,77,O. Romero,76,1
+Shanghai Greenland Shenhua FC,Attacker,D. Ba,75,Mao Jianqing,65,10
+Colo-Colo,Goalkeeper,B. Cortés,71,A. Orión,70,1
+Colo-Colo,Defender,M. Zaldivia,74,D. Pérez,73,1
+Colo-Colo,Midfielder,J. Valdivia,77,E. Pavez,73,4
+Colo-Colo,Attacker,E. Paredes,75,N. Maturana,68,7
+Junior FC,Goalkeeper,S. Viera,72,J. Chunga,69,3
+Junior FC,Defender,R. Pérez,73,M. Piedrahita,72,1
+Junior FC,Midfielder,J. Barrera,74,F. Sambueza,73,1
+Junior FC,Attacker,T. Gutiérrez,77,L. Ruiz,68,9
+West Bromwich Albion,Goalkeeper,S. Johnstone,75,B. Myhill,70,5
+West Bromwich Albion,Defender,K. Gibbs,76,A. Hegazi,76,0
+West Bromwich Albion,Midfielder,M. Phillips,76,J. Livermore,74,2
+West Bromwich Albion,Attacker,J. Rodriguez,77,D. Gayle,75,2
+RC Strasbourg Alsace,Goalkeeper,M. Sels,76,E. Kawashima,71,5
+RC Strasbourg Alsace,Defender,K. Lala,77,S. Mitrović,75,2
+RC Strasbourg Alsace,Midfielder,J. Martin,76,D. Liénard,75,1
+RC Strasbourg Alsace,Attacker,L. Mothiba,72,Nuno da Costa,72,0
+Göztepe SK,Goalkeeper,Beto,76,G. Bakırbaş,60,16
+Göztepe SK,Defender,Titi,75,A. Traoré,73,2
+Göztepe SK,Midfielder,Castro,74,Y. Öztekin,73,1
+Göztepe SK,Attacker,N. Ghilas,71,C. Jerome,71,0
+Deportivo Cali,Goalkeeper,C. Vargas,75,P. Mina,68,7
+Deportivo Cali,Defender,D. Rosero Valencia,71,D. Andrade,71,0
+Deportivo Cali,Midfielder,M. Torres,76,M. Cabrera,74,2
+Deportivo Cali,Attacker,J. Sand,77,M. Murillo,69,8
+Deportivo Toluca,Goalkeeper,A. Talavera,75,L. García,70,5
+Deportivo Toluca,Defender,S. García,76,F. Tobio,73,3
+Deportivo Toluca,Midfielder,R. Sambueza,77,L. Quiñones,75,2
+Deportivo Toluca,Attacker,P. Barrientos,74,A. Canelo,70,4
+Bologna,Goalkeeper,L. Skorupski,76,Da Costa,74,2
+Bologna,Defender,S. De Maio,77,Danilo,77,0
+Bologna,Midfielder,A. Poli,77,E. Pulgar,77,0
+Bologna,Attacker,R. Palacio,77,M. Destro,76,1
+Nagoya Grampus,Goalkeeper,M. Langerak,73,S. Narazaki,65,8
+Nagoya Grampus,Defender,Willian Rocha,69,S. Nakatani,68,1
+Nagoya Grampus,Midfielder,Eduardo Neto,68,Y. Kobayashi,64,4
+Nagoya Grampus,Attacker,Jô,77,Gabriel Xavier,70,7
+Amiens SC,Goalkeeper,R. Gurtner,77,M. Dreyer,67,10
+Amiens SC,Defender,P. Gouano,75,E. Krafth,74,1
+Amiens SC,Midfielder,Ganso,76,B. Zungu,75,1
+Amiens SC,Attacker,M. Konaté,76,B. Koïta,67,9
+Changchun Yatai FC,Goalkeeper,Wu Yake,65,Yi Fan,61,4
+Changchun Yatai FC,Defender,N. Pejčinović,77,Yu Rui,67,10
+Changchun Yatai FC,Midfielder,A. Mierzejewski,75,Tan Long,68,7
+Changchun Yatai FC,Attacker,O. Ighalo,77,L. Vibe,71,6
+Club Atlético Lanús,Goalkeeper,G. Sara,72,M. Ibáñez,67,5
+Club Atlético Lanús,Defender,J. Gómez,73,M. Torsiglieri,72,1
+Club Atlético Lanús,Midfielder,F. Quignon,72,F. Barrientos,71,1
+Club Atlético Lanús,Attacker,L. Acosta,77,S. Ribas,73,4
+Botafogo,Goalkeeper,Nelsildo Reis,76,Eduardo Fonseira,71,5
+Botafogo,Defender,Lafortiscinho,75,Jailson Caeiro,74,1
+Botafogo,Midfielder,Allan Bardinho,75,Adrián Burnabão,72,3
+Botafogo,Attacker,Formosandrinho,77,Rômulão Selva,69,8
+Club América,Goalkeeper,A. Marchesín,77,O. Jiménez,71,6
+Club América,Defender,P. Aguilar,74,B. Valdez,74,0
+Club América,Midfielder,M. Uribe,76,A. Ibargüen,75,1
+Club América,Attacker,O. Peralta,75,R. Martínez,75,0
+Udinese,Goalkeeper,J. Musso,74,S. Scuffet,72,2
+Udinese,Defender,B. Nuytinck,74,Samir,73,1
+Udinese,Midfielder,A. Barák,77,V. Behrami,76,1
+Udinese,Attacker,R. De Paul,77,K. Lasagna,77,0
+Real Valladolid CF,Goalkeeper,Jordi Masip,77,Yoel,76,1
+Real Valladolid CF,Defender,Nacho,74,Calero,73,1
+Real Valladolid CF,Midfielder,Ivi,75,Keko,75,0
+Real Valladolid CF,Attacker,E. Ünal,77,Toni Villa,73,4
+CD Leganés,Goalkeeper,Iván Cuéllar,76,A. Lunin,76,0
+CD Leganés,Defender,Bustinza,75,J. Silva,74,1
+CD Leganés,Midfielder,A. Szymanowski,77,Eraso,76,1
+CD Leganés,Attacker,G. Carrillo,75,D. Rolán,75,0
+Club Atlético Banfield,Goalkeeper,I. Arboleda,73,F. Altamirano,67,6
+Club Atlético Banfield,Defender,R. Civelli,77,J. Rodríguez,70,7
+Club Atlético Banfield,Midfielder,N. Silva,74,N. Bertolo,72,2
+Club Atlético Banfield,Attacker,D. Cvitanich,77,M. Torres,66,11
+Celtic,Goalkeeper,C. Gordon,74,S. Bain,68,6
+Celtic,Defender,F. Benković,76,K. Tierney,76,0
+Celtic,Midfielder,S. Brown,77,T. Rogić,76,1
+Celtic,Attacker,L. Griffiths,74,O. Edouard,73,1
+Vitória Guimarães,Goalkeeper,Douglas,77,Miguel Silva,75,2
+Vitória Guimarães,Defender,Pedro Henrique,76,F. Hanin,75,1
+Vitória Guimarães,Midfielder,André André,77,Tozé,76,1
+Vitória Guimarães,Attacker,Welthon,74,J. Tallo,72,2
+FC København,Goalkeeper,J. Joronen,69,S. Andersen,68,1
+FC København,Defender,A. Bjelland,74,N. Boilesen,72,2
+FC København,Midfielder,V. Fischer,77,R. Falk,75,2
+FC København,Attacker,D. N'Doye,74,P. Sotiriou,69,5
+UD Las Palmas,Goalkeeper,Raúl Fernández,74,Nauzet,71,3
+UD Las Palmas,Defender,Juan Cala,74,De la Bella,74,0
+UD Las Palmas,Midfielder,Timor,75,Tana,74,1
+UD Las Palmas,Attacker,Rubén Castro,77,S. Araujo,73,4
+Deportivo de La Coruña,Goalkeeper,Dani Giménez,72,Adrián Ortolá,69,3
+Deportivo de La Coruña,Defender,Bóveda,73,David Simón,72,1
+Deportivo de La Coruña,Midfielder,F. Cartabia,77,Vicente Gómez,76,1
+Deportivo de La Coruña,Attacker,Borja Valle,75,C. Santos,73,2
+Universidad Católica,Goalkeeper,M. Dituro,73,M. Vargas,60,13
+Universidad Católica,Defender,G. Lanaro,72,B. Kuscevic,71,1
+Universidad Católica,Midfielder,D. Buonanotte,77,L. Aued,72,5
+Universidad Católica,Attacker,J. Fuenzalida,74,S. Sáez,72,2
+San Lorenzo de Almagro,Goalkeeper,N. Navarro,73,S. Torrico,71,2
+San Lorenzo de Almagro,Defender,G. Rodríguez,75,F. Coloccini,72,3
+San Lorenzo de Almagro,Midfielder,F. Belluschi,77,R. Botta,75,2
+San Lorenzo de Almagro,Attacker,N. Blandi,76,N. Reniero,69,7
+Rayo Vallecano,Goalkeeper,Alberto,74,S. Dimitrievski,71,3
+Rayo Vallecano,Defender,Jordi Amat,76,Gálvez,75,1
+Rayo Vallecano,Midfielder,O. Trejo,77,Embarba,76,1
+Rayo Vallecano,Attacker,De Tomás,76,Alex Alegría,71,5
+Monterrey,Goalkeeper,J. Carrizo,72,E. Reséndez,66,6
+Monterrey,Defender,L. Vangioni,75,N. Sánchez,74,1
+Monterrey,Midfielder,C. Ortíz,77,R. Pizarro,76,1
+Monterrey,Attacker,R. Funes Mori,77,D. Pabón,76,1
+Columbus Crew SC,Goalkeeper,Z. Steffen,75,J. Kempin,65,10
+Columbus Crew SC,Defender,H. Afful,73,M. Valenzuela,71,2
+Columbus Crew SC,Midfielder,F. Higuaín,77,Pedro Santos,74,3
+Columbus Crew SC,Attacker,G. Zardes,73,P. Mullins,67,6
+MKE Ankaragücü,Goalkeeper,J. Hopf,76,K. Çelikay,68,8
+MKE Ankaragücü,Defender,B. Koné,76,Tiago Pinto,75,1
+MKE Ankaragücü,Midfielder,T. Bifouma,75,Y. Mokhtar,73,2
+MKE Ankaragücü,Attacker,A. Cerci,74,K. Kanatsızkuş,70,4
+Guizhou Hengfeng FC,Goalkeeper,Su Boyang,72,Wang Zhuo,66,6
+Guizhou Hengfeng FC,Defender,K. Boli,71,Tang Xin,66,5
+Guizhou Hengfeng FC,Midfielder,Mario Suárez,76,Ilhamjan Iminjan,67,9
+Guizhou Hengfeng FC,Attacker,B. Trawally,72,N. Jelavić,72,0
+Swansea City,Goalkeeper,E. Mulder,72,K. Nordfeldt,72,0
+Swansea City,Defender,M. van der Hoorn,73,K. Naughton,73,0
+Swansea City,Midfielder,J. Montero,76,L. Fer,74,2
+Swansea City,Attacker,W. Bony,76,L. Narsingh,74,2
+Tianjin TEDA FC,Goalkeeper,Du Jia,62,Yang Qipeng,60,2
+Tianjin TEDA FC,Defender,F. Bastians,74,Zhao Honglue,64,10
+Tianjin TEDA FC,Midfielder,M. Mirahmetjan,64,Zhang Chiming,62,2
+Tianjin TEDA FC,Attacker,F. Acheampong,76,Hui Jiakang,64,12
+Chongqing Dangdai Lifan FC SWM Team,Goalkeeper,Deng Xiaofei,67,Sui Weijie,62,5
+Chongqing Dangdai Lifan FC SWM Team,Defender,Sui Donglu,65,Chen Lei,63,2
+Chongqing Dangdai Lifan FC SWM Team,Midfielder,Fernandinho,75,Fernandinho,72,3
+Chongqing Dangdai Lifan FC SWM Team,Attacker,Alan Kardec,76,Sebá,72,4
+AEK Athens,Goalkeeper,V. Barkas,74,P. Tsintotas,69,5
+AEK Athens,Defender,D. Chygrynskyi,76,N. Hult,74,2
+AEK Athens,Midfielder,M. Livaja,76,André Simões,76,0
+AEK Athens,Attacker,E. Ponce,72,G. Giakoumakis,70,2
+Al Taawoun,Goalkeeper,Cássio,75,H. Shaian,62,13
+Al Taawoun,Defender,Ricardo Machado,67,T. Al Absi,65,2
+Al Taawoun,Midfielder,Héldon,76,J. Al Hussien,73,3
+Al Taawoun,Attacker,L. Tawamba,69,A. Adam,64,5
+Melbourne City FC,Goalkeeper,M. Birighitti,65,E. Galekovic,64,1
+Melbourne City FC,Defender,R. De Laet,71,B. Schenkeveld,70,1
+Melbourne City FC,Midfielder,F. Berenguer,68,R. Griffiths,67,1
+Melbourne City FC,Attacker,B. Fornaroli,76,M. O'Halloran,69,7
+En Avant de Guingamp,Goalkeeper,K. Johnsson,74,D. Petrić,70,4
+En Avant de Guingamp,Defender,C. Kerbrat,76,Pedro Rebocho,74,2
+En Avant de Guingamp,Midfielder,M. Coco,75,L. Deaux,75,0
+En Avant de Guingamp,Attacker,N. Roux,75,N. Julan,67,8
+Akhisar Belediyespor,Goalkeeper,M. Lukač,69,F. Öztürk,69,0
+Akhisar Belediyespor,Defender,Miguel Lopes,76,G. Vural,72,4
+Akhisar Belediyespor,Midfielder,Josué,76,A. Regattin,73,3
+Akhisar Belediyespor,Attacker,Y. Seleznyov,73,Paulo Henrique,71,2
+Foggia,Goalkeeper,A. Bizzarri,76,A. Noppert,64,12
+Foggia,Defender,M. Camporese,70,D. Tonucci,69,1
+Foggia,Midfielder,L. Rizzo,74,O. Kragl,73,1
+Foggia,Attacker,C. Galano,72,F. Mazzeo,69,3
+LOSC Lille,Goalkeeper,M. Maignan,75,H. Koffi,66,9
+LOSC Lille,Defender,Edgar Ié,74,A. Soumaoro,74,0
+LOSC Lille,Midfielder,N. Pépé,76,Thiago Maia,75,1
+LOSC Lille,Attacker,Rafael Leão,72,Rui Fonte,72,0
+1. FC Nürnberg,Goalkeeper,C. Mathenia,73,P. Klandt,69,4
+1. FC Nürnberg,Defender,Ewerton,74,G. Margreitter,74,0
+1. FC Nürnberg,Midfielder,Matheus Pereira,76,Y. Kubo,74,2
+1. FC Nürnberg,Attacker,M. Ishak,73,A. Zreľák,68,5
+Clube Sport Marítimo,Goalkeeper,A. Abedzadeh,72,Charles,71,1
+Clube Sport Marítimo,Defender,Bebeto,74,Zainadine,74,0
+Clube Sport Marítimo,Midfielder,Danny,76,J. Correa,72,4
+Clube Sport Marítimo,Attacker,J. Tagueu,72,Rodrigo Pinho,70,2
+Real Sporting de Gijón,Goalkeeper,Diego Mariño,76,Dani Martín,66,10
+Real Sporting de Gijón,Defender,Molinero,73,André Geraldes,73,0
+Real Sporting de Gijón,Midfielder,Álvaro Jiménez,74,Carmona,74,0
+Real Sporting de Gijón,Attacker,U. Đurđević,70,N. Manzambi,65,5
+BB Erzurumspor,Goalkeeper,I. Šehić,65,H. Canbazoğlu,64,1
+BB Erzurumspor,Defender,E. Korkmaz,70,Auremir,69,1
+BB Erzurumspor,Midfielder,S. Tshabalala,76,O. Hurmacı,72,4
+BB Erzurumspor,Attacker,G. Sunu,71,L. Thy,70,1
+Shandong Luneng TaiShan FC,Goalkeeper,Wang Dalei,69,Liu Zhenli,61,8
+Shandong Luneng TaiShan FC,Defender,Gil,76,Dai Lin,70,6
+Shandong Luneng TaiShan FC,Midfielder,Hao Junmin,72,Wu Xinghan,68,4
+Shandong Luneng TaiShan FC,Attacker,Diego Tardelli,76,Roger Guedes,74,2
+Club Atlético Colón,Goalkeeper,L. Burián,73,J. Aylagas,63,10
+Club Atlético Colón,Defender,G. Ortíz,74,G. Toledo,73,1
+Club Atlético Colón,Midfielder,M. Fritzler,75,M. Estigarribia,74,1
+Club Atlético Colón,Attacker,A. Ruiz,76,J. Correa,72,4
+Bahia,Goalkeeper,Victorino Magela,74,Fepe Avedo,67,7
+Bahia,Defender,Juli Freitinho,76,Padilhisco,74,2
+Bahia,Midfielder,Pietrson Mendes,73,Adeilson Gesser,71,2
+Bahia,Attacker,Santi da Bruma,72,Enzio Julião,68,4
+Once Caldas,Goalkeeper,J. Cuadrado,76,S. Román,65,11
+Once Caldas,Defender,A. Correa,74,D. Peralta,72,2
+Once Caldas,Midfielder,J. Nieto,72,D. Arias,72,0
+Once Caldas,Attacker,D. Lemos,68,C. Amaya,65,3
+FC Groningen,Goalkeeper,S. Padt,76,K. Begois,67,9
+FC Groningen,Defender,M. te Wierik,71,J. Chabot,68,3
+FC Groningen,Midfielder,R. Doan,73,D. Warmerdam,69,4
+FC Groningen,Attacker,M. Mahi,72,M. Cassierra,70,2
+Angers SCO,Goalkeeper,L. Butelle,75,Z. Boucher,69,6
+Angers SCO,Defender,R. Thomas,76,I. Traoré,75,1
+Angers SCO,Midfielder,T. Mangani,76,F. Tait,75,1
+Angers SCO,Attacker,S. Bahoken,72,Cristian López,71,1
+Paraná,Goalkeeper,Luciano Cacheira,69,Sander Asevedo,63,6
+Paraná,Defender,Rafael Cachoira,76,Jonas Damasto,72,4
+Paraná,Midfielder,Kauã Abranches,74,Paulolettinho,71,3
+Paraná,Attacker,Eltildo Bessa,71,Danilo Sacrio,66,5
+Antalyaspor,Goalkeeper,R. Boffin,70,F. Kaplan,68,2
+Antalyaspor,Defender,Diego Ângelo,72,S. Dursun,70,2
+Antalyaspor,Midfielder,Maicón,76,W. Vainqueur,76,0
+Antalyaspor,Attacker,M. Erdinç,72,S. Doukara,71,1
+Minnesota United FC,Goalkeeper,B. Shuttleworth,69,M. Lampson,67,2
+Minnesota United FC,Defender,F. Calvo,71,M. Boxall,67,4
+Minnesota United FC,Midfielder,D. Quintero,76,K. Molino,72,4
+Minnesota United FC,Attacker,A. Rodríguez,73,A. Danladi,64,9
+Club León,Goalkeeper,R. Cota,74,W. Yarbrough,68,6
+Club León,Defender,W. Tesillo,74,A. Mosquera,72,2
+Club León,Midfielder,L. Montes,72,P. Aquino,71,1
+Club León,Attacker,M. Boselli,76,W. González,73,3
+Empoli,Goalkeeper,I. Provedel,71,P. Terracciano,71,0
+Empoli,Defender,L. Antonelli,76,M. Silvestre,75,1
+Empoli,Midfielder,M. Zajc,75,A. Acquah,73,2
+Empoli,Attacker,F. Caputo,75,Alejandro Rodríguez,71,4
+VVV-Venlo,Goalkeeper,L. Unnerstall,76,D. van Crooij,64,12
+VVV-Venlo,Defender,J. Promes,68,N. Röseler,68,0
+VVV-Venlo,Midfielder,T. Sušić,72,D. Post,68,4
+VVV-Venlo,Attacker,P. Mlapa,68,J. Opoku,67,1
+Leeds United,Goalkeeper,B. Peacock-Farrell,68,W. Huffer,55,13
+Leeds United,Defender,P. Jansson,76,B. Douglas,75,1
+Leeds United,Midfielder,Pablo Hernández,75,Samu Saiz,74,1
+Leeds United,Attacker,K. Roofe,74,P. Bamford,71,3
+Viktoria Plzeň,Goalkeeper,M. Kozáčik,75,A. Hruška,72,3
+Viktoria Plzeň,Defender,D. Limberský,76,R. Hubník,74,2
+Viktoria Plzeň,Midfielder,D. Kolář,74,J. Kopic,73,1
+Viktoria Plzeň,Attacker,M. Krmenčík,75,J. Řezníček,65,10
+Alanyaspor,Goalkeeper,U. Ceylan,69,H. Yılmaz,68,1
+Alanyaspor,Defender,Baiano,75,M. Demiral,73,2
+Alanyaspor,Midfielder,J. Fernandes,76,L. Villafañez,74,2
+Alanyaspor,Attacker,P. Cissé,75,Bobô,75,0
+Atlético Paranaense,Goalkeeper,Fred Aníbão,76,André Milazisco,71,5
+Atlético Paranaense,Defender,Duirval Diniz,74,Vágner Corraldo,72,2
+Atlético Paranaense,Midfielder,Sebas Couteira,74,Heltinho Melo,71,3
+Atlético Paranaense,Attacker,Erick Gameira,74,Adão Salvadaldo,68,6
+Derby County,Goalkeeper,S. Carson,73,K. Roos,62,11
+Derby County,Defender,C. Davies,76,R. Keogh,72,4
+Derby County,Midfielder,M. Mount,75,T. Huddlestone,73,2
+Derby County,Attacker,H. Wilson,72,M. Waghorn,72,0
+Kawasaki Frontale,Goalkeeper,Jung Sung Ryong,71,S. Arai,65,6
+Kawasaki Frontale,Defender,Elsinho,71,S. Taniguchi,69,2
+Kawasaki Frontale,Midfielder,K. Nakamura,73,M. Saito,70,3
+Kawasaki Frontale,Attacker,Y. Kobayashi,76,S. Akasaki,66,10
+Cardiff City,Goalkeeper,A. Smithies,73,N. Etheridge,73,0
+Cardiff City,Defender,S. Bamba,75,G. Cunningham,74,1
+Cardiff City,Midfielder,Camarasa,76,H. Arter,75,1
+Cardiff City,Attacker,B. Reid,73,K. Zohore,72,1
+Aston Villa,Goalkeeper,O. Nyland,72,André Moreira,71,1
+Aston Villa,Defender,J. Chester,74,A. Elmohamady,72,2
+Aston Villa,Midfielder,J. Grealish,76,A. Adomah,75,1
+Aston Villa,Attacker,J. Kodjia,74,T. Abraham,74,0
+Guadalajara,Goalkeeper,R. Gudiño,70,M. Jiménez,67,3
+Guadalajara,Defender,J. Pereira,72,J. Sánchez,71,1
+Guadalajara,Midfielder,I. Brizuela,76,M. Pérez,73,3
+Guadalajara,Attacker,A. Pulido,74,A. Zaldívar,72,2
+Dijon FCO,Goalkeeper,R. Rúnarsson,71,B. Allain,61,10
+Dijon FCO,Defender,L. Ciman,75,V. Rosier,74,1
+Dijon FCO,Midfielder,N. Sliti,76,Kwon Chang Hoon,75,1
+Dijon FCO,Attacker,Júlio Tavares,75,B. Jeannot,72,3
+Santos Laguna,Goalkeeper,J. Orozco,76,C. Acevedo,70,6
+Santos Laguna,Defender,Dória,74,M. Nervo,73,1
+Santos Laguna,Midfielder,J. Vázquez,76,O. Martínez,74,2
+Santos Laguna,Attacker,J. Furch,74,J. Rodríguez,74,0
+Málaga CF,Goalkeeper,Munir,72,P. Kieszek,71,1
+Málaga CF,Defender,Luís Hernández,75,F. Ricca,74,1
+Málaga CF,Midfielder,Dani Pacheco,74,J. Añor,73,1
+Málaga CF,Attacker,G. Blanco,73,J. Harper,71,2
+Vitória,Goalkeeper,Traeira Lopes,67,Carlos Travisso,63,4
+Vitória,Defender,Victildinho,76,Silas Almeim,75,1
+Vitória,Midfielder,Jacson Zonta,74,Leo Caldeirinha,74,0
+Vitória,Attacker,Cristian Lodeira,72,Josué da Feira,72,0
+Çaykur Rizespor,Goalkeeper,S. Ujkani,72,G. Akkan,67,5
+Çaykur Rizespor,Defender,J. Brabec,70,D. Ismail,69,1
+Çaykur Rizespor,Midfielder,A. Umar,76,M. Çağıran,75,1
+Çaykur Rizespor,Attacker,O. Gladkyi,74,V. Muriqi,68,6
+U.N.A.M.,Goalkeeper,M. Fraga,71,A. Saldívar,70,1
+U.N.A.M.,Defender,Arribas,74,L. Quintana,70,4
+U.N.A.M.,Midfielder,M. Alustiza,75,M. Rodríguez,72,3
+U.N.A.M.,Attacker,J. Iturbe,76,F. Mora,74,2
+Nottingham Forest,Goalkeeper,C. Pantilimon,71,L. Steele,68,3
+Nottingham Forest,Defender,S. Byram,72,Tobias Figueiredo,71,1
+Nottingham Forest,Midfielder,Gil Dias,75,C. Yacob,73,2
+Nottingham Forest,Attacker,H. Soudani,76,K. Ansarifard,75,1
+Royal Antwerp FC,Goalkeeper,S. Bolat,74,J. Teunckens,64,10
+Royal Antwerp FC,Defender,J. Van Damme,73,S. Juklerød,72,1
+Royal Antwerp FC,Midfielder,L. Refaelov,75,A. Baby,71,4
+Royal Antwerp FC,Attacker,D. Mbokani,76,Ivo Rodrigues,73,3
+Club Tijuana,Goalkeeper,G. Lajud,72,L. Michel,66,6
+Club Tijuana,Defender,L. Fuentes,71,J. Velázquez,71,0
+Club Tijuana,Midfielder,D. González,76,D. Rodríguez,75,1
+Club Tijuana,Attacker,J. Lucero,73,M. Bolaños,73,0
+Sport Club do Recife,Goalkeeper,Rafael de Aseiro,67,Jailson Acuna,66,1
+Sport Club do Recife,Defender,Davi Parrela,76,Mauro Cildinho,73,3
+Sport Club do Recife,Midfielder,Alvildo Sousa,74,Jairinhazo,72,2
+Sport Club do Recife,Attacker,Walter Silvieiro,72,Jonaldo Santoso,68,4
+Real Salt Lake,Goalkeeper,N. Rimando,71,A. Horwath,62,9
+Real Salt Lake,Defender,M. Silva,70,J. Glad,69,1
+Real Salt Lake,Midfielder,A. Rusnák,76,K. Beckerman,71,5
+Real Salt Lake,Attacker,D. Kreilach,74,J. Plata,74,0
+AZ Alkmaar,Goalkeeper,M. Bizot,75,P. Velthuizen,69,6
+AZ Alkmaar,Defender,J. Svensson,75,T. Koopmeiners,74,1
+AZ Alkmaar,Midfielder,F. Midtsjø,75,G. Til,74,1
+AZ Alkmaar,Attacker,B. Johnsen,73,O. Idrissi,72,1
+SK Slavia Praha,Goalkeeper,O. Kolář,69,P. Kovář,66,3
+SK Slavia Praha,Defender,S. Deli,74,J. Bořil,73,1
+SK Slavia Praha,Midfielder,M. Stoch,75,A. Bălută,74,1
+SK Slavia Praha,Attacker,M. Škoda,73,M. van Buren,70,3
+Willem II,Goalkeeper,M. Branderhorst,68,T. Wellenreuther,68,0
+Willem II,Defender,J. Peters,69,T. Meißner,68,1
+Willem II,Midfielder,Pol Llonch,70,V. Anita,69,1
+Willem II,Attacker,Fran Sol,75,A. Özbiliz,73,2
+Middlesbrough,Goalkeeper,D. Randolph,73,A. Lonergan,65,8
+Middlesbrough,Defender,A. Flint,75,Daniel Ayala,74,1
+Middlesbrough,Midfielder,M. Bešić,74,A. Clayton,73,1
+Middlesbrough,Attacker,M. Braithwaite,75,B. Assombalonga,73,2
+Dinamo Zagreb,Goalkeeper,D. Livaković,72,D. Zagorac,68,4
+Dinamo Zagreb,Defender,E. Dilaver,75,K. Théophile-Catherine,74,1
+Dinamo Zagreb,Midfielder,Dani Olmo,75,M. Oršić,72,3
+Dinamo Zagreb,Attacker,M. Gavranović,73,B. Petković,71,2
+Club Atlas,Goalkeeper,E. Hernández,64,S. Hernández,63,1
+Club Atlas,Defender,O. Gonzalez,73,L. Jiménez,72,1
+Club Atlas,Midfielder,R. Álvarez,75,A. Andrade,72,3
+Club Atlas,Attacker,O. Rivero,72,J. Duque,71,1
+Granada CF,Goalkeeper,Rui Silva,69,Aarón,62,7
+Granada CF,Defender,Víctor Díaz,71,Álex Martínez,71,0
+Granada CF,Midfielder,Fran Rico,75,N. Aguirre,72,3
+Granada CF,Attacker,A. Ramos,73,Rodri,70,3
+Sydney FC,Goalkeeper,A. Cisak,63,A. Redmayne,63,0
+Sydney FC,Defender,A. Wilkinson,71,J. van der Linden,68,3
+Sydney FC,Midfielder,M. Ninković,75,S. de Jong,73,2
+Sydney FC,Attacker,A. Le Fondre,68,A. Brosque,67,1
+Sporting Kansas City,Goalkeeper,T. Melia,74,A. Zendejas,61,13
+Sporting Kansas City,Defender,I. Opara,75,Fontàs,75,0
+Sporting Kansas City,Midfielder,F. Gutiérrez,75,Ilie Sánchez,74,1
+Sporting Kansas City,Attacker,Gerso,73,J. Russell,72,1
+SV Zulte-Waregem,Goalkeeper,S. Bossut,71,L. Bostyn,67,4
+SV Zulte-Waregem,Defender,E. Demir,69,D. De fauw,69,0
+SV Zulte-Waregem,Midfielder,T. Bongonda,75,N. De Pauw,71,4
+SV Zulte-Waregem,Attacker,H. Harbaoui,73,C. Bedia,68,5
+Philadelphia Union,Goalkeeper,A. Blake,75,J. McCarthy,65,10
+Philadelphia Union,Defender,K. Rosenberry,70,J. Elliott,68,2
+Philadelphia Union,Midfielder,B. Dočkal,75,F. Picault,69,6
+Philadelphia Union,Attacker,D. Accam,69,K. Przybyłko,68,1
+Real Oviedo,Goalkeeper,N. Champagne,71,Alfonso Herrero,70,1
+Real Oviedo,Defender,Carlos Hernández,73,J. Forlín,73,0
+Real Oviedo,Midfielder,Saúl Berjón,75,Sergio Tejera,73,2
+Real Oviedo,Attacker,I. Baldé,73,Joselu,72,1
+Pachuca,Goalkeeper,O. Pérez,71,A. Blanco,69,2
+Pachuca,Defender,O. Murillo,75,J. Barreiro,72,3
+Pachuca,Midfielder,J. Hernández,75,V. Guzmán,75,0
+Pachuca,Attacker,F. Jara,74,L. Ulloa,73,1
+Boavista FC,Goalkeeper,Bracali,73,Helton Leite,69,4
+Boavista FC,Defender,João Talocha,72,Carraça,71,1
+Boavista FC,Midfielder,Idris,75,David Simão,74,1
+Boavista FC,Attacker,Rafael Lopes,72,Y. Njie,69,3
+Atiker Konyaspor,Goalkeeper,S. Kırıntılı,74,E. Taşkıran,69,5
+Atiker Konyaspor,Defender,F. Diagne,73,U. Demirok,73,0
+Atiker Konyaspor,Midfielder,O. Şahiner,75,P. Hurtado,75,0
+Atiker Konyaspor,Attacker,A. Jahović,74,M. Yatabaré,69,5
+Kaizer Chiefs,Goalkeeper,V. Vries,65,B. Bvuma,60,5
+Kaizer Chiefs,Defender,E. Mathoho,71,R. Mphahlele,71,0
+Kaizer Chiefs,Midfielder,W. Katsande,74,B. Parker,72,2
+Kaizer Chiefs,Attacker,K. Billiat,75,L. Castro,72,3
+GD Chaves,Goalkeeper,Ricardo,75,António Filipe,71,4
+GD Chaves,Defender,Djavan,74,Paulinho,73,1
+GD Chaves,Midfielder,Renan Bressan,75,Stephen Eustáquio,71,4
+GD Chaves,Attacker,William,74,Perdigão,73,1
+Palermo,Goalkeeper,A. Brignoli,71,A. Pomini,68,3
+Palermo,Defender,S. Rajković,75,H. Aleesami,72,3
+Palermo,Midfielder,M. Jajalo,74,I. Chochev,74,0
+Palermo,Attacker,I. Nestorovski,74,C. Falletti,72,2
+Atlético Nacional,Goalkeeper,F. Monetti,73,C. Vargas,67,6
+Atlético Nacional,Defender,D. Bocanegra,75,D. Braghieri,73,2
+Atlético Nacional,Midfielder,V. Hernández,75,A. Ramírez,74,1
+Atlético Nacional,Attacker,R. Lenis,69,O. Duarte,68,1
+Puebla FC,Goalkeeper,N. Vikonis,75,J. Rodríguez,58,17
+Puebla FC,Defender,B. Angulo,70,H. Rodríguez,68,2
+Puebla FC,Midfielder,A. Chumacero,74,D. Guerrero,71,3
+Puebla FC,Attacker,L. Cavallini,74,F. Micolta,67,7
+Perth Glory,Goalkeeper,L. Reddy,62,T. Velaphi,60,2
+Perth Glory,Defender,M. Spiranovic,71,T. Mrčela,68,3
+Perth Glory,Midfielder,Diego Castro,75,C. Ikonomidis,68,7
+Perth Glory,Attacker,A. Keogh,69,B. Santalab,66,3
+Panathinaikos FC,Goalkeeper,S. Dioudis,72,K. Kotsaris,67,5
+Panathinaikos FC,Defender,E. Insúa,72,M. Johansson,72,0
+Panathinaikos FC,Midfielder,A. Mounier,75,A. Chatzigiovanis,70,5
+Panathinaikos FC,Attacker,F. Macheda,71,N. Vergos,66,5
+FC Sion,Goalkeeper,A. Mitryushkin,69,A. Maisonnial,66,3
+FC Sion,Defender,Raphael Rossi,71,E. Lenjani,69,2
+FC Sion,Midfielder,A. Song,75,P. Kasami,72,3
+FC Sion,Attacker,Adryan,71,R. Acquafresca,67,4
+Vitória de Setúbal,Goalkeeper,Joel Pereira,71,Cristiano,68,3
+Vitória de Setúbal,Defender,Nuno Pinto,75,Vasco Fernandes,72,3
+Vitória de Setúbal,Midfielder,Costinha,73,Rúben Micael,72,1
+Vitória de Setúbal,Attacker,Frédéric Mendy,73,K. Erasmus,69,4
+New York Red Bulls,Goalkeeper,L. Robles,74,R. Meara,67,7
+New York Red Bulls,Defender,K. Lawrence,74,A. Long,73,1
+New York Red Bulls,Midfielder,Kaku,75,D. Royer,74,1
+New York Red Bulls,Attacker,D. Etienne Jr.,68,B. White,63,5
+Al Shabab,Goalkeeper,F. Ben Mustapha,68,F. Al Habib,58,10
+Al Shabab,Defender,V. Găman,72,D. Benlamri,71,1
+Al Shabab,Midfielder,Somália,71,Arthur Caike,69,2
+Al Shabab,Attacker,C. Budescu,75,N. Al Shamrani,69,6
+Monarcas Morelia,Goalkeeper,S. Sosa,74,L. Malagón,60,14
+Monarcas Morelia,Defender,G. Achilier,71,E. Loeschbor,70,1
+Monarcas Morelia,Midfielder,D. Valdés,75,C. Fierro,70,5
+Monarcas Morelia,Attacker,G. Lezcano,74,I. Ávila,72,2
+Albacete BP,Goalkeeper,Tomeu Nadal,69,Caro,67,2
+Albacete BP,Defender,S. Gentiletti,75,Arroyo,71,4
+Albacete BP,Midfielder,Susaeta,69,Eugeni,68,1
+Albacete BP,Attacker,R. Zozulya,71,Ortuño,70,1
+Rangers FC,Goalkeeper,A. McGregor,75,W. Foderingham,72,3
+Rangers FC,Defender,J. Tavernier,74,C. Goldson,73,1
+Rangers FC,Midfielder,R. Jack,74,S. Arfield,73,1
+Rangers FC,Attacker,A. Morelos,74,Daniel Candeias,74,0
+Sparta Praha,Goalkeeper,F. Nita,71,D. Bičík,66,5
+Sparta Praha,Defender,O. Zahustel,72,L. Štetina,72,0
+Sparta Praha,Midfielder,K. Kanga,75,T. Ben Haim,72,3
+Sparta Praha,Attacker,J. Šural,73,V. Kadlec,70,3
+Legia Warszawa,Goalkeeper,A. Malarz,72,R. Cierzniak,66,6
+Legia Warszawa,Defender,M. Pazdan,73,A. Jędrzejczyk,70,3
+Legia Warszawa,Midfielder,D. Antolić,70,K. Hämäläinen,70,0
+Legia Warszawa,Attacker,Carlitos,75,J. Niezgoda,69,6
+Urawa Red Diamonds,Goalkeeper,S. Nishikawa,71,N. Iwadate,60,11
+Urawa Red Diamonds,Defender,Maurício,74,T. Makino,71,3
+Urawa Red Diamonds,Midfielder,Y. Kashiwagi,70,Q. Martinus,70,0
+Urawa Red Diamonds,Attacker,Fabrício,75,S. Koroki,72,3
+Rosario Central,Goalkeeper,J. Ledesma,68,J. Ayala,65,3
+Rosario Central,Defender,M. Caruzzo,75,G. Bettini,71,4
+Rosario Central,Midfielder,D. Arismendi,74,F. Carrizo,74,0
+Rosario Central,Attacker,M. Ruben,74,F. Zampedri,74,0
+Stade de Reims,Goalkeeper,E. Mendy,73,J. Carrasso,69,4
+Stade de Reims,Defender,G. Konan,75,B. Engels,75,0
+Stade de Reims,Midfielder,M. Doumbia,71,T. Dingomé,71,0
+Stade de Reims,Attacker,Suk Hyun Jun,74,P. Chavarría,73,1
+ADO Den Haag,Goalkeeper,R. Zwinkels,69,I. Groothuizen,67,2
+ADO Den Haag,Defender,W. Kanon,73,T. Beugelsdijk,72,1
+ADO Den Haag,Midfielder,A. El Khayati,75,L. Immers,72,3
+ADO Den Haag,Attacker,R. Kishna,73,T. Necid,72,1
+Chapecoense,Goalkeeper,Nivo Serpinho,73,Márcio Velinha,68,5
+Chapecoense,Defender,Kel Perinho,74,Benjamin Meseira,73,1
+Chapecoense,Midfielder,Dani Rochelinhas,75,Emerson Avintes,71,4
+Chapecoense,Attacker,Nilsito Vilela,72,Venanzio Meirás,67,5
+FC Midtjylland,Goalkeeper,J. Hansen,75,M. Andersen,68,7
+FC Midtjylland,Defender,E. Sviatchenko,74,K. Hansen,73,1
+FC Midtjylland,Midfielder,J. Poulsen,73,T. Sparv,70,3
+FC Midtjylland,Attacker,G. Wikheim,73,R. Hassan,71,2
+San Jose Earthquakes,Goalkeeper,A. Tarbell,64,J. Marcinkowski,60,4
+San Jose Earthquakes,Defender,G. Kashia,75,F. Jungwirth,70,5
+San Jose Earthquakes,Midfielder,V. Qazaishvili,73,A. Godoy,71,2
+San Jose Earthquakes,Attacker,D. Hoesen,70,C. Wondolowski,70,0
+Belgrano de Córdoba,Goalkeeper,C. Rigamonti,73,L. Acosta,71,2
+Belgrano de Córdoba,Defender,H. Menosse,70,T. Guidara,68,2
+Belgrano de Córdoba,Midfielder,F. Lértora,72,L. Sequeira,70,2
+Belgrano de Córdoba,Attacker,M. Suárez,75,A. Balboa,66,9
+Brescia,Goalkeeper,E. Alfonso,68,L. Andrenacci,63,5
+Brescia,Defender,D. Gastaldello,71,S. Romagnoli,70,1
+Brescia,Midfielder,L. Tremolada,70,L. Morosini,69,1
+Brescia,Attacker,A. Donnarumma,75,E. Torregrossa,69,6
+Kashima Antlers,Goalkeeper,Kwoun Sun Tae,72,H. Sogahata,68,4
+Kashima Antlers,Defender,G. Shoji,75,A. Uchida,71,4
+Kashima Antlers,Midfielder,K. Misao,69,Y. Endo,68,1
+Kashima Antlers,Attacker,Serginho,73,Y. Suzuki,71,2
+CD Everton de Viña del Mar,Goalkeeper,C. Toselli,75,F. Torgnascioli,64,11
+CD Everton de Viña del Mar,Defender,C. Suárez,70,C. Rodríguez,68,2
+CD Everton de Viña del Mar,Midfielder,K. Medel,68,I. Ochoa,67,1
+CD Everton de Viña del Mar,Attacker,J. Cuevas,72,P. Rubio,72,0
+Fortuna Düsseldorf,Goalkeeper,M. Rensing,73,R. Wolf,72,1
+Fortuna Düsseldorf,Defender,K. Ayhan,75,N. Gießelmann,73,2
+Fortuna Düsseldorf,Midfielder,T. Usami,74,B. Raman,73,1
+Fortuna Düsseldorf,Attacker,R. Hennings,73,D. Lukebakio,73,0
+SD Huesca,Goalkeeper,A. Werner,70,A. Jovanović,68,2
+SD Huesca,Defender,Insua,74,Luisinho,74,0
+SD Huesca,Midfielder,Melero,75,D. Musto,74,1
+SD Huesca,Attacker,J. Hernández,75,S. Longo,72,3
+Preston North End,Goalkeeper,C. Maxwell,70,D. Rudd,70,0
+Preston North End,Defender,D. Fisher,71,T. Clarke,71,0
+Preston North End,Midfielder,A. Browne,73,C. Robinson,72,1
+Preston North End,Attacker,S. Maguire,71,L. Moult,69,2
+Club Atlético Talleres,Goalkeeper,G. Herrera,75,M. Caranta,65,10
+Club Atlético Talleres,Defender,J. Gandolfi,73,C. Quintana,71,2
+Club Atlético Talleres,Midfielder,P. Guiñazú,75,A. Cubas,72,3
+Club Atlético Talleres,Attacker,J. Ramírez,73,B. Montenegro,69,4
+Benevento,Goalkeeper,C. Puggioni,72,L. Montipó,66,6
+Benevento,Defender,C. Maggio,75,G. Letizia,72,3
+Benevento,Midfielder,A. Tello,72,A. Nocerino,71,1
+Benevento,Attacker,F. Ricci,72,M. Coda,71,1
+Vitesse,Goalkeeper,Eduardo,74,R. Pasveer,69,5
+Vitesse,Defender,V. Karavaev,73,A. Büttner,73,0
+Vitesse,Midfielder,T. Serero,75,N. Foor,71,4
+Vitesse,Attacker,C. Musonda,75,T. Matavž,74,1
+Gimnasia y Esgrima La Plata,Goalkeeper,A. Martín Arias,75,S. Moyano,66,9
+Gimnasia y Esgrima La Plata,Defender,M. Coronel,70,L. Licht,70,0
+Gimnasia y Esgrima La Plata,Midfielder,F. Rinaudo,73,V. Ayala,72,1
+Gimnasia y Esgrima La Plata,Attacker,S. Silva,71,M. Guevgeozián,66,5
+Houston Dynamo,Goalkeeper,T. Deric,68,C. Seitz,67,1
+Houston Dynamo,Defender,A. Machado,70,D. Beasley,70,0
+Houston Dynamo,Midfielder,A. Elis,75,R. Quioto,72,3
+Houston Dynamo,Attacker,M. Manotas,70,R. Peña,68,2
+Club Necaxa,Goalkeeper,H. González,71,Y. Gutiérrez,61,10
+Club Necaxa,Defender,B. Beckeles,69,V. Alvarado,68,1
+Club Necaxa,Midfielder,D. Álvarez,72,D. Villalpando,72,0
+Club Necaxa,Attacker,B. Fernández,73,C. Riaño,72,1
+Norwich City,Goalkeeper,T. Krul,73,M. McGovern,68,5
+Norwich City,Defender,T. Klose,75,G. Hanley,72,3
+Norwich City,Midfielder,E. Buendía,72,T. Trybull,72,0
+Norwich City,Attacker,T. Pukki,74,Nélson Oliveira,73,1
+Holstein Kiel,Goalkeeper,K. Kronholm,70,D. Reimann,63,7
+Holstein Kiel,Defender,D. Schmidt,70,H. Wahl,70,0
+Holstein Kiel,Midfielder,Lee Jae Sung,75,A. Mühling,69,6
+Holstein Kiel,Attacker,K. Schindler,72,B. Girth,68,4
+Ettifaq FC,Goalkeeper,R. M'Bolhi,68,A. Al Saleh,61,7
+Ettifaq FC,Defender,R. Arias,67,H. El Sayed,66,1
+Ettifaq FC,Midfielder,B. Alemán,75,Farley,69,6
+Ettifaq FC,Attacker,C. Guanca,69,H. Al Hazaa,66,3
+Kayserispor,Goalkeeper,S. Lung,74,M. Yıldırım,70,4
+Kayserispor,Defender,J. Kana-Biyik,74,O. Kucher,74,0
+Kayserispor,Midfielder,D. Türüç,75,T. Chery,72,3
+Kayserispor,Attacker,A. Gyan,74,A. Kravets,73,1
+1. FC Heidenheim 1846,Goalkeeper,K. Müller,71,V. Eicher,67,4
+1. FC Heidenheim 1846,Defender,A. Feick,70,N. Theuerkauf,69,1
+1. FC Heidenheim 1846,Midfielder,M. Schnatterer,75,N. Dovedan,69,6
+1. FC Heidenheim 1846,Attacker,R. Glatzel,68,D. Thomalla,66,2
+Brentford,Goalkeeper,D. Bentley,71,L. Daniels,65,6
+Brentford,Defender,H. Dalsgaard,72,J. Jeanvier,72,0
+Brentford,Midfielder,R. Sawyers,71,J. McEachran,70,1
+Brentford,Attacker,O. Watkins,74,N. Maupay,74,0
+Yeni Malatyaspor,Goalkeeper,E. Özbir,68,F. Farnolle,66,2
+Yeni Malatyaspor,Defender,A. Mina,71,S. Çiftpınar,69,2
+Yeni Malatyaspor,Midfielder,N. Barazite,73,Guilherme,73,0
+Yeni Malatyaspor,Attacker,K. Boutaïb,74,O. Şişmanoğlu,72,2
+Lobos BUAP,Goalkeeper,J. Rodríguez,74,F. Canales,66,8
+Lobos BUAP,Defender,F. Rodríguez,67,M. Orozco,66,1
+Lobos BUAP,Midfielder,B. Rabello,70,J. Zárate,70,0
+Lobos BUAP,Attacker,C. Kazim-Richards,69,D. Jiménez,68,1
+Bursaspor,Goalkeeper,O. Kocuk,64,M. Şengezer,63,1
+Bursaspor,Defender,A. Chedjou,74,S. Abdullahi,72,2
+Bursaspor,Midfielder,H. Saivet,73,T. Torun,72,1
+Bursaspor,Attacker,D. Sakho,74,J. Kembo-Ekoko,74,0
+Ceará Sporting Club,Goalkeeper,Victor Fachinhas,70,Nelson Freitosa,64,6
+Ceará Sporting Club,Defender,Hugo Goiteira,74,Marlion Simões,72,2
+Ceará Sporting Club,Midfielder,Caio Milaçar,74,Nascimentardo,71,3
+Ceará Sporting Club,Attacker,Vagnão Junior,64,Dêniro Prestes,64,0
+Sheffield United,Goalkeeper,D. Henderson,72,S. Moore,67,5
+Sheffield United,Defender,J. O'Connell,73,E. Stevens,72,1
+Sheffield United,Midfielder,O. Norwood,74,J. Fleck,73,1
+Sheffield United,Attacker,L. Clarke,71,B. Sharp,71,0
+FC Ingolstadt 04,Goalkeeper,M. Knaller,69,P. Heerwagen,64,5
+FC Ingolstadt 04,Defender,M. Matip,73,T. Schröck,70,3
+FC Ingolstadt 04,Midfielder,C. Träsch,74,S. Kittel,74,0
+FC Ingolstadt 04,Attacker,D. Lezcano,72,C. Benschop,69,3
+Estudiantes de La Plata,Goalkeeper,M. Andújar,74,D. Sappa,62,12
+Estudiantes de La Plata,Defender,F. Sánchez,73,J. Schunke,72,1
+Estudiantes de La Plata,Midfielder,L. Rodríguez,74,F. Zuqui,72,2
+Estudiantes de La Plata,Attacker,L. Albertengo,71,M. Pavone,71,0
+AIK,Goalkeeper,O. Linnér,70,B. Janošević,61,9
+AIK,Defender,P. Karlsson,73,A. Milošević,71,2
+AIK,Midfielder,K. Olsson,74,T. Elyounoussi,73,1
+AIK,Attacker,H. Goitom,72,N. Stefanelli,67,5
+Queens Park Rangers,Goalkeeper,M. Ingram,65,J. Lumley,64,1
+Queens Park Rangers,Defender,T. Leistner,73,Àngel Rangel,72,1
+Queens Park Rangers,Midfielder,L. Freeman,73,P. Wszołek,70,3
+Queens Park Rangers,Attacker,T. Hemed,71,N. Wells,70,1
+Suwon Samsung Bluewings,Goalkeeper,Shin Hwa Yong,73,No Dong Geon,65,8
+Suwon Samsung Bluewings,Defender,Koo Ja Ryong,70,Jo Sung Jin,69,1
+Suwon Samsung Bluewings,Midfielder,E. Saric,74,Kim Eun Sun,70,4
+Suwon Samsung Bluewings,Attacker,Yeom Ki Hun,72,D. Damjanović,70,2
+Heart of Midlothian,Goalkeeper,Z. Zlámal,69,C. Doyle,66,3
+Heart of Midlothian,Defender,C. Berra,74,J. Souttar,70,4
+Heart of Midlothian,Midfielder,S. Naismith,72,P. Haring,69,3
+Heart of Midlothian,Attacker,S. MacLean,68,U. Ikpeazu,68,0
+Reading,Goalkeeper,V. Mannone,70,A. Jaakkola,65,5
+Reading,Defender,L. Moore,74,J. Obita,71,3
+Reading,Midfielder,D. Meyler,69,S. Ezatolahi,68,1
+Reading,Attacker,M. Barrow,72,J. Böðvarsson,70,2
+FC Dallas,Goalkeeper,J. Gonzalez,67,J. Maurer,64,3
+FC Dallas,Defender,M. Hedges,74,R. Ziegler,70,4
+FC Dallas,Midfielder,A. Aguilar,74,M. Urruti,73,1
+FC Dallas,Attacker,D. Badji,68,C. Colmán,67,1
+Heracles Almelo,Goalkeeper,J. Blaswich,69,M. Brouwer,62,7
+Heracles Almelo,Defender,R. Pröpper,69,W. Droste,68,1
+Heracles Almelo,Midfielder,K. Peterson,71,M. Osman,68,3
+Heracles Almelo,Attacker,B. Kuwas,74,Dalmau,68,6
+Venezia FC,Goalkeeper,L. Lezzerini,66,D. Facchin,62,4
+Venezia FC,Defender,S. Anđelković,74,M. Domizzi,71,3
+Venezia FC,Midfielder,A. Schiavone,71,M. Falzerano,70,1
+Venezia FC,Attacker,G. Litteri,71,Alex Geijo,69,2
+CD Lugo,Goalkeeper,Juan Carlos,71,Alberto Varo,64,7
+CD Lugo,Defender,Miguel Vieira,73,Bernardo,71,2
+CD Lugo,Midfielder,Iriome,70,Pita,70,0
+CD Lugo,Attacker,Cristian Herrera,72,Jona,70,2
+Henan Jianye FC,Goalkeeper,Wu Yan,63,Wang Guoming,57,6
+Henan Jianye FC,Defender,Gu Cao,66,Yang Kuo,63,3
+Henan Jianye FC,Midfielder,Ivo,74,Wang Shangyuan,64,10
+Henan Jianye FC,Attacker,C. Bassogog,74,Ricardo,73,1
+Orlando City SC,Goalkeeper,J. Bendik,67,E. Edwards Jr.,61,6
+Orlando City SC,Defender,L. Sané,74,A. Tarek,71,3
+Orlando City SC,Midfielder,S. Kljestan,74,C. Higuita,70,4
+Orlando City SC,Attacker,D. Dwyer,72,J. Villarreal,66,6
+CA Osasuna,Goalkeeper,Sergio Herrera,71,Rubén,68,3
+CA Osasuna,Defender,Nacho Vidal,71,Aridane,70,1
+CA Osasuna,Midfielder,Juan Villar,73,Roberto Torres,72,1
+CA Osasuna,Attacker,Brandon Thomas,72,Xisco,71,1
+NAC Breda,Goalkeeper,B. van Leer,74,T. Zwarthoed,63,11
+NAC Breda,Defender,P. van Anholt,69,M. Koch,67,2
+NAC Breda,Midfielder,A. Kali,70,R. Mühren,68,2
+Livorno,Goalkeeper,L. Mazzoni,70,L. Zima,64,6
+Livorno,Defender,D. Dainelli,73,A. Gasbarro,67,6
+Livorno,Midfielder,A. Diamanti,74,A. Luci,71,3
+Livorno,Attacker,N. Giannetti,69,F. Raičević,67,2
+Universidad de Chile,Goalkeeper,J. Herrera,73,F. De Paul,70,3
+Universidad de Chile,Defender,Rafael Vaz,74,J. Beausejour,74,0
+Universidad de Chile,Midfielder,D. Pizarro,73,Y. Soteldo,71,2
+Universidad de Chile,Attacker,A. Henríquez,72,L. Benegas,70,2
+Brøndby IF,Goalkeeper,M. Schwäbe,67,B. Bellot,64,3
+Brøndby IF,Defender,P. Arajuuri,72,J. Larsson,71,1
+Brøndby IF,Midfielder,H. Mukhtar,74,S. Tibbling,73,1
+Brøndby IF,Attacker,K. Wilczek,73,U. Bech,68,5
+Aberdeen,Goalkeeper,J. Lewis,73,T. Černý,66,7
+Aberdeen,Defender,S. Logan,71,S. McKenna,69,2
+Aberdeen,Midfielder,G. Shinnie,74,N. McGinn,71,3
+Aberdeen,Attacker,S. May,67,J. Wilson,67,0
+Defensa y Justicia,Goalkeeper,E. Unsain,72,N. Avellaneda,65,7
+Defensa y Justicia,Defender,A. Barboza,72,L. Martínez,72,0
+Defensa y Justicia,Midfielder,J. Gutiérrez,73,F. Cerro,72,1
+Defensa y Justicia,Attacker,C. Rius,74,M. Larrondo,70,4
+Atlético Tucumán,Goalkeeper,C. Lucchetti,71,A. Sánchez,67,4
+Atlético Tucumán,Defender,B. Bianchi,73,J. San Román,70,3
+Atlético Tucumán,Midfielder,R. Noir,72,G. Núñez,72,0
+Atlético Tucumán,Attacker,L. Rodríguez,74,M. Matos,70,4
+Blackburn Rovers,Goalkeeper,David Raya,70,J. Leutwiler,65,5
+Blackburn Rovers,Defender,C. Mulgrew,72,D. Lenihan,70,2
+Blackburn Rovers,Midfielder,B. Dack,74,H. Reed,71,3
+Blackburn Rovers,Attacker,D. Graham,68,B. Brereton,68,0
+SV Darmstadt 98,Goalkeeper,D. Heuer Fernandes,74,M. Grün,68,6
+SV Darmstadt 98,Defender,A. Sulu,74,F. Holland,70,4
+SV Darmstadt 98,Midfielder,J. Jones,74,M. Heller,73,1
+SV Darmstadt 98,Attacker,F. Platte,70,S. Dursun,69,1
+Moreirense FC,Goalkeeper,Jhonatan,69,Pedro Trigueira,67,2
+Moreirense FC,Defender,Ruben Lima,74,João Aurélio,73,1
+Moreirense FC,Midfielder,Fábio Pacheco,72,Chiquinho,72,0
+Moreirense FC,Attacker,Pedro Nuno,72,Heriberto Tavares,71,1
+Sanfrecce Hiroshima,Goalkeeper,T. Hayashi,69,R. Hironaga,60,9
+Sanfrecce Hiroshima,Defender,H. Mizumoto,67,T. Wada,66,1
+Sanfrecce Hiroshima,Midfielder,T. Aoyama,72,Y. Kashiwa,71,1
+Sanfrecce Hiroshima,Attacker,Patric,74,B. Berisha,70,4
+CD Numancia,Goalkeeper,Juan Carlos,68,Campos,61,7
+CD Numancia,Defender,Marc Mateu,73,Dani Calvo,71,2
+CD Numancia,Midfielder,P. Diamanka,74,Escassi,71,3
+CD Numancia,Attacker,Guillermo,71,Y. Yeboah,68,3
+KV Oostende,Goalkeeper,W. Dutoit,70,F. Ondoa,70,0
+KV Oostende,Defender,N. Lombaerts,74,Z. Tomašević,73,1
+KV Oostende,Midfielder,S. Coopman,72,Fernando Canesín,72,0
+KV Oostende,Attacker,R. Živković,69,S. Guri,67,2
+FC Utrecht,Goalkeeper,D. Jensen,73,N. Marsman,68,5
+FC Utrecht,Defender,W. Janssen,73,T. Letschert,72,1
+FC Utrecht,Midfielder,R. Strieder,72,S. van de Streek,72,0
+FC Utrecht,Attacker,O. Tannane,74,J. Bahebeck,72,2
+Vancouver Whitecaps FC,Goalkeeper,S. Marinović,68,B. Rowe,64,4
+Vancouver Whitecaps FC,Defender,K. Waston,74,A. Maund,68,6
+Vancouver Whitecaps FC,Midfielder,Felipe,72,A. Davies,72,0
+Vancouver Whitecaps FC,Attacker,K. Kamara,74,Y. Reyna,70,4
+Odense Boldklub,Goalkeeper,S. Grytebust,74,M. Sayouba,68,6
+Odense Boldklub,Defender,R. Leeuwin,70,J. Tverskov,66,4
+Odense Boldklub,Midfielder,J. Drachmann,68,K. Vacek,68,0
+Odense Boldklub,Attacker,B. Kadrii,70,N. Helenius,68,2
+SC Heerenveen,Goalkeeper,W. Hahn,74,F. Bednarek,68,6
+SC Heerenveen,Defender,K. Pierie,68,D. Bulthuis,68,0
+SC Heerenveen,Midfielder,S. Schaars,73,A. Zeneli,73,0
+SC Heerenveen,Attacker,S. Lammers,71,N. Mihajlović,70,1
+Racing Club de Lens,Goalkeeper,J. Leca,74,J. Vachoux,67,7
+Racing Club de Lens,Defender,M. Tahrat,70,M. Haïdara,68,2
+Racing Club de Lens,Midfielder,G. Gillet,72,W. Mesloub,71,1
+Racing Club de Lens,Attacker,Y. Gomis,70,G. Kyei,69,1
+Independiente Santa Fe,Goalkeeper,L. Castellanos,72,R. Zapata,69,3
+Independiente Santa Fe,Defender,C. Arboleda,72,C. Henao,70,2
+Independiente Santa Fe,Midfielder,L. Seijas,71,J. Roa,70,1
+Independiente Santa Fe,Attacker,W. Morelo,74,C. Valencia,70,4
+Sporting de Charleroi,Goalkeeper,N. Penneteau,73,R. Riou,71,2
+Sporting de Charleroi,Defender,D. Dessoleil,72,G. Angella,72,0
+Sporting de Charleroi,Midfielder,C. Benavente,74,M. Bruno,71,3
+Sporting de Charleroi,Attacker,J. Perbet,71,A. Niane,71,0
+Millonarios FC,Goalkeeper,W. Faríñez,73,R. Sánchez,64,9
+Millonarios FC,Defender,A. Cadavid,71,J. Palacios,70,1
+Millonarios FC,Midfielder,A. del Valle,74,C. Marrugo,73,1
+Millonarios FC,Attacker,R. Ovelar,70,C. López,63,7
+Sheffield Wednesday,Goalkeeper,K. Westwood,73,J. Wildsmith,66,7
+Sheffield Wednesday,Defender,T. Lees,72,M. Hector,71,1
+Sheffield Wednesday,Midfielder,A. Reach,73,S. Hutchinson,72,1
+Sheffield Wednesday,Attacker,F. Forestieri,74,G. Hooper,73,1
+Perugia,Goalkeeper,Gabrìel,74,N. Leali,70,4
+Perugia,Defender,J. El Yamiq,71,N. Gyömbér,71,0
+Perugia,Midfielder,V. Verre,71,R. Bianco,70,1
+Perugia,Attacker,F. Melchiorri,72,Han Kwang Song,68,4
+Daegu FC,Goalkeeper,Cho Hyun Woo,74,Choi Young Eun,57,17
+Daegu FC,Defender,Hong Jeong Un,64,Kim Jin Hyuk,63,1
+Daegu FC,Midfielder,Jeong Woo Jae,67,Ko Seung Beom,67,0
+Daegu FC,Attacker,Edgar,68,Cesinha,67,1
+Vélez Sarsfield,Goalkeeper,A. Domínguez,73,L. Hoyos,65,8
+Vélez Sarsfield,Defender,F. Cubero,71,L. Giannetti,70,1
+Vélez Sarsfield,Midfielder,G. Giménez,72,P. Galdames,70,2
+Vélez Sarsfield,Attacker,M. Vargas,74,A. Bouzat,72,2
+Grasshopper Club Zürich,Goalkeeper,H. Lindner,74,M. Matic,55,19
+Grasshopper Club Zürich,Defender,A. Ajeti,67,J. Rhyner,65,2
+Grasshopper Club Zürich,Midfielder,R. Sigurjónsson,72,R. Holzhauser,72,0
+Grasshopper Club Zürich,Attacker,M. Djuricin,68,A. Pinga,61,7
+Sivasspor,Goalkeeper,S. Rochet,69,A. Vural,69,0
+Sivasspor,Defender,David Braz,73,Douglas,72,1
+Sivasspor,Midfielder,G. Torje,73,D. N'Dinga,72,1
+Sivasspor,Attacker,A. Koné,74,M. Demir,72,2
+Nîmes Olympique,Goalkeeper,P. Bernardoni,72,B. Valette,66,6
+Nîmes Olympique,Defender,A. Briançon,72,L. Landre,70,2
+Nîmes Olympique,Midfielder,J. Ferri,74,S. Thioub,73,1
+Nîmes Olympique,Attacker,B. Guillaume,70,R. Alioui,70,0
+Rosenborg BK,Goalkeeper,A. Hansen,73,A. Østbø,65,8
+Rosenborg BK,Defender,T. Reginiussen,73,B. Meling,70,3
+Rosenborg BK,Midfielder,M. Jensen,74,A. Trondsen,71,3
+Rosenborg BK,Attacker,N. Bendtner,72,S. Adegbenro,72,0
+SK Sturm Graz,Goalkeeper,J. Siebenhandl,71,T. Schützenauer,63,8
+SK Sturm Graz,Defender,D. Maresic,72,Filipe Ferreira,69,3
+SK Sturm Graz,Midfielder,P. Žulj,74,S. Hierländer,71,3
+SK Sturm Graz,Attacker,P. Hosiner,69,E. Eze,66,3
+FC Metz,Goalkeeper,A. Oukidja,71,P. Delecroix,65,6
+FC Metz,Defender,S. Sunzu,73,I. Balliu,72,1
+FC Metz,Midfielder,R. Cohade,74,M. Gakpa,70,4
+FC Metz,Attacker,F. Boulaya,72,H. Diallo,72,0
+CD Universidad de Concepción,Goalkeeper,C. Muñoz,68,A. Salazar,68,0
+CD Universidad de Concepción,Defender,S. Vittor,72,G. Mencia,68,4
+CD Universidad de Concepción,Midfielder,P. Morales,74,F. Manríquez,73,1
+CD Universidad de Concepción,Attacker,J. Benítez,70,J. Huentelaf,68,2
+Hellas Verona,Goalkeeper,M. Silvestri,69,A. Tozzo,61,8
+Hellas Verona,Defender,L. Marrone,73,A. Caracciolo,71,2
+Hellas Verona,Midfielder,K. Laribi,70,M. Fossati,69,1
+Hellas Verona,Attacker,A. Ragusa,74,G. Pazzini,73,1
+Brisbane Roar,Goalkeeper,J. Young,67,B. White,56,11
+Brisbane Roar,Defender,A. Papadopoulos,68,L. DeVere,68,0
+Brisbane Roar,Midfielder,E. Bauthéac,74,B. Holman,69,5
+Brisbane Roar,Attacker,A. Taggart,68,Henrique,65,3
+CD Feirense,Goalkeeper,Caio Secco,73,Bruno Brígido,69,4
+CD Feirense,Defender,A. Briseño,72,Flávio,71,1
+CD Feirense,Midfielder,Tiago Silva,74,Crivellaro,71,3
+CD Feirense,Attacker,Edinho,73,J. Valencia,67,6
+Hull City,Goalkeeper,D. Marshall,71,G. Long,67,4
+Hull City,Defender,T. Elphick,71,J. de Wijs,70,1
+Hull City,Midfielder,K. Grosicki,73,M. Henriksen,71,2
+Hull City,Attacker,F. Campbell,69,C. Martin,68,1
+Waasland-Beveren,Goalkeeper,D. Roef,73,K. Debaty,63,10
+Waasland-Beveren,Defender,M. Massop,66,V. Moren,66,0
+Waasland-Beveren,Midfielder,N. Ampomah,70,R. Abdullah,69,1
+Waasland-Beveren,Attacker,A. Vellios,69,A. Boljević,68,1
+Neuchâtel Xamax,Goalkeeper,L. Walthert,62,M. Minder,55,7
+Neuchâtel Xamax,Defender,J. Huyghebaert,66,M. Gomes,63,3
+Neuchâtel Xamax,Midfielder,C. Doudin,66,G. Treand,65,1
+Neuchâtel Xamax,Attacker,R. Nuzzolo,73,F. Nimani,66,7
+Real Zaragoza,Goalkeeper,C. Álvarez,73,Ratón,69,4
+Real Zaragoza,Defender,Guitián,72,S. Grippo,71,1
+Real Zaragoza,Midfielder,Eguaras,71,Zapater,71,0
+Real Zaragoza,Attacker,Jorge Pombo,72,Álvaro,72,0
+CD Aves,Goalkeeper,Fábio,68,Q. Beunardeau,68,0
+CD Aves,Defender,Carlos Ponck,73,Diego Galo,71,2
+CD Aves,Midfielder,Vítor Gomes,72,Braga,70,2
+CD Aves,Attacker,Nildo Petrolina,73,Amilton,73,0
+Millwall,Goalkeeper,J. Archer,70,B. Amos,68,2
+Millwall,Defender,S. Hutchinson,73,J. Cooper,71,2
+Millwall,Midfielder,S. Williams,73,J. Wallace,71,2
+Millwall,Attacker,L. Gregory,70,S. Morison,69,1
+Unión de Santa Fe,Goalkeeper,N. Fernández,71,J. Papaleo,62,9
+Unión de Santa Fe,Defender,Y. Gómez Andrade,73,J. Bottinelli,72,1
+Unión de Santa Fe,Midfielder,N. Acevedo,73,D. Zabala,72,1
+Unión de Santa Fe,Attacker,F. Soldano,73,F. Andrada,69,4
+KAS Eupen,Goalkeeper,H. Van Crombrugge,73,B. Niasse,63,10
+KAS Eupen,Defender,M. Pouraliganji,70,Xavi Molina,69,1
+KAS Eupen,Midfielder,D. Milićević,72,Luis García,71,1
+KAS Eupen,Attacker,Y. Toyokawa,69,C. Keita,69,0
+Cádiz CF,Goalkeeper,Cifuentes,73,David Gil,60,13
+Cádiz CF,Defender,Sergio Sánchez,72,Servando,69,3
+Cádiz CF,Midfielder,Salvi Sánchez,73,Álex Fernández,72,1
+Cádiz CF,Attacker,D. Lekić,71,Carrillo,68,3
+FC Tokyo,Goalkeeper,A. Hayashi,68,T. Okubo,63,5
+FC Tokyo,Defender,M. Morishige,72,Jang Hyeon Soo,69,3
+FC Tokyo,Midfielder,Y. Takahagi,69,K. Higashi,69,0
+FC Tokyo,Attacker,Diego Oliveira,73,Lins,71,2
+CD Tenerife,Goalkeeper,Dani Hernández,71,Ángel Galván,65,6
+CD Tenerife,Defender,Jorge Sáenz,70,Alberto,69,1
+CD Tenerife,Midfielder,Luis Milla,73,Aitor Sanz,73,0
+CD Tenerife,Attacker,Naranjo,72,Nano,70,2
+1. FC Union Berlin,Goalkeeper,R. Gikiewicz,73,J. Busk,70,3
+1. FC Union Berlin,Defender,K. Reichel,73,F. Hübner,72,1
+1. FC Union Berlin,Midfielder,F. Kroos,72,M. Schmiedebach,72,0
+1. FC Union Berlin,Attacker,R. Žulj,72,S. Polter,72,0
+Al Fayha,Goalkeeper,C. Bonilla,69,M. Al Furayj,63,6
+Al Fayha,Defender,A. Tziolis,70,Gégé,69,1
+Al Fayha,Midfielder,J. Gómez,73,J. Ruiz,69,4
+Al Fayha,Attacker,D. Asprilla,71,R. Fernández,70,1
+AJ Auxerre,Goalkeeper,M. Michel,70,Q. Westberg,65,5
+AJ Auxerre,Defender,F. Bellugou,71,S. Souprayen,69,2
+AJ Auxerre,Midfielder,R. Philippoteaux,73,B. Ketkeophomphone,72,1
+AJ Auxerre,Attacker,M. Yattara,70,Y. Merdji,68,2
+Patriotas Boyacá FC,Goalkeeper,D. Martínez,68,A. Otero,65,3
+Patriotas Boyacá FC,Defender,N. Carreño,70,J. Malagón,69,1
+Patriotas Boyacá FC,Midfielder,O. Pérez,73,C. Mosquera,70,3
+Patriotas Boyacá FC,Attacker,D. Álvarez,69,F. Ávila,65,4
+Molde FK,Goalkeeper,A. Linde,69,Álex Craninx,64,5
+Molde FK,Defender,V. Forren,73,R. Gabrielsen,68,5
+Molde FK,Midfielder,B. Sarr,71,M. Eikrem,71,0
+Molde FK,Attacker,E. Hestad,70,L. James,69,1
+Bristol City,Goalkeeper,F. Fielding,69,N. Mäenpää,69,0
+Bristol City,Defender,A. Webster,72,T. Kalas,72,0
+Bristol City,Midfielder,M. Pack,72,J. Paterson,71,1
+Bristol City,Attacker,F. Diedhiou,73,A. Weimann,72,1
+CD Nacional,Goalkeeper,Daniel Guimarães,72,Lucas França,64,8
+CD Nacional,Defender,Kalindi,70,Felipe,70,0
+CD Nacional,Midfielder,F. Tissone,73,Jota,71,2
+CD Nacional,Attacker,Camacho,72,B. Róchez,71,1
+Sporting Lokeren,Goalkeeper,D. Verhulst,69,O. De Wolf,69,0
+Sporting Lokeren,Defender,J. Filipović,72,O. Deschacht,71,1
+Sporting Lokeren,Midfielder,G. Bia,73,J. Cevallos,71,2
+Sporting Lokeren,Attacker,S. De Ridder,70,D. Jovanovic,68,2
+FC St. Pauli,Goalkeeper,R. Himmelmann,70,K. Müller,64,6
+FC St. Pauli,Defender,J. Dudziak,70,C. Avevor,70,0
+FC St. Pauli,Midfielder,C. Buchtmann,73,M. Møller Dæhli,72,1
+FC St. Pauli,Attacker,H. Veerman,70,S. Allagui,70,0
+Deportes Iquique,Goalkeeper,R. Naranjo,67,L. Sotomayor,61,6
+Deportes Iquique,Defender,M. Zenteno,68,N. Peñailillo,66,2
+Deportes Iquique,Midfielder,L. Bustamante,73,J. Fuentes,68,5
+Deportes Iquique,Attacker,R. Becerra,68,E. Pernía,65,3
+Al Qadisiyah,Goalkeeper,F. Al Masrahi,64,J. Duncan,64,0
+Al Qadisiyah,Defender,R. Williams,72,A. Falatah,66,6
+Al Qadisiyah,Midfielder,Jorginho,70,Yago,67,3
+Al Qadisiyah,Attacker,Élton,73,Bismark,70,3
+Atlético Bucaramanga,Goalkeeper,L. Delgado,67,N. Ramos,67,0
+Atlético Bucaramanga,Defender,F. Rodríguez,65,M. Torres,64,1
+Atlético Bucaramanga,Midfielder,S. Cárdenas,73,C. Quintero,70,3
+Atlético Bucaramanga,Attacker,M. Rangel,73,S. Romero,65,8
+Club Atlético Tigre,Goalkeeper,A. Batalla,70,F. Crivelli,67,3
+Club Atlético Tigre,Defender,I. Canuto,72,M. Caire,71,1
+Club Atlético Tigre,Midfielder,W. Montillo,73,D. Morales,72,1
+Club Atlético Tigre,Attacker,D. Vera,73,F. González,70,3
+FK Austria Wien,Goalkeeper,P. Pentz,68,I. Lučić,62,6
+FK Austria Wien,Defender,M. Madl,71,F. Klein,70,1
+FK Austria Wien,Midfielder,A. Grünwald,73,Ewandro,71,2
+FK Austria Wien,Attacker,A. Turgeman,68,K. Friesenbichler,68,0
+Patronato,Goalkeeper,S. Bertoli,73,F. Costa,60,13
+Patronato,Defender,B. Urribarri,70,L. Ceballos,69,1
+Patronato,Midfielder,M. Sperduti,73,P. Ledesma,71,2
+Patronato,Attacker,E. Rescaldani,69,N. Royón,63,6
+Malmö FF,Goalkeeper,J. Dahlin,71,W. Viitala,63,8
+Malmö FF,Defender,R. Bengtsson,73,S. Rieks,72,1
+Malmö FF,Midfielder,A. Christiansen,73,F. Bachirou,73,0
+Malmö FF,Attacker,M. Rosenberg,73,C. Strandberg,72,1
+Kashiwa Reysol,Goalkeeper,K. Nakamura,71,K. Kirihata,58,13
+Kashiwa Reysol,Defender,Nathan Otávio,70,D. Suzuki,69,1
+Kashiwa Reysol,Midfielder,J. Ito,73,Kim Bo Kyung,70,3
+Kashiwa Reysol,Attacker,Cristiano,73,M. Olunga,72,1
+US Cremonese,Goalkeeper,B. Radunović,69,N. Ravaglia,66,3
+US Cremonese,Defender,E. Terranova,73,Claiton,72,1
+US Cremonese,Midfielder,M. Castagnetti,72,D. Croce,70,2
+US Cremonese,Attacker,Paulinho,71,A. Montalto,68,3
+VfL Bochum 1848,Goalkeeper,M. Riemann,69,F. Dornebusch,61,8
+VfL Bochum 1848,Defender,Danilo,72,T. Hoogland,71,1
+VfL Bochum 1848,Midfielder,R. Kruse,73,S. Sam,72,1
+VfL Bochum 1848,Attacker,L. Hinterseer,73,S. Ganvoula,69,4
+SK Rapid Wien,Goalkeeper,R. Strebinger,72,T. Knoflach,65,7
+SK Rapid Wien,Defender,B. Bolingoli,73,C. Dibon,69,4
+SK Rapid Wien,Midfielder,T. Murg,73,C. Knasmüllner,72,1
+SK Rapid Wien,Attacker,D. Alar,73,A. Pavlović,65,8
+KSV Cercle Brugge,Goalkeeper,P. Nardi,73,B. Vandenbussche,64,9
+KSV Cercle Brugge,Defender,J. Taravel,70,N. Ueda,69,1
+KSV Cercle Brugge,Midfielder,S. Gakpé,72,X. Mercier,71,1
+KSV Cercle Brugge,Attacker,I. Cardona,69,D. De Belder,67,2
+Rionegro Águilas,Goalkeeper,L. Álvarez,68,J. Valencia,64,4
+Rionegro Águilas,Defender,D. Muñoz,71,C. Ramírez,71,0
+Rionegro Águilas,Midfielder,F. Hinestroza,73,E. Arango,70,3
+Rionegro Águilas,Attacker,H. Osorio,68,R. Caballero,66,2
+Gimnàstic de Tarragona,Goalkeeper,Isaac Becerra,69,Bernabé,67,2
+Gimnàstic de Tarragona,Defender,Iván López,73,Albentosa,72,1
+Gimnàstic de Tarragona,Midfielder,Sebas Coris,71,Javi Márquez,70,1
+Gimnàstic de Tarragona,Attacker,Manu Del Moral,72,Manu Barreiro,71,1
+Lecce,Goalkeeper,M. Vigorito,67,M. Bleve,60,7
+Lecce,Defender,F. Lucioni,73,L. Venuti,70,3
+Lecce,Midfielder,F. Falco,70,T. Haye,67,3
+Lecce,Attacker,A. La Mantia,68,S. Pettinari,67,1
+Santa Clara,Goalkeeper,Marco Rocha,71,Serginho,67,4
+Santa Clara,Defender,Patrick,71,João Lucas,70,1
+Santa Clara,Midfielder,Bruno Lamas,72,O. Rashid,71,1
+Santa Clara,Attacker,Thiago Santana,73,Ukra,71,2
+BK Häcken,Goalkeeper,P. Abrahamsson,69,C. Källqvist,63,6
+BK Häcken,Defender,R. Lindgren,69,K. Arkivuo,67,2
+BK Häcken,Midfielder,D. Irandust,67,E. Friberg,67,0
+BK Häcken,Attacker,Paulinho,73,A. Jeremejeff,68,5
+New England Revolution,Goalkeeper,M. Turner,69,B. Knighton,65,4
+New England Revolution,Defender,M. Mancienne,70,A. Farrell,69,1
+New England Revolution,Midfielder,D. Fagundez,73,C. Penilla,71,2
+New England Revolution,Attacker,T. Bunbury,70,F. Hollinger-Janzen,59,11
+Orlando Pirates,Goalkeeper,B. Khuzwayo,70,W. Sandilands,69,1
+Orlando Pirates,Defender,T. Matlaba,73,A. Mobara,72,1
+Orlando Pirates,Midfielder,M. Makola,72,M. Nyatama,71,1
+Orlando Pirates,Attacker,K. Mahachi,70,A. Mulenga,68,2
+Atlético Huila,Goalkeeper,G. Banguera,73,B. Castillo,66,7
+Atlético Huila,Defender,E. Segura,68,L. Tipton,65,3
+Atlético Huila,Midfielder,M. Ordóñez,69,R. Tavera,68,1
+Atlético Huila,Attacker,S. Herrera,63,M. Barreiro,63,0
+Western Sydney Wanderers,Goalkeeper,V. Janjetović,66,D. Nizic,58,8
+Western Sydney Wanderers,Defender,J. Risdon,72,P. Ziegler,69,3
+Western Sydney Wanderers,Midfielder,A. Baumjohann,73,R. Mahazi,62,11
+Western Sydney Wanderers,Attacker,Oriol Riera,71,R. Bonevacia,70,1
+Kalmar FF,Goalkeeper,L. Hägg-Johansson,64,O. Söderberg,63,1
+Kalmar FF,Defender,V. Elm,69,M. Dyrestam,65,4
+Kalmar FF,Midfielder,R. Elm,73,Romário,67,6
+Kalmar FF,Attacker,Nixon,68,E. Fejzullahu,66,2
+Independiente Medellín,Goalkeeper,D. González,68,A. Mosquera,63,5
+Independiente Medellín,Defender,E. Perlaza,71,J. Murillo,67,4
+Independiente Medellín,Midfielder,A. Ricaurte,73,J. Blanco,69,4
+Independiente Medellín,Attacker,G. Cano,73,L. Castro,70,3
+Fortuna Sittard,Goalkeeper,A. Coșelev,67,A. Özer,64,3
+Fortuna Sittard,Defender,W. Dammers,67,Mica Pinto,66,1
+Fortuna Sittard,Midfielder,José Rodríguez,73,A. El Messaoudi,69,4
+Fortuna Sittard,Attacker,Lisandro Semedo,71,A. Novakovich,68,3
+Lech Poznań,Goalkeeper,M. Putnocký,68,J. Burić,67,1
+Lech Poznań,Defender,R. Gumny,68,D. Goutas,67,1
+Lech Poznań,Midfielder,João Amaral,73,M. Makuszewski,71,2
+Lech Poznań,Attacker,C. Gytkjær,72,Dioni,63,9
+Djurgårdens IF,Goalkeeper,A. Isaksson,70,T. Vaiho,61,9
+Djurgårdens IF,Defender,E. Johansson,73,M. Danielson,70,3
+Djurgårdens IF,Midfielder,K. Mrabti,71,F. Ulvestad,67,4
+Djurgårdens IF,Attacker,N. Bärkroth,66,O. Eddahri,66,0
+CF Reus Deportiu,Goalkeeper,Edgar Badía,73,Pol,64,9
+CF Reus Deportiu,Defender,Borja Herrera,70,M. Villanueva,68,2
+CF Reus Deportiu,Midfielder,Gus Ledes,70,Juan Dominguez,70,0
+CF Reus Deportiu,Attacker,Linares,69,Ernest Forgás,62,7
+SK Brann,Goalkeeper,S. Şahin-Radlinger,68,M. Olsen Pettersen,61,7
+SK Brann,Defender,V. Wormgoor,73,B. Acosta,71,2
+SK Brann,Midfielder,F. Haugen,70,R. Jenssen,70,0
+SK Brann,Attacker,G. Koomson,68,L. Marengo,67,1
+Ulsan Hyundai FC,Goalkeeper,Oh Seung Hoon,68,Kim Yong Dae,66,2
+Ulsan Hyundai FC,Defender,R. Windbichler,70,Kang Min Soo,67,3
+Ulsan Hyundai FC,Midfielder,Park Joo Ho,70,Jeong Jae Yong,70,0
+Ulsan Hyundai FC,Attacker,Kim Seung Joon,73,Lee Keun Ho,68,5
+Sint-Truidense VV,Goalkeeper,K. Steppe,70,L. Pirard,68,2
+Sint-Truidense VV,Defender,Jorge Teixeira,72,T. Tomiyasu,71,1
+Sint-Truidense VV,Midfielder,R. Bezus,73,W. Endo,71,2
+Sint-Truidense VV,Attacker,D. Kamada,72,Y. Boli,70,2
+Carpi,Goalkeeper,S. Colombi,71,F. Serraiocco,59,12
+Carpi,Defender,T. Pachonik,71,F. Poli,68,3
+Carpi,Midfielder,Z. Machach,73,L. Pasciuti,71,2
+Carpi,Attacker,B. Mokulu,70,A. Arrighini,67,3
+Al Fateh,Goalkeeper,M. Koval,68,A. Al Mazaidi,64,4
+Al Fateh,Defender,M. Aguirregaray,73,M. Naamani,65,8
+Al Fateh,Midfielder,A. Oueslati,68,M. Hamzi,63,5
+Al Fateh,Attacker,João Pedro,67,H. Al Juhayyim,63,4
+Royal Excel Mouscron,Goalkeeper,O. Werner,68,J. Butez,65,3
+Royal Excel Mouscron,Defender,N. Dussenne,68,G. Galitsios,68,0
+Royal Excel Mouscron,Midfielder,M. Bakić,69,S. Amallah,68,1
+Royal Excel Mouscron,Attacker,M. Leye,73,B. Manuel,66,7
+AC Ajaccio,Goalkeeper,B. Leroy,70,F. Sollacaro,57,13
+AC Ajaccio,Defender,C. Michelin,70,C. Avinel,69,1
+AC Ajaccio,Midfielder,R. Nouri,73,J. Cavalli,71,2
+AC Ajaccio,Attacker,G. Gimbert,71,J. Mendes,65,6
+PEC Zwolle,Goalkeeper,D. Boer,69,M. van der Hart,68,1
+PEC Zwolle,Defender,K. Ehizibue,70,B. van Polen,69,1
+PEC Zwolle,Midfielder,Y. Namli,73,V. van Crooij,70,3
+PEC Zwolle,Attacker,M. van Duinen,69,G. Scamacca,64,5
+Sunderland,Goalkeeper,J. McLaughlin,71,R. Ruiter,68,3
+Sunderland,Defender,B. Oviedo,71,A. Matthews,69,2
+Sunderland,Midfielder,A. McGeady,73,L. Cattermole,70,3
+Sunderland,Attacker,C. Wyke,67,J. Maja,65,2
+Club Atlético Aldosivi,Goalkeeper,L. Pocrnjic,73,F. Assmann,64,9
+Club Atlético Aldosivi,Defender,L. Villalba,70,L. Galeano,69,1
+Club Atlético Aldosivi,Midfielder,E. Videla,71,F. Godoy,68,3
+Club Atlético Aldosivi,Attacker,D. Stracqualursi,70,M. Pisano,70,0
+US Salernitana 1919,Goalkeeper,A. Micai,70,G. Vannucchi,53,17
+US Salernitana 1919,Defender,R. Pucino,71,A. Bernardini,70,1
+US Salernitana 1919,Midfielder,J. Akpa Akpro,72,D. Di Gennaro,72,0
+US Salernitana 1919,Attacker,A. Rosina,73,A. Vuletich,69,4
+FC Lorient,Goalkeeper,D. Petković,65,I. Meslier,61,4
+FC Lorient,Defender,V. Le Goff,72,J. Martins Pereira,70,2
+FC Lorient,Midfielder,F. Lemoine,73,J. Delaplace,70,3
+FC Lorient,Attacker,J. Cabot,72,P. Hamel,69,3
+Argentinos Juniors,Goalkeeper,L. Cháves,67,F. Lanzillotta,64,3
+Argentinos Juniors,Defender,M. Torrén,70,N. Pérez,70,0
+Argentinos Juniors,Midfielder,L. Pisculichi,73,A. Mac Allister,69,4
+Argentinos Juniors,Attacker,R. Bobadilla,72,H. Toledo,71,1
+AD Alcorcón,Goalkeeper,Raúl Lizoain,72,Dani Jiménez,70,2
+AD Alcorcón,Defender,Laure,72,David Fernández,70,2
+AD Alcorcón,Midfielder,Errasti,70,Álvaro Peña,69,1
+AD Alcorcón,Attacker,Casadesús,72,Juan Muñoz,69,3
+Crotone,Goalkeeper,A. Cordaz,72,M. Festa,62,10
+Crotone,Defender,M. Sampirisi,70,M. Curado,68,2
+Crotone,Midfielder,A. Benali,72,M. Rohdén,72,0
+Crotone,Attacker,Simy,72,A. Budimir,70,2
+Excelsior,Goalkeeper,S. Stevens,66,M. de Fockert,65,1
+Excelsior,Defender,J. Mattheij,72,J. Fortes,67,5
+Excelsior,Midfielder,L. Bruins,71,A. Messaoud,67,4
+Excelsior,Attacker,M. El Hamdaoui,67,E. Ómarsson,66,1
+KV Kortrijk,Goalkeeper,T. Kaminski,72,S. Bruzzese,67,5
+KV Kortrijk,Defender,G. Kagelmacher,70,B. Kumordzi,68,2
+KV Kortrijk,Midfielder,J. De Sart,71,H. Van Der Bruggen,71,0
+KV Kortrijk,Attacker,I. Mboyo,72,T. Chevalier,72,0
+IFK Norrköping,Goalkeeper,I. Pettersson,69,D. Mitov Nilsson,68,1
+IFK Norrköping,Defender,A. Johansson,72,F. Dagerstål,68,4
+IFK Norrköping,Midfielder,A. Fransson,72,S. Thern,71,1
+IFK Norrköping,Attacker,D. Moberg Karlsson,69,K. Holmberg,68,1
+Adelaide United,Goalkeeper,P. Izzo,67,D. Margush,60,7
+Adelaide United,Defender,M. Jakobsen,68,J. Elsey,66,2
+Adelaide United,Midfielder,Isaías,72,M. Boland,71,1
+Adelaide United,Attacker,B. Diawara,68,B. Halloran,66,2
+FC St. Gallen,Goalkeeper,D. Lopar,64,D. Stojanović,63,1
+FC St. Gallen,Defender,M. Vilotić,68,S. Hefti,67,1
+FC St. Gallen,Midfielder,T. Barnetta,72,K. Manneh,69,3
+FC St. Gallen,Attacker,N. Ben Khalifa,68,Y. Tafer,67,1
+Tiburones Rojos de Veracruz,Goalkeeper,P. Gallese,72,M. Hernández,67,5
+Tiburones Rojos de Veracruz,Defender,J. Paganoni,69,E. Pérez,69,0
+Tiburones Rojos de Veracruz,Midfielder,B. Carrasco,72,J. Abrigo,69,3
+Tiburones Rojos de Veracruz,Attacker,C. Menéndez,72,D. Chávez,60,12
+CD Palestino,Goalkeeper,D. Melo,69,S. Pérez,63,6
+CD Palestino,Defender,B. Vidal,70,A. González,67,3
+CD Palestino,Midfielder,A. Farías,72,J. Rodríguez,69,3
+CD Palestino,Attacker,L. Jiménez,72,R. Gutiérrez,72,0
+Jeju United FC,Goalkeeper,Lee Chang Geun,66,Kim Gyeong Min,61,5
+Jeju United FC,Defender,Kim Won Il,68,A. Jovanović,66,2
+Jeju United FC,Midfielder,Lee Chang Min,72,Jeong Woon,70,2
+Jeju United FC,Attacker,Magno,69,Roberson,68,1
+Deportes Tolima,Goalkeeper,A. Montero,69,W. Cuesta,61,8
+Deportes Tolima,Defender,D. Banguero,72,J. Quiñones,71,1
+Deportes Tolima,Midfielder,R. Carrascal,71,R. Robayo,70,1
+Deportes Tolima,Attacker,M. Pérez,72,Y. Orozco,72,0
+Jeonbuk Hyundai Motors,Goalkeeper,Hong Jung Nam,64,Song Bum Keun,64,0
+Jeonbuk Hyundai Motors,Defender,Kim Min Jae,72,Kim Jin Su,72,0
+Jeonbuk Hyundai Motors,Midfielder,Son Jun Ho,71,Lee Seung Gi,70,1
+Jeonbuk Hyundai Motors,Attacker,Tiago,71,Adriano,71,0
+Birmingham City,Goalkeeper,T. Kuszczak,69,D. Stockdale,69,0
+Birmingham City,Defender,K. Pedersen,72,H. Dean,71,1
+Birmingham City,Midfielder,Jota,72,C. Gardner,70,2
+Birmingham City,Attacker,C. Adams,71,L. Jutkiewicz,70,1
+América de Cali,Goalkeeper,C. Bejarano,68,Neto,63,5
+América de Cali,Defender,P. Armero,71,H. Quiñones,70,1
+América de Cali,Midfielder,D. Buitrago,72,J. Cuero,71,1
+América de Cali,Attacker,F. Aristeguieta,69,C. Dajome,66,3
+La Equidad,Goalkeeper,D. Novoa,68,E. Ruiz,63,5
+La Equidad,Defender,A. Correa,68,F. Nájera,67,1
+La Equidad,Midfielder,S. Motta,71,M. Mier,69,2
+La Equidad,Attacker,C. Peralta,72,L. Cabezas,66,6
+Spezia,Goalkeeper,E. Lamanna,72,N. Manfredini,66,6
+Spezia,Defender,C. Terzi,72,F. De Col,68,4
+Spezia,Midfielder,P. Bartolomei,69,L. Mora,69,0
+Spezia,Attacker,A. Galabinov,71,S. Bidaoui,65,6
+Aalborg BK,Goalkeeper,J. Rinne,72,M. Lansing,57,15
+Aalborg BK,Defender,J. Okore,72,J. Ahlmann,68,4
+Aalborg BK,Midfielder,K. Kusk,72,R. Würtz,68,4
+Aalborg BK,Attacker,L. Andersen,72,T. van Weert,69,3
+Le Havre AC,Goalkeeper,A. Balijon,66,Y. Thuram,65,1
+Le Havre AC,Defender,H. Moukoudi,70,D. Bain,68,2
+Le Havre AC,Midfielder,Z. Ferhat,72,H. Bazile,70,2
+Le Havre AC,Attacker,E. Assifuah,67,J. Thiaré,64,3
+Górnik Zabrze,Goalkeeper,T. Loska,67,W. Pawłowski,62,5
+Górnik Zabrze,Defender,P. Bochniewicz,66,Dani Suárez,65,1
+Górnik Zabrze,Midfielder,S. Żurkowski,72,S. Matuszek,65,7
+Górnik Zabrze,Attacker,Angulo,72,L. Wolsztyński,67,5
+Central Coast Mariners,Goalkeeper,B. Kennedy,56,A. Pearce,56,0
+Central Coast Mariners,Defender,K. Cissé,65,J. Aspropotamitis,64,1
+Central Coast Mariners,Midfielder,T. Oar,72,T. Hiariej,70,2
+Central Coast Mariners,Attacker,R. McCormack,72,C. Pain,63,9
+Wigan Athletic,Goalkeeper,C. Walton,70,J. Jones,65,5
+Wigan Athletic,Defender,D. Burn,71,C. Dunkley,70,1
+Wigan Athletic,Midfielder,J. Windass,72,N. Powell,72,0
+Wigan Athletic,Attacker,J. Garner,71,W. Grigg,70,1
+Jagiellonia Białystok,Goalkeeper,M. Kelemen,70,G. Sandomierski,64,6
+Jagiellonia Białystok,Defender,I. Runje,72,Guilherme Sityá,71,1
+Jagiellonia Białystok,Midfielder,A. Novikovas,71,M. Pospíšil,70,1
+Jagiellonia Białystok,Attacker,R. Bezjak,69,K. Świderski,64,5
+Cittadella,Goalkeeper,A. Paleari,66,L. Maniero,62,4
+Cittadella,Defender,F. Scaglia,69,A. Benedetti,68,1
+Cittadella,Midfielder,M. Iori,72,A. Schenetti,69,3
+Cittadella,Attacker,A. Bussaglia,66,L. Strizzolo,66,0
+Hibernian,Goalkeeper,A. Bogdán,69,O. Marciano,65,4
+Hibernian,Defender,M. Milligan,72,E. Ambrose,70,2
+Hibernian,Midfielder,D. Horgan,68,S. Whittaker,68,0
+Hibernian,Attacker,J. Maclaren,70,F. Kamberi,67,3
+FC Lugano,Goalkeeper,D. Da Costa,63,N. Baumann,59,4
+FC Lugano,Defender,F. Daprelà,68,M. Čovilo,67,1
+FC Lugano,Midfielder,P. Brlek,71,J. Sabbatini,65,6
+FC Lugano,Attacker,A. Gerndt,72,M. Janko,69,3
+San Martín de San Juan,Goalkeeper,L. Ardente,72,L. Corti,63,9
+San Martín de San Juan,Defender,F. Erpen,71,F. Mattia,69,2
+San Martín de San Juan,Midfielder,M. Fissore,68,F. Brandán,67,1
+San Martín de San Juan,Attacker,M. Bravo,67,P. Alvarenga,65,2
+Strømsgodset IF,Goalkeeper,P. Heigre,61,M. Sætra,58,3
+Strømsgodset IF,Defender,J. Glesnes,69,J. Parr,68,1
+Strømsgodset IF,Midfielder,E. Andersen,72,H. Stengel,67,5
+Strømsgodset IF,Attacker,M. Pedersen,70,T. Nguen,68,2
+Júbilo Iwata,Goalkeeper,K. Kamiński,66,K. Shimura,62,4
+Júbilo Iwata,Defender,E. Albayrak,71,K. Oi,66,5
+Júbilo Iwata,Midfielder,S. Nakamura,72,T. Taguchi,67,5
+Júbilo Iwata,Attacker,H. Yamada,69,Y. Okubo,69,0
+Newell's Old Boys,Goalkeeper,A. Aguerre,70,N. Ibáñez,70,0
+Newell's Old Boys,Defender,F. Fontanini,72,I. Piris,72,0
+Newell's Old Boys,Midfielder,B. Sarmiento,72,V. Figueroa,72,0
+Newell's Old Boys,Attacker,Luís Leal,72,Zé Turbo,67,5
+Al Faisaly,Goalkeeper,M. Malaeka,65,K. Sharahili,65,0
+Al Faisaly,Defender,Igor Rossi,69,A. Puljić,68,1
+Al Faisaly,Midfielder,Rogerinho,72,Luisinho,70,2
+Al Faisaly,Attacker,D. Calderón Caicedo,68,J. Akpala,68,0
+Colorado Rapids,Goalkeeper,T. Howard,72,Z. MacMath,67,5
+Colorado Rapids,Defender,E. Castillo,69,T. Smith,69,0
+Colorado Rapids,Midfielder,K. Acosta,72,J. Price,71,1
+Colorado Rapids,Attacker,S. Gashi,71,G. Barnes,68,3
+IF Elfsborg,Goalkeeper,K. Stuhr-Ellegaard,70,D. Olsson,59,11
+IF Elfsborg,Defender,F. Holst,66,J. Nilsson,64,2
+IF Elfsborg,Midfielder,S. Lundevall,70,S. Holmén,68,2
+IF Elfsborg,Attacker,C. Obasi,72,P. Frick,66,6
+SV Sandhausen,Goalkeeper,M. Schuhen,70,N. Lomb,67,3
+SV Sandhausen,Defender,P. Klingmann,72,T. Knipping,71,1
+SV Sandhausen,Midfielder,N. Daghfous,69,E. Taffertshofer,68,1
+SV Sandhausen,Attacker,A. Wooten,70,R. Gíslason,69,1
+Al Batin,Goalkeeper,Adriano Facchini,71,M. Al Anazi,63,8
+Al Batin,Defender,Lucas Tagliapietra,69,João Gabriel,66,3
+Al Batin,Midfielder,Crysan,66,M. Riascos,66,0
+Al Batin,Attacker,J. Arango,72,A. Bouhaddouz,70,2
+Stade Brestois 29,Goalkeeper,G. Larsonneur,69,D. Léon,63,6
+Stade Brestois 29,Defender,A. Weber,70,G. Belaud,70,0
+Stade Brestois 29,Midfielder,J. Faussurier,71,M. Autret,69,2
+Stade Brestois 29,Attacker,G. Charbonnier,72,K. Mayi,66,6
+UD Almería,Goalkeeper,René,72,Fernando,65,7
+UD Almería,Defender,E. Saveljich,69,L. Owona,67,2
+UD Almería,Midfielder,Juan Carlos,71,J. Arzura,71,0
+UD Almería,Attacker,Álvaro,68,P. Caballero,67,1
+Gyeongnam FC,Goalkeeper,Son Jeong Hyeon,66,Lee Bum Soo,61,5
+Gyeongnam FC,Defender,Woo Ju Sung,65,Lee Jae Myung,63,2
+Gyeongnam FC,Midfielder,Negueba,69,Choe Yeong Joon,68,1
+Gyeongnam FC,Attacker,Marcão,72,Paulinho,69,3
+Yokohama F. Marinos,Goalkeeper,H. Iikura,66,D. Sugimoto,62,4
+Yokohama F. Marinos,Defender,D. Cvetinović,70,Thiago Martins,68,2
+Yokohama F. Marinos,Midfielder,O. Boumal,72,T. Kida,68,4
+Yokohama F. Marinos,Attacker,Hugo Vieira,70,K. Endo,66,4
+Kilmarnock,Goalkeeper,J. MacDonald,69,D. Bachmann,62,7
+Kilmarnock,Defender,G. Taylor,69,S. O'Donnell,67,2
+Kilmarnock,Midfielder,J. Jones,72,R. McKenzie,67,5
+Kilmarnock,Attacker,K. Boyd,72,G. Stewart,68,4
+Pescara,Goalkeeper,V. Fiorillo,71,S. Farelli,58,13
+Pescara,Defender,H. Campagnaro,70,G. Scognamiglio,70,0
+Pescara,Midfielder,G. Brugman,72,L. Memushaj,71,1
+Pescara,Attacker,L. Mancuso,70,G. Monachello,69,1
+Newcastle Jets,Goalkeeper,G. Moss,63,L. Italiano,58,5
+Newcastle Jets,Defender,N. Boogaard,68,N. Topor-Stanley,65,3
+Newcastle Jets,Midfielder,R. Vargas,72,D. Petratos,71,1
+Newcastle Jets,Attacker,R. O'Donovan,66,J. Hoffman,63,3
+Córdoba CF,Goalkeeper,Carlos Abad,67,Alberto González,59,8
+Córdoba CF,Defender,Aythami Artiles,72,Fernández,69,3
+Córdoba CF,Midfielder,Jaime Romero,71,De las Cuevas,70,1
+Córdoba CF,Attacker,S. Jovanović,67,Erik Expósito,65,2
+RCD Mallorca,Goalkeeper,Manolo Reina,68,Miquel Parera,61,7
+RCD Mallorca,Defender,Raillo,69,Xisco Campos,66,3
+RCD Mallorca,Midfielder,Salva Sevilla,72,A. Faurlín,70,2
+RCD Mallorca,Attacker,Castro,67,Álex López,66,1
+Hammarby IF,Goalkeeper,J. Wiland,72,D. Blazevic,59,13
+Hammarby IF,Defender,B. Paulsen,69,M. Fenger,68,1
+Hammarby IF,Midfielder,J. Hamad,72,S. Martinsson Ngouali,72,0
+Hammarby IF,Attacker,N. Đurđić,70,S. Svendsen,66,4
+Cerezo Osaka,Goalkeeper,Kim Jin Hyeon,69,K. Tanno,60,9
+Cerezo Osaka,Defender,M. Jonjić,71,R. Matsuda,66,5
+Cerezo Osaka,Midfielder,H. Kiyotake,72,H. Yamaguchi,71,1
+Cerezo Osaka,Attacker,K. Sugimoto,71,Y. Kakitani,70,1
+KFC Uerdingen 05,Goalkeeper,R. Vollath,66,R. Benz,58,8
+KFC Uerdingen 05,Defender,D. Maroh,72,K. Großkreutz,71,1
+KFC Uerdingen 05,Midfielder,D. Daube,69,M. Beister,68,1
+KFC Uerdingen 05,Attacker,S. Aigner,71,S. Yesil,65,6
+Shimizu S-Pulse,Goalkeeper,Y. Rokutan,65,Y. Uekusa,56,9
+Shimizu S-Pulse,Defender,Hwang Seok Ho,66,Freire,66,0
+Shimizu S-Pulse,Midfielder,S. Kaneko,70,R. Shirasaki,66,4
+Shimizu S-Pulse,Attacker,Douglas,72,Chong Te Se,71,1
+MSV Duisburg,Goalkeeper,D. Mesenhöler,67,D. Davari,64,3
+MSV Duisburg,Defender,K. Wolze,72,D. Bomheuer,69,3
+MSV Duisburg,Midfielder,F. Schnellhardt,71,L. Fröde,71,0
+MSV Duisburg,Attacker,B. Tashchy,69,J. Verhoek,69,0
+Os Belenenses,Goalkeeper,Mika,69,Guilherme Oliveira,63,6
+Os Belenenses,Defender,Gonçalo Silva,72,P. Sagna,70,2
+Os Belenenses,Midfielder,Nuno Coelho,72,André Santos,70,2
+Os Belenenses,Attacker,Filipe Chaby,70,O. Dramé,70,0
+DSC Arminia Bielefeld,Goalkeeper,S. Ortega,72,P. Klewin,67,5
+DSC Arminia Bielefeld,Defender,J. Börner,72,S. Salger,70,2
+DSC Arminia Bielefeld,Midfielder,M. Christiansen,69,P. Weihrauch,68,1
+DSC Arminia Bielefeld,Attacker,F. Klos,71,A. Voglsammer,71,0
+Ipswich Town,Goalkeeper,B. Białkowski,72,D. Gerken,68,4
+Ipswich Town,Defender,J. Knudsen,70,L. Chambers,69,1
+Ipswich Town,Midfielder,G. Ward,70,E. Huws,69,1
+Ipswich Town,Attacker,J. Walters,71,E. Harrison,65,6
+FC Seoul,Goalkeeper,Yang Han Been,70,Yoo Hyun,63,7
+FC Seoul,Defender,Hwang Hyun Soo,68,Park Dong Jin,67,1
+FC Seoul,Midfielder,Sin Jin Ho,72,Go Yo Han,71,1
+FC Seoul,Attacker,Anderson Lopes,69,Park Chu Young,67,2
+Lechia Gdańsk,Goalkeeper,D. Kuciak,70,Z. Alomerović,66,4
+Lechia Gdańsk,Defender,F. Mladenović,68,M. Nalepa,66,2
+Lechia Gdańsk,Midfielder,L. Haraslín,72,R. Wolski,70,2
+Lechia Gdańsk,Attacker,Flavio Paixão,71,A. Sobiech,69,2
+Gamba Osaka,Goalkeeper,M. Higashiguchi,72,R. Suzuki,57,15
+Gamba Osaka,Defender,G. Miura,67,H. Fujiharu,67,0
+Gamba Osaka,Midfielder,Y. Endo,71,S. Kurata,68,3
+Gamba Osaka,Attacker,Hwang Ui Jo,71,Ademilson,70,1
+CF Rayo Majadahonda,Goalkeeper,Basilio,66,Ander Cantero,63,3
+CF Rayo Majadahonda,Defender,Luso,72,Rafa López,71,1
+CF Rayo Majadahonda,Midfielder,Verza,71,E. Fernández,68,3
+CF Rayo Majadahonda,Attacker,Aitor García,70,Toni Martínez,66,4
+LASK Linz,Goalkeeper,A. Schlager,66,T. Gebauer,64,2
+LASK Linz,Defender,E. Pogatetz,68,G. Trauner,67,1
+LASK Linz,Midfielder,J. Holland,67,M. Ullmann,67,0
+LASK Linz,Attacker,T. Goiginger,71,João Victor,69,2
+Bolton Wanderers,Goalkeeper,R. Matthews,67,B. Alnwick,66,1
+Bolton Wanderers,Defender,P. Olkowski,71,M. Beevers,71,0
+Bolton Wanderers,Midfielder,S. Ameobi,71,S. Ireland,70,1
+Bolton Wanderers,Attacker,J. Magennis,68,C. Donaldson,67,1
+Al Raed,Goalkeeper,A. Doukha,66,A. Al Ruhaili,60,6
+Al Raed,Defender,H. Belkaroui,69,M. Atwa,65,4
+Al Raed,Midfielder,Y. El Ghanassy,71,F. Hasani,70,1
+Al Raed,Attacker,I. Bangoura,71,S. Al Shehri,62,9
+Extremadura UD,Goalkeeper,Manu García,66,Álvaro,65,1
+Extremadura UD,Defender,Pomares,69,L. Balbi,68,1
+Extremadura UD,Midfielder,Diego Capel,69,Kike Márquez,67,2
+Extremadura UD,Attacker,Enric Gallego,71,Chuli,69,2
+SC Paderborn 07,Goalkeeper,L. Zingerle,69,M. Ratajczak,63,6
+SC Paderborn 07,Defender,U. Hünemeier,70,C. Strohdiek,70,0
+SC Paderborn 07,Midfielder,P. Klement,71,M. Ritter,69,2
+SC Paderborn 07,Attacker,S. Michel,70,B. Zolinski,68,2
+Wellington Phoenix,Goalkeeper,F. Kurto,66,O. Sail,59,7
+Wellington Phoenix,Defender,S. Taylor,68,D. Fox,64,4
+Wellington Phoenix,Midfielder,Mandi,67,S. Singh,67,0
+Wellington Phoenix,Attacker,R. Krishna,71,D. Williams,64,7
+Unión Española,Goalkeeper,D. Sánchez,69,C. Guerra,66,3
+Unión Española,Defender,R. González,69,A. Pizzorno,67,2
+Unión Española,Midfielder,R. Carrera,71,I. Poblete,68,3
+Unión Española,Attacker,T. Figueroa,70,C. Muñoz,69,1
+Alianza Petrolera,Goalkeeper,R. Jérez,68,P. Grazziani,63,5
+Alianza Petrolera,Defender,L. Ospina,68,C. Flórez,67,1
+Alianza Petrolera,Midfielder,M. Balanta,68,A. Castro,68,0
+Alianza Petrolera,Attacker,C. Arias,67,P. Vranjicán,64,3
+Cracovia,Goalkeeper,M. Gostomski,64,M. Peškovič,63,1
+Cracovia,Defender,M. Helik,67,N. Datković,66,1
+Cracovia,Midfielder,J. Gol,71,D. Dąbrowski,69,2
+Cracovia,Attacker,Airam,65,Gerard Oliva,64,1
+Gangwon FC,Goalkeeper,Kim Ho Jun,67,Lee Bum Young,67,0
+Gangwon FC,Defender,V. Sielis,68,D. McGowan,67,1
+Gangwon FC,Midfielder,Jung Seok Hwa,68,Hwang Jin Sung,67,1
+Gangwon FC,Attacker,U. Đerić,71,Jung Jo Gook,69,2
+Elche CF,Goalkeeper,F. Uzoho,68,José Juan,68,0
+Elche CF,Defender,A. González,70,Tekio,67,3
+Elche CF,Midfielder,Xavi Torres,71,Iván Sánchez,69,2
+Elche CF,Attacker,Nino,70,S. Kaba,68,2
+ESTAC Troyes,Goalkeeper,A. Letellier,70,M. Samassa,69,1
+ESTAC Troyes,Defender,O. Vizcarrondo,71,Y. Salmier,69,2
+ESTAC Troyes,Midfielder,B. Nivet,71,J. Berthomier,70,1
+ESTAC Troyes,Attacker,Y. Touzghar,70,V. Marcel,69,1
+AS Béziers,Goalkeeper,Magno Novaes,66,Y. Marillat,65,1
+AS Béziers,Defender,F. Rherras,66,O. Sidibé,65,1
+AS Béziers,Midfielder,Cidinho,64,M. Diakota,64,0
+AS Béziers,Attacker,A. Rabillard,64,A. Ramalingom,59,5
+La Berrichonne de Châteauroux,Goalkeeper,J. Contreras,68,R. Pillot,62,6
+La Berrichonne de Châteauroux,Defender,G. Bourillon,67,A. Angoula,66,1
+La Berrichonne de Châteauroux,Midfielder,M. Barthelmé,71,J. Livolant,62,9
+La Berrichonne de Châteauroux,Attacker,C. Mandanne,70,F. Diarra,66,4
+Clermont Foot 63,Goalkeeper,R. Descamps,66,M. Jeannin,64,2
+Clermont Foot 63,Defender,F. Ogier,70,J. Laporte,68,2
+Clermont Foot 63,Midfielder,M. Pereira Lage,71,F. Honorat,69,2
+Clermont Foot 63,Attacker,F. Andriatsima,67,F. Ayé,67,0
+1. FC Magdeburg,Goalkeeper,J. Fejzić,69,A. Brunst,65,4
+1. FC Magdeburg,Defender,R. Brégerie,71,A. Ignjovski,70,1
+1. FC Magdeburg,Midfielder,P. Türpitz,70,M. Niemeyer,68,2
+1. FC Magdeburg,Attacker,C. Beck,69,F. Lohkemper,65,4
+Pohang Steelers,Goalkeeper,Kang Hyeon Mu,71,Ryu Won Woo,66,5
+Pohang Steelers,Defender,Kim Kwang Suk,69,Kang Sang Woo,68,1
+Pohang Steelers,Midfielder,Kim Seung Dae,70,Lee Seok Hyun,67,3
+Pohang Steelers,Attacker,Léo Gamalho,71,Song Seung Min,68,3
+Örebro SK,Goalkeeper,O. Jansson,68,M. Karlsson,55,13
+Örebro SK,Defender,M. Almebäck,65,M. Lorentzson,65,0
+Örebro SK,Midfielder,N. Besara,71,N. Gerzić,67,4
+Örebro SK,Attacker,K. Igboananike,66,M. Omoh,65,1
+Arka Gdynia,Goalkeeper,P. Šteinbors,70,M. Staniszewski,58,12
+Arka Gdynia,Defender,D. Zbozień,71,A. Marciniak,66,5
+Arka Gdynia,Midfielder,G. Cvijanović,67,M. Janota,67,0
+Arka Gdynia,Attacker,M. Jankowski,66,A. Kolev,66,0
+SG Dynamo Dresden,Goalkeeper,M. Schubert,68,T. Boss,67,1
+SG Dynamo Dresden,Defender,D. Dumić,71,B. Hämäläinen,71,0
+SG Dynamo Dresden,Midfielder,M. Hartmann,71,P. Heise,70,1
+SG Dynamo Dresden,Attacker,P. Ebert,71,H. Duljević,69,2
+SpVgg Greuther Fürth,Goalkeeper,S. Burchert,71,M. Funk,61,10
+SpVgg Greuther Fürth,Defender,M. Caligiuri,71,M. Maloča,71,0
+SpVgg Greuther Fürth,Midfielder,N. Omladič,70,Y. Ideguchi,68,2
+SpVgg Greuther Fürth,Attacker,S. Parker,68,D. Keita-Ruel,67,1
+CD Huachipato,Goalkeeper,Y. Urra,58,B. Manosalva,53,5
+CD Huachipato,Defender,V. Huerta,70,J. Bizama,67,3
+CD Huachipato,Midfielder,S. Martínez,71,C. Valenzuela,70,1
+CD Huachipato,Attacker,G. Torres,70,J. Parraguez,68,2
+Wisła Kraków,Goalkeeper,M. Buchalik,66,M. Lis,56,10
+Wisła Kraków,Defender,M. Wasilewski,70,M. Sadlok,69,1
+Wisła Kraków,Midfielder,Jesús Imaz,71,P. Małecki,67,4
+Wisła Kraków,Attacker,Z. Ondrášek,67,P. Brożek,66,1
+Stabæk Fotball,Goalkeeper,R. Sandberg,64,S. Kjellevold,58,6
+Stabæk Fotball,Defender,H. Skogseid,65,V. Demidov,65,0
+Stabæk Fotball,Midfielder,L. Kassi,67,M. Njie,67,0
+Stabæk Fotball,Attacker,O. Omoijuanfo,71,F. Boli,68,3
+Eintracht Braunschweig,Goalkeeper,L. Kruse,66,M. Engelhardt,61,5
+Eintracht Braunschweig,Defender,G. Valsvik,69,N. Kijewski,65,4
+Eintracht Braunschweig,Midfielder,S. Fürstner,68,O. Bulut,66,2
+Eintracht Braunschweig,Attacker,C. Nyman,71,P. Hofmann,68,3
+Valenciennes FC,Goalkeeper,D. Perquis,69,T. Vincensini,63,6
+Valenciennes FC,Defender,J. Cuffaut,70,L. Nestor,67,3
+Valenciennes FC,Midfielder,S. Roudet,69,G. Robail,69,0
+Valenciennes FC,Attacker,S. Privat,71,F. Raspentino,68,3
+FC Thun,Goalkeeper,G. Faivre,65,F. Ruberto,64,1
+FC Thun,Defender,R. Gelmi,67,S. Glarner,64,3
+FC Thun,Midfielder,M. Tosetti,71,M. Costanzo,69,2
+FC Thun,Attacker,D. Sorgić,67,N. Hunziker,58,9
+San Luis de Quillota,Goalkeeper,I. González,68,N. Espinoza,62,6
+San Luis de Quillota,Defender,J. Mansilla,69,J. Rojas,69,0
+San Luis de Quillota,Midfielder,M. Rodriguez,71,B. Sagredo,69,2
+San Luis de Quillota,Attacker,M. Caballero,70,C. Escobar,66,4
+ SSV Jahn Regensburg,Goalkeeper,P. Pentke,70,A. Weis,68,2
+ SSV Jahn Regensburg,Defender,M. Correia,70,S. Nachreiner,68,2
+ SSV Jahn Regensburg,Midfielder,J. George,69,M. Lais,68,1
+ SSV Jahn Regensburg,Attacker,M. Grüttner,71,S. Adamyan,70,1
+Cosenza,Goalkeeper,U. Saracco,60,P. Perina,60,0
+Cosenza,Defender,Aníbal Capela,69,M. Pascali,65,4
+Cosenza,Midfielder,L. Garritano,71,A. Schetino,66,5
+Cosenza,Attacker,G. Tutino,69,R. Maniero,68,1
+FC Nordsjælland,Goalkeeper,N. Larsen,66,N. Bertrams,66,0
+FC Nordsjælland,Defender,V. Nelsson,69,M. Pedersen,68,1
+FC Nordsjælland,Midfielder,M. Damsgaard,65,M. Andersen,63,2
+FC Nordsjælland,Attacker,M. Rygaard,71,G. Donyoh,67,4
+FC Erzgebirge Aue,Goalkeeper,M. Männel,71,D. Haas,66,5
+FC Erzgebirge Aue,Defender,C. Tiffert,70,S. Breitkreuz,69,1
+FC Erzgebirge Aue,Midfielder,J. Hochscheidt,70,C. Fandrich,68,2
+FC Erzgebirge Aue,Attacker,S. Bertram,67,P. Testroet,67,0
+Jeonnam Dragons,Goalkeeper,Lee Ho Seung,66,Jang Dae Hee,63,3
+Jeonnam Dragons,Defender,Lee Seul Chan,69,J. Donachie,67,2
+Jeonnam Dragons,Midfielder,Han Chan Hee,70,V. Jugović,68,2
+Jeonnam Dragons,Attacker,Macedo,68,Ha Tae Goon,68,0
+Wolfsberger AC,Goalkeeper,A. Kofler,65,C. Dobnik,63,2
+Wolfsberger AC,Defender,L. Schmitz,69,M. Sollbauer,66,3
+Wolfsberger AC,Midfielder,M. Liendl,70,M. Ritzmaier,67,3
+Wolfsberger AC,Attacker,M. Schmerböck,67,D. Orgill,64,3
+Chamois Niortais Football Club,Goalkeeper,S. Allagbé,69,E. Pauchet,58,11
+Chamois Niortais Football Club,Defender,C. Rivieyran,68,I. Conté,68,0
+Chamois Niortais Football Club,Midfielder,G. Koyalipou,66,A. Leautey,65,1
+Chamois Niortais Football Club,Attacker,A. Dona Ndoh,70,A. Dabasse,61,9
+Club Deportes Temuco,Goalkeeper,J. Gamonal,68,F. Otárola,61,7
+Club Deportes Temuco,Defender,T. Charles,66,N. Ramírez,66,0
+Club Deportes Temuco,Midfielder,A. Ábalos,70,C. Canío,68,2
+Club Deportes Temuco,Attacker,M. Donoso,67,G. Gotti,67,0
+AS Nancy Lorraine,Goalkeeper,S. Chernik,69,G. Ndy Assembe,68,1
+AS Nancy Lorraine,Defender,E. Seka,70,V. Muratori,69,1
+AS Nancy Lorraine,Midfielder,A. Bassi,68,A. Robic,67,1
+AS Nancy Lorraine,Attacker,P. Sané,69,A. Koura,67,2
+Red Star FC,Goalkeeper,N. Douchez,66,P. Charruau,64,2
+Red Star FC,Defender,F. Mendy,65,X. Tomas,64,1
+Red Star FC,Midfielder,C. Chantôme,70,E. Bourgaud,69,1
+Red Star FC,Attacker,J. Donisa,65,J. Faucher,64,1
+Al Hazem,Goalkeeper,M. Asselah,67,A. Dagriri,63,4
+Al Hazem,Defender,Alemão,67,A. Al Harbi,61,6
+Al Hazem,Midfielder,Rodolfo,70,Y. Kalfa,70,0
+Al Hazem,Attacker,G. Álvarez,64,M. Al Saiari,63,1
+Pogoń Szczecin,Goalkeeper,L. Załuska,67,L. Budziłek,60,7
+Pogoń Szczecin,Defender,J. Fojut,69,Ricardo Nunes,68,1
+Pogoń Szczecin,Midfielder,A. Frączczak,70,S. Delev,70,0
+Pogoń Szczecin,Attacker,S. Benyamina,67,A. Buksa,66,1
+Charlton Athletic,Goalkeeper,D. Phillips,66,J. Steer,65,1
+Charlton Athletic,Defender,J. Pearce,70,P. Bauer,70,0
+Charlton Athletic,Midfielder,T. Fosu,67,J. Forster-Caskey,67,0
+Charlton Athletic,Attacker,L. Taylor,67,J. Ward,67,0
+Grenoble Foot 38,Goalkeeper,B. Maubleu,65,P. Camara,61,4
+Grenoble Foot 38,Defender,J. Mombris,68,P. Gibaud,68,0
+Grenoble Foot 38,Midfielder,R. Sanusi,68,J. Jigauri,65,3
+Grenoble Foot 38,Attacker,A. El Jadeyaoui,70,L. Boussaha,69,1
+FC Hansa Rostock,Goalkeeper,I. Gelios,62,D. Orlishausen,61,1
+FC Hansa Rostock,Defender,O. Hüsing,70,J. Riedel,67,3
+FC Hansa Rostock,Midfielder,M. Hilßner,66,M. Biankadi,65,1
+FC Hansa Rostock,Attacker,C. Soukou,68,M. Königs,64,4
+San Martin de Tucumán,Goalkeeper,J. Carranza,69,I. Arce,66,3
+San Martin de Tucumán,Defender,M. Cahais,69,L. Diarte,69,0
+San Martin de Tucumán,Midfielder,A. Costa,69,M. García,69,0
+San Martin de Tucumán,Attacker,C. Bieler,70,F. Espíndola,69,1
+Incheon United FC,Goalkeeper,Lee Tae Hee,63,Lee Jin Hyung,62,1
+Incheon United FC,Defender,G. Bunoza,68,Kim Jin Ya,65,3
+Incheon United FC,Midfielder,E. Aguilar,67,Han Seok Jong,65,2
+Incheon United FC,Attacker,Moon Seon Min,70,S. Mugoša,70,0
+Śląsk Wrocław,Goalkeeper,J. Słowik,65,J. Wrąbel,59,6
+Śląsk Wrocław,Defender,P. Celeban,69,L. Broź,66,3
+Śląsk Wrocław,Midfielder,R. Pich,69,Augusto,67,2
+Śląsk Wrocław,Attacker,M. Robak,70,A. Piech,68,2
+GFC Ajaccio,Goalkeeper,D. Oberhauser,61,M. Cassara,60,1
+GFC Ajaccio,Defender,J. Palmieri,70,O. Ba,65,5
+GFC Ajaccio,Midfielder,J. Marveaux,70,J. Roye,69,1
+GFC Ajaccio,Attacker,J. Blayac,66,A. Boupendza,62,4
+1. FC Kaiserslautern,Goalkeeper,W. Hesl,61,J. Sievers,60,1
+1. FC Kaiserslautern,Defender,K. Kraus,69,A. Hainault,66,3
+1. FC Kaiserslautern,Midfielder,H. Zuck,66,T. Bergmann,66,0
+1. FC Kaiserslautern,Attacker,L. Spalvis,70,T. Thiele,67,3
+Deportivo Pasto,Goalkeeper,N. Losada,64,V. Cabezas,60,4
+Deportivo Pasto,Defender,M. Casierra,70,Alcatraz,68,2
+Deportivo Pasto,Midfielder,J. Villota,69,A. Vargas,67,2
+Deportivo Pasto,Attacker,D. Rodríguez,70,H. Rivero,66,4
+Lincoln City,Goalkeeper,J. Vickers,65,S. Slocombe,62,3
+Lincoln City,Defender,J. Shackell,70,M. Bostwick,68,2
+Lincoln City,Midfielder,L. Frecklington,66,Bruno Andrade,65,1
+Lincoln City,Attacker,J. Akinde,65,M. Green,62,3
+Motherwell,Goalkeeper,T. Carson,70,M. Gillespie,61,9
+Motherwell,Defender,P. Hartley,68,R. Tait,67,1
+Motherwell,Midfielder,C. Cadden,69,A. Campbell,67,2
+Motherwell,Attacker,C. Main,66,R. Bowman,64,2
+Rotherham United,Goalkeeper,M. Rodák,68,L. Price,62,6
+Rotherham United,Defender,R. Wood,68,S. Ajayi,68,0
+Rotherham United,Midfielder,W. Vaulks,70,M. Palmer,68,2
+Rotherham United,Attacker,M. Smith,67,K. Vassell,66,1
+Burton Albion,Goalkeeper,S. Bywater,63,B. Collins,61,2
+Burton Albion,Defender,K. McFadzean,68,B. Turner,68,0
+Burton Albion,Midfielder,S. Quinn,67,J. Hesketh,67,0
+Burton Albion,Attacker,L. Boyce,70,D. Cole,66,4
+Wisła Płock,Goalkeeper,T. Dähne,63,M. Zapytowski,53,10
+Wisła Płock,Defender,A. Uryga,66,C. Stefańczyk,62,4
+Wisła Płock,Midfielder,S. Štilić,70,D. Furman,69,1
+Wisła Płock,Attacker,Ricardinho,66,K. Angielski,64,2
+FC Wacker Innsbruck,Goalkeeper,C. Knett,66,H. Hankić,60,6
+FC Wacker Innsbruck,Defender,A. Vallci,65,S. Meusburger,63,2
+FC Wacker Innsbruck,Midfielder,B. Henning,70,R. Kerschbaum,65,5
+FC Wacker Innsbruck,Attacker,Z. Dedič,67,P. Eler,67,0
+Peterborough United,Goalkeeper,A. Chapman,63,C. O'Malley,61,2
+Peterborough United,Defender,S. Bassong,70,R. Tafazolli,67,3
+Peterborough United,Midfielder,J. Walker,70,M. Maddison,70,0
+Peterborough United,Attacker,I. Toney,67,M. Godden,67,0
+Ascoli,Goalkeeper,F. Perucchini,66,I. Lanni,66,0
+Ascoli,Defender,L. Laverone,68,R. Brosco,68,0
+Ascoli,Midfielder,N. Ninković,70,M. Cavion,70,0
+Ascoli,Attacker,M. Ardemagni,70,L. Rosseti,67,3
+FC Zürich,Goalkeeper,Y. Brecher,68,A. Vanins,66,2
+FC Zürich,Defender,K. Rüegg,68,A. Maxsø,67,1
+FC Zürich,Midfielder,V. Pálsson,70,R. Rodriguez,69,1
+FC Zürich,Attacker,S. Khelifi,70,B. Kololli,70,0
+Fleetwood Town,Goalkeeper,A. Cairns,65,P. Jones,63,2
+Fleetwood Town,Defender,C. Morgan,67,T. Spurr,66,1
+Fleetwood Town,Midfielder,D. Marney,70,R. Wallace,70,0
+Fleetwood Town,Attacker,C. Evans,67,A. Hunter,65,2
+Padova,Goalkeeper,D. Merelli,65,S. Perisan,63,2
+Padova,Defender,T. Trevisan,68,D. Capelli,68,0
+Padova,Midfielder,G. Pinzi,70,N. Pulzetti,68,2
+Padova,Attacker,M. Guidone,67,A. Capello,66,1
+FC Sochaux-Montbéliard,Goalkeeper,M. Prévot,67,L. Zigi,59,8
+FC Sochaux-Montbéliard,Defender,Rafa Navarro,70,Josema,67,3
+FC Sochaux-Montbéliard,Midfielder,J. Fuchs,69,E. Owusu,66,3
+FC Sochaux-Montbéliard,Attacker,P. Budkivskyi,70,Nando,68,2
+SV Wehen Wiesbaden,Goalkeeper,M. Kolke,69,L. Watkowiak,62,7
+SV Wehen Wiesbaden,Defender,S. Mockenhaupt,69,M. Kuhn,68,1
+SV Wehen Wiesbaden,Midfielder,S. Andrist,69,M. Titsch Rivero,68,1
+SV Wehen Wiesbaden,Attacker,M. Schäffler,70,S. Brandstetter,66,4
+Unión La Calera,Goalkeeper,C. Gonzalez,68,L. Giovini,65,3
+Unión La Calera,Defender,M. Navarrete,70,P. Alvarado,70,0
+Unión La Calera,Midfielder,A. Cesped,68,A. Rodriguez,67,1
+Unión La Calera,Attacker,C. Núñez,69,G. Abán,68,1
+Scunthorpe United,Goalkeeper,J. Alnwick,67,M. Gilks,67,0
+Scunthorpe United,Defender,C. Borthwick-Jackson,68,J. Clarke,65,3
+Scunthorpe United,Midfielder,F. Ojo,70,R. Colclough,67,3
+Scunthorpe United,Attacker,L. Novak,66,S. Humphrys,62,4
+CD O'Higgins,Goalkeeper,M. Pinto,68,L. Ureta,56,12
+CD O'Higgins,Defender,J. Fuentes,69,A. Acevedo,68,1
+CD O'Higgins,Midfielder,R. Fernández,70,G. Navarrete,67,3
+CD O'Higgins,Attacker,P. Calandria,69,N. Mazzola,68,1
+CD Antofagasta,Goalkeeper,P. Garcés,69,F. Hurtado,64,5
+CD Antofagasta,Defender,A. Barrios,68,P. Magalhães,68,0
+CD Antofagasta,Midfielder,E. Bello,70,F. Flores,68,2
+CD Antofagasta,Attacker,J. Duma,66,F. Ciampichetti,66,0
+Plymouth Argyle,Goalkeeper,M. Macey,66,H. Burgoyne,63,3
+Plymouth Argyle,Defender,S. Wootton,66,J. Riley,65,1
+Plymouth Argyle,Midfielder,G. Carey,70,S. O'Keefe,65,5
+Plymouth Argyle,Attacker,R. Taylor,66,F. Ladapo,63,3
+Aarhus GF,Goalkeeper,Óscar Whalley,65,R. Mysak,60,5
+Aarhus GF,Defender,P. Kanstrup,70,N. Backman,68,2
+Aarhus GF,Midfielder,J. Stage,68,J. Ankersen,68,0
+Aarhus GF,Attacker,R. Mmaee,65,M. Bundu,64,1
+Lillestrøm SK,Goalkeeper,M. Marić,62,M. Igonen,61,1
+Lillestrøm SK,Defender,F. Kippe,65,M. Amundsen,64,1
+Lillestrøm SK,Midfielder,I. Mathew,69,D. Pedersen,65,4
+Lillestrøm SK,Attacker,E. Knudtzon,68,T. Lehne Olsen,65,3
+Karlsruher SC,Goalkeeper,B. Uphoff,69,S. Müller,63,6
+Karlsruher SC,Defender,D. Gordon,69,D. Pisot,69,0
+Karlsruher SC,Midfielder,M. Wanitzek,67,S. Sararer,67,0
+Karlsruher SC,Attacker,A. Fink,69,M. Pourié,67,2
+GIF Sundsvall,Goalkeeper,W. Eskelinen,65,L. Saxton,58,7
+GIF Sundsvall,Defender,E. Björkander,64,D. Myrestam,64,0
+GIF Sundsvall,Midfielder,Juanjo,69,David Batanero,69,0
+GIF Sundsvall,Attacker,L. Hallenius,68,David Haro,66,2
+FC Emmen,Goalkeeper,D. Telgenkamp,64,K. Scherpen,64,0
+FC Emmen,Defender,N. Bakker,65,K. Veendorp,65,0
+FC Emmen,Midfielder,C. Çavlan,67,L. Slagveer,67,0
+FC Emmen,Attacker,A. Jansen,69,N. Pedersen,68,1
+Barnsley,Goalkeeper,A. Davies,67,J. Walton,53,14
+Barnsley,Defender,Pinillos,69,D. Cavaré,69,0
+Barnsley,Midfielder,G. Moncur,68,M. Thiam,67,1
+Barnsley,Attacker,K. Moore,68,C. Woodrow,65,3
+Audax Italiano,Goalkeeper,J. Muñoz,63,E. Sanhueza,62,1
+Audax Italiano,Defender,C. Labrín,69,M. Fernández,69,0
+Audax Italiano,Midfielder,D. Bottinelli,69,I. Ledezma,68,1
+Audax Italiano,Attacker,Sergio Santos,69,I. Jeraldino,68,1
+V-Varen Nagasaki,Goalkeeper,T. Masuda,61,K. Tokushige,59,2
+V-Varen Nagasaki,Defender,J. Buijs,69,Choi Kyu Baek,65,4
+V-Varen Nagasaki,Midfielder,R. Iio,64,Y. Shimada,64,0
+V-Varen Nagasaki,Attacker,Juanma,68,Jairo Morillas,67,1
+Paris FC,Goalkeeper,V. Demarconnay,69,D. Ovono,65,4
+Paris FC,Defender,V. Rüfli,69,R. Perraud,67,2
+Paris FC,Midfielder,J. Pitroipa,68,E. Akichi,67,1
+Paris FC,Attacker,D. Saint-Louis,69,L. Nomenjanahary,67,2
+SpVgg Unterhaching,Goalkeeper,L. Königshofer,65,M. Gurski,60,5
+SpVgg Unterhaching,Defender,M. Endres,66,M. Dombrowka,65,1
+SpVgg Unterhaching,Midfielder,S. Bigalke,69,J. Müller,65,4
+SpVgg Unterhaching,Attacker,S. Hain,69,D. Widemann,63,6
+Hobro IK,Goalkeeper,J. Rask,64,A. Kappenberger,52,12
+Hobro IK,Defender,J. Bøge,66,Y. Amankwah,65,1
+Hobro IK,Midfielder,J. Brix-Damborg,69,E. Babayan,66,3
+Hobro IK,Attacker,P. Kirkevold,69,Q. Antipas,68,1
+De Graafschap,Goalkeeper,H. Jurjus,69,A. Etemadi,64,5
+De Graafschap,Defender,S. Nieuwpoort,67,B. Straalman,66,1
+De Graafschap,Midfielder,S. Nijland,67,Y. El Jebli,67,0
+De Graafschap,Attacker,D. van Mieghem,69,F. Serrarens,67,2
+Hokkaido Consadole Sapporo,Goalkeeper,Gu Sung Yun,66,T. Sugeno,64,2
+Hokkaido Consadole Sapporo,Defender,R. Shindo,65,A. Fukumori,65,0
+Hokkaido Consadole Sapporo,Midfielder,Y. Komai,69,R. Hayasaka,64,5
+Hokkaido Consadole Sapporo,Attacker,K. Miyoshi,67,C. Songkrasin,67,0
+Tromsø IL,Goalkeeper,G. Kongshavn,64,J. Karlstrøm,60,4
+Tromsø IL,Defender,S. Wangberg,69,M. Ødegaard,66,3
+Tromsø IL,Midfielder,G. Åsen,69,M. Pedersen,68,1
+Tromsø IL,Attacker,M. Bakenga,64,M. Ingebrigtsen,64,0
+FC Luzern,Goalkeeper,M. Salvi,69,D. Zibung,63,6
+FC Luzern,Defender,O. Kakabadze,69,S. Knežević,67,2
+FC Luzern,Midfielder,C. Schneuwly,69,V. Gvilia,66,3
+FC Luzern,Attacker,T. Jurić,69,B. Eleke,66,3
+FK Haugesund,Goalkeeper,P. Bråtveit,69,H. Sandvik,59,10
+FK Haugesund,Defender,V. Skjerve,66,F. Knudsen,65,1
+FK Haugesund,Midfielder,C. Grindheim,67,Bruno Leite,66,1
+FK Haugesund,Attacker,I. Wadji,62,I. Koné,56,6
+Zagłębie Lubin,Goalkeeper,P. Leciejewski,64,D. Hładun,63,1
+Zagłębie Lubin,Defender,M. Dąbrowski,69,A. Czerwiński,67,2
+Zagłębie Lubin,Midfielder,F. Starzyński,69,B. Pawłowski,68,1
+Zagłębie Lubin,Attacker,P. Tuszyński,65,J. Mareš,63,2
+VfR Aalen,Goalkeeper,D. Bernhardt,69,R. Husić,60,9
+VfR Aalen,Defender,T. Geyer,67,R. Fennell,67,0
+VfR Aalen,Midfielder,S. Traut,67,P. Funk,66,1
+VfR Aalen,Attacker,M. Morys,69,M. Bär,66,3
+Dundalk,Goalkeeper,G. Rogers,63,R. Treacy,53,10
+Dundalk,Defender,S. Gannon,66,D. Massey,64,2
+Dundalk,Midfielder,M. Duffy,69,P. McEleney,68,1
+Dundalk,Attacker,P. Hoban,69,G. Kelly,58,11
+Oxford United,Goalkeeper,S. Eastwood,67,J. Mitchell,64,3
+Oxford United,Defender,L. Garbutt,67,T. McMahon,66,1
+Oxford United,Midfielder,R. Holmes,69,J. Henry,69,0
+Oxford United,Attacker,J. Mackie,66,J. Obika,66,0
+Piast Gliwice,Goalkeeper,J. Szmatuła,64,F. Plach,61,3
+Piast Gliwice,Defender,J. Czerwiński,69,A. Sedlar,67,2
+Piast Gliwice,Midfielder,T. Jodłowiec,69,Gerard Badía,68,1
+Piast Gliwice,Attacker,M. Papadopulos,66,P. Parzyszek,66,0
+Ohod Club,Goalkeeper,Z. Laaroubi,66,A. Al Basisi,57,9
+Ohod Club,Defender,A. Teikeu,69,E. Šipović,65,4
+Ohod Club,Midfielder,T. Mohamad,66,C. Ohene,65,1
+Ohod Club,Attacker,Ribamar,67,E. Sarraj,66,1
+Östersunds FK,Goalkeeper,A. Keita,65,A. Andersson,63,2
+Östersunds FK,Defender,T. Pettersson,68,D. Widgren,66,2
+Östersunds FK,Midfielder,C. Edwards,69,S. Kroon,67,2
+Östersunds FK,Attacker,H. Aiesh,69,J. Hopcutt,67,2
+Vegalta Sendai,Goalkeeper,K. Seki,62,D. Schmidt,62,0
+Vegalta Sendai,Defender,Y. Hiraoka,64,K. Oiwa,64,0
+Vegalta Sendai,Midfielder,H. Okuno,66,Y. Nakano,66,0
+Vegalta Sendai,Attacker,M. Havenaar,69,Ramon Lopes,67,2
+Crawley Town,Goalkeeper,G. Morris,63,Y. Mersin,56,7
+Crawley Town,Defender,R. Vincelot,69,M. Connolly,65,4
+Crawley Town,Midfielder,F. Morais,65,G. Francomb,64,1
+Crawley Town,Attacker,D. Poleon,65,O. Palmer,62,3
+FC Admira Wacker Mödling,Goalkeeper,A. Leitner,68,M. Kuttin,64,4
+FC Admira Wacker Mödling,Defender,B. Thoelke,68,F. Strauss,66,2
+FC Admira Wacker Mödling,Midfielder,D. Toth,69,D. Starkl,66,3
+FC Admira Wacker Mödling,Attacker,S. Bakış,66,M. Jakoliš,65,1
+Vålerenga Fotball,Goalkeeper,A. Kwarasey,69,K. Klaesson,55,14
+Vålerenga Fotball,Defender,J. Nation,67,A. Nouri,67,0
+Vålerenga Fotball,Midfielder,A. Ibrahim,67,M. Lekven,67,0
+Vålerenga Fotball,Attacker,S. Johnson,68,P. Michael,61,7
+Dundee FC,Goalkeeper,J. Hamilton,64,E. Parish,63,1
+Dundee FC,Defender,J. Meekings,66,A. Boyle,66,0
+Dundee FC,Midfielder,G. Kamara,67,P. McGowan,66,1
+Dundee FC,Attacker,K. Miller,69,J. Mendy,64,5
+Portsmouth,Goalkeeper,C. MacGillivray,66,L. McGee,64,2
+Portsmouth,Defender,M. Clarke,69,J. Whatmough,67,2
+Portsmouth,Midfielder,A. Green,68,B. Thompson,67,1
+Portsmouth,Attacker,J. Lowe,69,B. Pitman,69,0
+Envigado FC,Goalkeeper,J. Martínez,64,S. Londoño,64,0
+Envigado FC,Defender,C. Arrieta,69,C. Mancilla,65,4
+Envigado FC,Midfielder,G. Saunders,67,D. Vergara,67,0
+Envigado FC,Attacker,A. Zapata,67,W. de la Rosa,63,4
+Miedź Legnica,Goalkeeper,A. Kanibolotskyi,63,L. Sapela,62,1
+Miedź Legnica,Defender,A. Miljković,68,T. Božić,65,3
+Miedź Legnica,Midfielder,Omar Santana,65,Juan Cámara,65,0
+Miedź Legnica,Attacker,P. Forsell,69,M. Szczepaniak,66,3
+Odds BK,Goalkeeper,S. Rossbach,69,V. Myhra,61,8
+Odds BK,Defender,E. Ruud,69,S. Hagen,69,0
+Odds BK,Midfielder,J. Samuelsen,67,V. Hoff,67,0
+Odds BK,Attacker,E. Rashani,68,T. Børven,65,3
+SC Fortuna Köln,Goalkeeper,N. Rehnen,63,A. Poggenborg,60,3
+SC Fortuna Köln,Defender,S. Ruprecht,68,B. Uaferro,64,4
+SC Fortuna Köln,Midfielder,K. Andersen,66,R. Scheu,65,1
+SC Fortuna Köln,Attacker,M. Hartmann,69,M. Exslager,64,5
+US Orléans Loiret Football,Goalkeeper,G. Gallon,66,T. Renault,66,0
+US Orléans Loiret Football,Defender,C. Cambon,67,P. Bouby,67,0
+US Orléans Loiret Football,Midfielder,K. Ziani,69,O. Cissokho,66,3
+US Orléans Loiret Football,Attacker,A. Le Tallec,66,G. Perrin,64,2
+Sarpsborg 08 FF,Goalkeeper,A. Vasyutin,68,A. Falch,62,6
+Sarpsborg 08 FF,Defender,J. Jørgensen,67,J. Thomassen,67,0
+Sarpsborg 08 FF,Midfielder,K. Zachariassen,69,H. Singh,67,2
+Sarpsborg 08 FF,Attacker,P. Mortensen,67,R. Schwartz,66,1
+Jaguares de Córdoba,Goalkeeper,J. Escobar,63,W. Mosquera,61,2
+Jaguares de Córdoba,Defender,J. Zuluaga,67,L. Escorcia,66,1
+Jaguares de Córdoba,Midfielder,P. Rojas,68,C. Alzáte,68,0
+Jaguares de Córdoba,Attacker,Rafhael Lucas,63,J. Vogliotti,61,2
+Bradford City,Goalkeeper,R. O'Donnell,64,B. Wilson,60,4
+Bradford City,Defender,A. O'Connor,68,R. McGowan,67,1
+Bradford City,Midfielder,J. Payne,68,S. Scannell,66,2
+Bradford City,Attacker,E. Doyle,64,A. Jones,64,0
+Accrington Stanley,Goalkeeper,C. Ripley,68,J. Maxted,59,9
+Accrington Stanley,Defender,M. Ihiekwe,66,M. Hughes,66,0
+Accrington Stanley,Midfielder,S. McConville,66,S. Conneely,65,1
+Accrington Stanley,Attacker,B. Kee,68,A. Mangan,62,6
+St. Johnstone FC,Goalkeeper,Z. Clark,66,C. Mitchell,59,7
+St. Johnstone FC,Defender,J. Shaughnessy,68,B. Easton,66,2
+St. Johnstone FC,Midfielder,M. Davidson,68,D. Swanson,67,1
+St. Johnstone FC,Attacker,T. Watt,68,M. Kennedy,65,3
+Boyacá Chicó FC,Goalkeeper,S. Avellaneda,65,R. Caicedo,56,9
+Boyacá Chicó FC,Defender,J. Duque,65,F. García,64,1
+Boyacá Chicó FC,Midfielder,J. Vela,66,F. Ponce,65,1
+Boyacá Chicó FC,Attacker,D. Valdés,68,O. Rodas,62,6
+Luton Town,Goalkeeper,M. Štěch,66,J. Shea,62,4
+Luton Town,Defender,S. Bradley,67,M. Pearson,66,1
+Luton Town,Midfielder,J. Grant,68,K. LuaLua,68,0
+Luton Town,Attacker,D. Hylton,68,J. Collins,68,0
+SV Mattersburg,Goalkeeper,M. Kuster,68,T. Casali,61,7
+SV Mattersburg,Defender,César Ortiz,65,N. Malić,64,1
+SV Mattersburg,Midfielder,Jano,66,M. Perlak,66,0
+SV Mattersburg,Attacker,M. Pušić,67,A. Gruber,65,2
+Kristiansund BK,Goalkeeper,S. McDermott,68,A. Vaikla,62,6
+Kristiansund BK,Defender,D. Ulvestad,68,A. Coly,65,3
+Kristiansund BK,Midfielder,T. Gjertsen,68,L. Kalludra,63,5
+Kristiansund BK,Attacker,F. Kastrati,64,K. Alexandersson,59,5
+Sangju Sangmu FC,Goalkeeper,Yoon Bo Sang,68,Kwon Tae Ahn,59,9
+Sangju Sangmu FC,Defender,Park Dae Han,65,Ko Tae Won,63,2
+Sangju Sangmu FC,Midfielder,Kim Min Woo,65,Yoon Bit Garam,65,0
+Sangju Sangmu FC,Attacker,Kim Gun Hee,63,Kim Kyung Jung,62,1
+Rochdale,Goalkeeper,J. Lillis,64,B. Moore,60,4
+Rochdale,Defender,J. Rafferty,66,H. McGahey,66,0
+Rochdale,Midfielder,Z. Clough,68,I. Henderson,67,1
+Rochdale,Attacker,A. Wilbraham,63,C. Andrew,63,0
+Walsall,Goalkeeper,L. Roberts,66,C. Dunn,59,7
+Walsall,Defender,R. Martin,68,J. Guthrie,67,1
+Walsall,Midfielder,G. Dobson,68,Z. Ismail,67,1
+Walsall,Attacker,M. Ferrier,65,A. Cook,65,0
+Korona Kielce,Goalkeeper,M. Miśkiewicz,63,M. Hamrol,59,4
+Korona Kielce,Defender,B. Rymaniak,67,K. Kallaste,66,1
+Korona Kielce,Midfielder,M. Możdżeń,68,M. Pučko,67,1
+Korona Kielce,Attacker,E. Soriano,67,F. Brown Forbes,61,6
+Shonan Bellmare,Goalkeeper,Y. Akimoto,66,D. Tomii,56,10
+Shonan Bellmare,Defender,André Bahia,67,T. Okamoto,63,4
+Shonan Bellmare,Midfielder,M. Mikić,66,S. Fujita,65,1
+Shonan Bellmare,Attacker,Lee Jeong Hyeop,68,T. Umesaki,66,2
+FC Würzburger Kickers,Goalkeeper,P. Drewes,65,L. Bätge,60,5
+FC Würzburger Kickers,Defender,D. Hägele,68,S. Schuppan,68,0
+FC Würzburger Kickers,Midfielder,S. Skarlatidis,67,D. Mast,66,1
+FC Würzburger Kickers,Attacker,O. Ademi,65,D. Baumann,65,0
+FSV Zwickau,Goalkeeper,J. Brinkies,68,M. Kamenz,59,9
+FSV Zwickau,Defender,T. Wachsmuth,67,N. Antonitsch,66,1
+FSV Zwickau,Midfielder,M. Schröter,66,R. Lange,66,0
+FSV Zwickau,Attacker,R. König,65,L. Lauberbach,61,4
+St. Mirren,Goalkeeper,D. Rogers,61,D. Lyness,57,4
+St. Mirren,Defender,A. Ferdinand,65,L. Hodson,63,2
+St. Mirren,Midfielder,C. Smith,64,R. Flynn,63,1
+St. Mirren,Attacker,A. Hammill,68,D. Mullen,62,6
+AC Horsens,Goalkeeper,M. Delač,66,K. Mendoza,56,10
+AC Horsens,Defender,M. Lumb,67,S. Reese,64,3
+AC Horsens,Midfielder,S. Heltne Nilsen,68,H. Hansson,67,1
+AC Horsens,Attacker,K. Junker,62,O. Drost,59,3
+Esbjerg fB,Goalkeeper,J. Højbjerg,67,J. Jensen,57,10
+Esbjerg fB,Defender,R. Austin,66,M. Halsti,64,2
+Esbjerg fB,Midfielder,A. Tighadouini,68,L. Parunashvili,67,1
+Esbjerg fB,Attacker,A. Petre,64,E. Oti Essigba,64,0
+HJK Helsinki,Goalkeeper,M. Uusitalo,61,M. Rudakov,58,3
+HJK Helsinki,Defender,Rafinha,68,H. Patronen,66,2
+HJK Helsinki,Midfielder,M. Yaghoubi,66,A. Annan,65,1
+HJK Helsinki,Attacker,R. Riski,66,N. Alho,63,3
+Southend United,Goalkeeper,M. Oxley,66,T. Smith,61,5
+Southend United,Defender,J. Demetriou,67,M. Turner,67,0
+Southend United,Midfielder,M. Kightly,68,S. McLaughlin,67,1
+Southend United,Attacker,S. Cox,65,T. Hopper,65,0
+Bristol Rovers,Goalkeeper,A. Smith,63,J. Bonham,61,2
+Bristol Rovers,Defender,T. Lockyer,68,T. Craig,65,3
+Bristol Rovers,Midfielder,L. Sercombe,67,C. Lines,66,1
+Bristol Rovers,Attacker,S. Payne,65,G. Reilly,60,5
+Hamilton Academical FC,Goalkeeper,J. Mucha,63,G. Woods,62,1
+Hamilton Academical FC,Defender,M. Kilgallon,68,Z. Gordon,64,4
+Hamilton Academical FC,Midfielder,D. Imrie,61,T. Taiwo,61,0
+Hamilton Academical FC,Attacker,F. Brustad,65,M. Ogkmpoe,56,9
+TSV 1860 München,Goalkeeper,H. Bonmann,63,M. Hiller,62,1
+TSV 1860 München,Defender,S. Lorenz,64,F. Weber,63,1
+TSV 1860 München,Midfielder,Q. Moll,66,P. Steinhart,66,0
+TSV 1860 München,Attacker,A. Grimaldi,68,S. Lex,67,1
+Curicó Unido,Goalkeeper,J. Deschamps,65,L. Santelices,64,1
+Curicó Unido,Defender,D. Díaz,68,E. Godoy,66,2
+Curicó Unido,Midfielder,C. Espinosa,67,N. Gauna,66,1
+Curicó Unido,Attacker,G. Vargas,68,M. Quiroga,64,4
+SCR Altach,Goalkeeper,M. Kobras,66,A. Lukse,66,0
+SCR Altach,Defender,B. Zech,68,P. Netzer,67,1
+SCR Altach,Midfielder,S. Nutz,66,C. Gebauer,66,0
+SCR Altach,Attacker,J. Gatt,66,J. Aigner,64,2
+Ranheim Fotball,Goalkeeper,E. Barli,66,M. Lenes,57,9
+Ranheim Fotball,Defender,A. Witry,66,D. Kvande,64,2
+Ranheim Fotball,Midfielder,M. Reginiussen,68,K. Løkberg,67,1
+Ranheim Fotball,Attacker,E. Tønne,65,M. Karlsen,64,1
+Stevenage,Goalkeeper,P. Farman,60,S. Dieng,57,3
+Stevenage,Defender,S. Cuthbert,68,L. Wilkinson,62,6
+Stevenage,Midfielder,J. Byrom,63,M. Timlin,63,0
+Stevenage,Attacker,D. Newton,63,K. Guthrie,63,0
+SG Sonnenhof Großaspach,Goalkeeper,K. Broll,67,M. Reule,61,6
+SG Sonnenhof Großaspach,Defender,J. Leist,68,K. Gehring,66,2
+SG Sonnenhof Großaspach,Midfielder,S. Binakaj,64,J. Fehr,64,0
+SG Sonnenhof Großaspach,Attacker,T. Röttger,65,S. Mvibudulu,62,3
+Oldham Athletic,Goalkeeper,D. Iversen,63,Z. de la Paz,59,4
+Oldham Athletic,Defender,P. Clarke,64,C. Dummigan,63,1
+Oldham Athletic,Midfielder,J. Baxter,67,G. Nepomuceno,65,2
+Oldham Athletic,Attacker,S. Surridge,64,J. Benteke,61,3
+Milton Keynes Dons,Goalkeeper,L. Nicholls,66,W. Sietsma,59,7
+Milton Keynes Dons,Defender,J. Moore-Taylor,67,M. Baudry,67,0
+Milton Keynes Dons,Midfielder,A. Gilbey,67,P. Pawlett,66,1
+Milton Keynes Dons,Attacker,O. Sow,67,K. Agard,67,0
+FK Bodø/Glimt,Goalkeeper,Ricardo Friedrich,62,A. Krysiak,60,2
+FK Bodø/Glimt,Defender,M. Bjørnbak,67,Isidoro,66,1
+FK Bodø/Glimt,Midfielder,José Ángel,66,U. Saltnes,64,2
+FK Bodø/Glimt,Attacker,P. Zinckernagel,67,K. Opseth,66,1
+SC Preußen Münster,Goalkeeper,O. Schnitzler,65,M. Schulze Niehues,65,0
+SC Preußen Münster,Defender,S. Scherder,67,L. Schweers,67,0
+SC Preußen Münster,Midfielder,M. Kobylański,67,K. Rodrigues Pires,66,1
+SC Preußen Münster,Attacker,R. Dadashov,65,T. Rühle,65,0
+Wycombe Wanderers,Goalkeeper,R. Allsop,64,Y. Ma-Kalambay,62,2
+Wycombe Wanderers,Defender,A. El-Abd,67,J. McCarthy,67,0
+Wycombe Wanderers,Midfielder,F. Onyedinma,67,D. Gape,65,2
+Wycombe Wanderers,Attacker,A. Akinfenwa,66,R. Williams,65,1
+Vejle Boldklub,Goalkeeper,P. Bajza,64,T. Hagelskjaer,56,8
+Vejle Boldklub,Defender,V. Davidsen,64,M. Lauritsen,63,1
+Vejle Boldklub,Midfielder,V. Yurchenko,67,Y. Ramadani,67,0
+Vejle Boldklub,Attacker,Alan Sousa,66,G. Nilsson,64,2
+Bury,Goalkeeper,J. Murphy,62,M. Hudson,59,3
+Bury,Defender,C. Stokes,65,E. O'Connell,65,0
+Bury,Midfielder,D. Mayor,66,J. O'Shea,65,1
+Bury,Attacker,N. Maynard,67,J. Beckford,66,1
+Randers FC,Goalkeeper,P. Carlgren,66,F. Due,58,8
+Randers FC,Defender,J. Bager,67,J. Thomsen,67,0
+Randers FC,Midfielder,N. Poulsen,67,S. Lobjanidze,67,0
+Randers FC,Attacker,B. Stokke,65,M. Boman,64,1
+VfL Osnabrück,Goalkeeper,N. Körber,67,P. Kühn,60,7
+VfL Osnabrück,Defender,K. Engel,66,M. Trapp,66,0
+VfL Osnabrück,Midfielder,M. Heider,67,M. Farrona Pulido,67,0
+VfL Osnabrück,Attacker,M. Álvarez,67,E. Amenyido,60,7
+SønderjyskE,Goalkeeper,S. Mielitz,67,R. Charles-Cook,62,5
+SønderjyskE,Defender,K. Luijckx,67,M. Pedersen,64,3
+SønderjyskE,Midfielder,N. Zimling,67,C. Jakobsen,66,1
+SønderjyskE,Attacker,M. Lieder,66,M. Hvilsom,63,3
+IFK Göteborg,Goalkeeper,E. Dahlin,62,T. Amos,55,7
+IFK Göteborg,Defender,A. Calisir,67,E. Salomonsson,67,0
+IFK Göteborg,Midfielder,V. Sakor,64,A. Affane,63,1
+IFK Göteborg,Attacker,T. Hysén,67,G. Kharaishvili,66,1
+Mansfield Town,Goalkeeper,C. Logan,64,B. Olejnik,63,1
+Mansfield Town,Defender,M. Preston,67,K. Pearce,66,1
+Mansfield Town,Midfielder,J. Mellis,64,N. Bishop,64,0
+Mansfield Town,Attacker,D. Rose,66,C. Davies,65,1
+Coventry City,Goalkeeper,L. Burge,63,L. O'Brien,60,3
+Coventry City,Defender,J. Grimmer,66,J. Brown,65,1
+Coventry City,Midfielder,T. Andreu,67,L. Kelly,66,1
+Coventry City,Attacker,J. Clarke-Harris,65,C. Chaplin,65,0
+Waterford FC,Goalkeeper,N. Corbet,52,M. Connor,50,2
+Waterford FC,Defender,K. Browne,61,R. Feely,56,5
+Waterford FC,Midfielder,Rudy,67,S. Aborah,63,4
+Waterford FC,Attacker,I. Akinade,63,C. Duffus,62,1
+Shrewsbury,Goalkeeper,J. Coleman,63,S. Arnold,60,3
+Shrewsbury,Defender,M. Sadler,67,J. Emmanuel,66,1
+Shrewsbury,Midfielder,S. Whalley,67,A. Grant,67,0
+Shrewsbury,Attacker,L. Angol,63,L. John-Lewis,63,0
+IK Start,Goalkeeper,J. Deumeland,65,H. Opdal,65,0
+IK Start,Defender,D. Lowe,66,E. Käck,65,1
+IK Start,Midfielder,A. Aremu,64,I. Twum,63,1
+IK Start,Attacker,H. Shala,67,A. Sigurðarson,66,1
+Gillingham,Goalkeeper,T. Holý,64,T. Hadler,59,5
+Gillingham,Defender,M. Ehmer,66,G. Zakuani,65,1
+Gillingham,Midfielder,C. Reilly,64,D. Parrett,63,1
+Gillingham,Attacker,T. Eaves,67,J. Parker,63,4
+FC Energie Cottbus,Goalkeeper,A. Spahic,63,K. Rauhut,60,3
+FC Energie Cottbus,Defender,F. Holthaus,67,M. Stein,66,1
+FC Energie Cottbus,Midfielder,F. Viteritti,65,Marcelo Freitas,64,1
+FC Energie Cottbus,Attacker,D. Rangelov,66,S. Mamba,64,2
+FC Carl Zeiss Jena,Goalkeeper,R. Koczor,62,J. Coppens,62,0
+FC Carl Zeiss Jena,Defender,G. Cros,65,D. Slamar,64,1
+FC Carl Zeiss Jena,Midfielder,M. Wolfram,64,F. Tchenkoua,64,0
+FC Carl Zeiss Jena,Attacker,M. Starke,67,J. Günther-Schmidt,65,2
+Hallescher FC,Goalkeeper,K. Eisele,64,T. Müller,64,0
+Hallescher FC,Defender,M. Heyer,64,N. Landgraf,64,0
+Hallescher FC,Midfielder,B. Manu,66,M. Ajani,65,1
+Hallescher FC,Attacker,P. Sohm,65,M. Fetsch,65,0
+SV Meppen,Goalkeeper,E. Domaschke,66,J. Gies,59,7
+SV Meppen,Defender,M. Ballmert,66,M. Gebers,65,1
+SV Meppen,Midfielder,N. Granatowski,65,M. Kleinsorge,65,0
+SV Meppen,Attacker,N. Proschwitz,66,D. Undav,64,2
+AFC Wimbledon,Goalkeeper,T. King,62,J. McDonnell,58,4
+AFC Wimbledon,Defender,A. Oshilaja,67,R. McDonald,64,3
+AFC Wimbledon,Midfielder,L. Trotter,66,S. Wagstaff,65,1
+AFC Wimbledon,Attacker,K. Appiah,65,J. Jervis,65,0
+Blackpool,Goalkeeper,M. Howard,64,C. Mafoumbi,57,7
+Blackpool,Defender,C. Tilt,64,D. Daniels,64,0
+Blackpool,Midfielder,J. Ryan,67,L. Feeney,67,0
+Blackpool,Attacker,J. Dodoo,66,S. Davies,66,0
+Doncaster Rovers,Goalkeeper,I. Lawlor,63,M. Maroši,63,0
+Doncaster Rovers,Defender,A. Butler,65,D. Andrew,65,0
+Doncaster Rovers,Midfielder,A. Crawford,67,T. Rowe,67,0
+Doncaster Rovers,Attacker,J. Coppinger,67,J. Marquis,66,1
+Sandefjord Fotball,Goalkeeper,E. Johansen,64,J. Storevik,54,10
+Sandefjord Fotball,Defender,M. Høibråten,66,S. Ringstad,65,1
+Sandefjord Fotball,Midfielder,Rufo,67,M. Fellah,65,2
+Sandefjord Fotball,Attacker,F. Azemi,65,P. Engblom,63,2
+VfL Sportfreunde Lotte,Goalkeeper,S. Kroll,63,N. Quindt,58,5
+VfL Sportfreunde Lotte,Defender,A. Straith,66,M. Rahn,65,1
+VfL Sportfreunde Lotte,Midfielder,M. Piossek,66,M. Oesterhelweg,66,0
+VfL Sportfreunde Lotte,Attacker,G. Wegkamp,65,A. Yildirim,61,4
+Cheltenham Town,Goalkeeper,S. Flinders,63,R. Lovett,54,9
+Cheltenham Town,Defender,C. Hussey,64,C. Alcock,64,0
+Cheltenham Town,Midfielder,K. Dawson,66,C. Clements,62,4
+Cheltenham Town,Attacker,L. Varney,66,T. Barnett,63,3
+IK Sirius,Goalkeeper,L. Jonsson,61,K. Fegrouche,58,3
+IK Sirius,Defender,J. Arvidsson,64,O. Pehrsson,63,1
+IK Sirius,Midfielder,M. Saeid,66,N. Busch Thor,65,1
+IK Sirius,Attacker,M. Ogbu,66,J. Lindberg,63,3
+Vendsyssel FF,Goalkeeper,M. Tørnes,63,N. Flø,63,0
+Vendsyssel FF,Defender,S. Fischer,66,A. Juel Andersen,66,0
+Vendsyssel FF,Midfielder,L. Jensen,64,N. Gouriye,64,0
+Vendsyssel FF,Attacker,M. Slavov,66,E. Ogude,62,4
+Swindon Town,Goalkeeper,L. McCormick,64,L. Vigouroux,63,1
+Swindon Town,Defender,O. Lancashire,64,S. Nelson,63,1
+Swindon Town,Midfielder,M. Doughty,66,T. Diagouraga,65,1
+Swindon Town,Attacker,K. Anderson,64,M. Richards,63,1
+Notts County,Goalkeeper,B. Pindroch,61,R. Fitzsimons,58,3
+Notts County,Defender,E. Ward,66,D. Jones,65,1
+Notts County,Midfielder,E. Boldewijn,66,D. Vaughan,66,0
+Notts County,Attacker,K. Hemmings,65,K. Dennis,64,1
+SKN St. Pölten,Goalkeeper,C. Riegler,66,T. Vollnhofer,61,5
+SKN St. Pölten,Defender,D. Drescher,66,M. Haas,63,3
+SKN St. Pölten,Midfielder,D. Hofbauer,64,M. Ambichl,64,0
+SKN St. Pölten,Attacker,R. Gartler,66,Pak Kwang Ryong,65,1
+Exeter City,Goalkeeper,C. Pym,64,C. Weale,57,7
+Exeter City,Defender,D. Moxey,65,P. Sweeney,65,0
+Exeter City,Midfielder,N. Law,66,L. Martin,66,0
+Exeter City,Attacker,J. Stockley,65,J. Forte,64,1
+Northampton Town,Goalkeeper,D. Cornell,58,L. Ward,55,3
+Northampton Town,Defender,A. Taylor,66,A. Pierre,63,3
+Northampton Town,Midfielder,D. Powell,64,M. Crooks,64,0
+Northampton Town,Attacker,K. van Veen,65,A. Williams,64,1
+Shamrock Rovers,Goalkeeper,A. Mannus,65,K. Horgan,55,10
+Shamrock Rovers,Defender,J. O'Brien,64,L. Grace,63,1
+Shamrock Rovers,Midfielder,J. Byrne,66,R. Finn,63,3
+Shamrock Rovers,Attacker,D. Carr,61,A. Greene,60,1
+Colchester United,Goalkeeper,D. Barnes,61,R. Gilmartin,60,1
+Colchester United,Defender,K. Vincent-Young,65,F. Kent,65,0
+Colchester United,Midfielder,B. Dickenson,66,S. Szmodics,66,0
+Colchester United,Attacker,L. Norris,65,F. Nouble,64,1
+Livingston FC,Goalkeeper,L. Kelly,62,G. Maley,54,8
+Livingston FC,Defender,A. Lithgow,66,S. Lawless,64,2
+Livingston FC,Midfielder,R. De Vita,65,S. Lawson,65,0
+Livingston FC,Attacker,L. Miller,65,Dolly Menga,63,2
+TSV Hartberg,Goalkeeper,R. Swete,64,F. Faist,60,4
+TSV Hartberg,Defender,M. Huber,64,P. Siegl,63,1
+TSV Hartberg,Midfielder,R. Rep,66,F. Flecker,64,2
+TSV Hartberg,Attacker,D. Tadić,65,Z. Sanogo,64,1
+Tranmere Rovers,Goalkeeper,S. Davies,61,S. George,54,7
+Tranmere Rovers,Defender,S. McNulty,64,R. Sutton,62,2
+Tranmere Rovers,Midfielder,C. Jennings,63,O. Banks,62,1
+Tranmere Rovers,Attacker,J. Norwood,66,C. Stockton,60,6
+Cambridge United,Goalkeeper,D. Forde,65,D. Mitov,56,9
+Cambridge United,Defender,B. Halliday,61,G. Taft,61,0
+Cambridge United,Midfielder,D. Amoo,63,R. Lambe,63,0
+Cambridge United,Attacker,B. Corr,63,J. Ibehre,61,2
+Grimsby Town,Goalkeeper,J. McKeown,63,S. Russell,59,4
+Grimsby Town,Defender,D. Collins,64,L. Hendrie,63,1
+Grimsby Town,Midfielder,B. Pringle,65,J. Welsh,65,0
+Grimsby Town,Attacker,W. Thomas,65,J. Hooper,59,6
+Port Vale,Goalkeeper,S. Brown,65,S. Hornby,59,6
+Port Vale,Defender,L. Legge,65,C. Rawlinson,64,1
+Port Vale,Midfielder,D. Worrall,65,B. Whitfield,63,2
+Port Vale,Attacker,T. Pope,64,L. Dodds,62,2
+Itagüí Leones FC,Goalkeeper,A. Cadavid,64,C. Arroyave,59,5
+Itagüí Leones FC,Defender,J. Aguirre,64,E. Restrepo,63,1
+Itagüí Leones FC,Midfielder,J. Córdoba,65,K. Rendón,64,1
+Itagüí Leones FC,Attacker,Y. Mena,65,A. Otero,64,1
+Forest Green Rovers,Goalkeeper,Robert Sanchez,61,J. Montgomery,57,4
+Forest Green Rovers,Defender,G. Gunning,65,J. Mills,65,0
+Forest Green Rovers,Midfielder,R. Brown,64,C. Winchester,64,0
+Forest Green Rovers,Attacker,R. Reid,65,B. Morris,60,5
+Dalkurd FF,Goalkeeper,S. van der Lei,62,L. Wahlstedt,48,14
+Dalkurd FF,Defender,K. Ceesay,65,M. Thorbjörnsson,62,3
+Dalkurd FF,Midfielder,F. Ayaz,64,S. Suljevic,63,1
+Dalkurd FF,Attacker,E. Markkanen,65,A. Stadler,61,4
+Zagłębie Sosnowiec,Goalkeeper,M. Perdijić,64,D. Kudła,62,2
+Zagłębie Sosnowiec,Defender,M. Heinloth,64,P. Polczak,64,0
+Zagłębie Sosnowiec,Midfielder,K. Wrzesiński,65,T. Nowak,65,0
+Carlisle United,Goalkeeper,A. Collin,62,J. Fryer,60,2
+Carlisle United,Defender,T. Parkes,65,A. Gerrard,65,0
+Carlisle United,Midfielder,M. Jones,63,J. Kennedy,63,0
+Carlisle United,Attacker,H. Hope,60,R. Bennett,57,3
+Trelleborgs FF,Goalkeeper,M. Johansson,59,D. Petersson,58,1
+Trelleborgs FF,Defender,L. Nielsen,65,A. Blomqvist,64,1
+Trelleborgs FF,Midfielder,Z. Jovanovic,64,R. Nilsson,63,1
+Trelleborgs FF,Attacker,S. Camara Jönsson,63,D. Hümmet,63,0
+St. Patrick's Athletic,Goalkeeper,B. Clarke,62,B. Murphy,59,3
+St. Patrick's Athletic,Defender,S. Madden,65,K. Toner,63,2
+St. Patrick's Athletic,Midfielder,K. Brennan,60,D. Markey,59,1
+St. Patrick's Athletic,Attacker,C. Fagan,62,G. Shaw,58,4
+Morecambe,Goalkeeper,B. Roche,63,M. Halstead,57,6
+Morecambe,Defender,S. Old,61,J. Yarney,60,1
+Morecambe,Midfielder,F. Cuvelier,64,A. Leitch-Smith,63,1
+Morecambe,Attacker,V. Oliver,59,J. Oswell,57,2
+Cork City,Goalkeeper,M. McNulty,63,T. Ryan,54,9
+Cork City,Defender,S. Griffin,62,A. Bennett,61,1
+Cork City,Midfielder,B. McNamee,64,K. Sheppard,64,0
+Cork City,Attacker,G. Cummins,65,R. Coughlan,58,7
+IF Brommapojkarna,Goalkeeper,N. Petric,60,R. Emanuelsson,58,2
+IF Brommapojkarna,Defender,F. Björkén,64,L. Öhman,62,2
+IF Brommapojkarna,Midfielder,M. Gustafsson,64,G. Sandberg Magnusson,63,1
+IF Brommapojkarna,Attacker,P. Hellquist,62,A. Nilsson,61,1
+Crewe Alexandra,Goalkeeper,B. Garratt,62,D. Richards,59,3
+Crewe Alexandra,Defender,M. Raynes,62,E. Nolan,61,1
+Crewe Alexandra,Midfielder,P. Green,63,C. Ainley,60,3
+Crewe Alexandra,Attacker,J. Bowery,64,S. Miller,63,1
+Yeovil Town,Goalkeeper,S. Nelson,62,N. Baxter,61,1
+Yeovil Town,Defender,O. Sowunmi,64,T. James,64,0
+Yeovil Town,Midfielder,J. Bailey,63,S. D'Almeida,63,0
+Yeovil Town,Attacker,F. Zoko,64,A. Fisher,62,2
+Bohemian FC,Goalkeeper,J. Talbot,56,S. Bohan,52,4
+Bohemian FC,Defender,D. Pender,59,R. Cornwall,59,0
+Bohemian FC,Midfielder,K. Ward,64,K. Devaney,59,5
+Bohemian FC,Attacker,D. Corcoran,60,E. Stokes,58,2
+Macclesfield Town,Goalkeeper,R. Taylor,61,K. O'Hara,59,2
+Macclesfield Town,Defender,N. Cameron,64,J. Grimes,62,2
+Macclesfield Town,Midfielder,K. Arthur,60,P. Vincenti,60,0
+Macclesfield Town,Attacker,N. Blissett,61,T. Marsh,59,2
+Newport County,Goalkeeper,J. Day,63,N. Townsend,62,1
+Newport County,Defender,M. O'Brien,62,M. Demetriou,62,0
+Newport County,Midfielder,A. Crofts,64,J. Labadie,62,2
+Newport County,Attacker,J. Matt,62,P. Amond,61,1
+Sligo Rovers,Goalkeeper,M. Beeney,58,E. McGinty,54,4
+Sligo Rovers,Defender,K. Callan-McFadden,59,P. McClean,59,0
+Sligo Rovers,Midfielder,R. McCabe,63,D. Cawley,59,4
+Sligo Rovers,Attacker,R. Murray,62,M. Drennan,61,1
+Derry City,Goalkeeper,P. Cherrie,58,N. Gartside,55,3
+Derry City,Defender,K. McHattie,62,C. McDermott,60,2
+Derry City,Midfielder,D. Shiels,59,R. Hale,59,0
+Limerick FC,Goalkeeper,T. Holland,54,J. Brady,53,1
+Limerick FC,Defender,B. Dennehy,59,K. Cantwell,56,3
+Limerick FC,Midfielder,B. Maguire,62,W. Fitzgerald,56,6
+Limerick FC,Attacker,D. Morrissey,58,C. Ellis,56,2
+Bray Wanderers,Goalkeeper,E. Moran,56,M. O'Connor,53,3
+Bray Wanderers,Defender,K. Lynch,57,C. Kenna,57,0
+Bray Wanderers,Midfielder,J. Kelly,58,J. Sullivan,57,1
+Bray Wanderers,Attacker,G. Pender,56,J. Ellis,51,5

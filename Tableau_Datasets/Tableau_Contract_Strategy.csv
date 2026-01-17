@@ -1,0 +1,462 @@
+Name,Club,Age,Value,Wage,Contract_Years_Remaining,Plot_X,Urgency_Group,Potential
+L. Messi,FC Barcelona,31,110500000.0,565000.0,2.0,1.9372700594236814,2. Urgent (2 Years Left),94
+Cristiano Ronaldo,Juventus,33,77000000.0,405000.0,3.0,3.225357153204958,3. Stable (3 Years Left),94
+Neymar Jr,Paris Saint-Germain,26,118500000.0,290000.0,3.0,3.1159969709057025,3. Stable (3 Years Left),93
+De Gea,Manchester United,27,72000000.0,260000.0,1.0,1.0493292420985183,1. Crisis (Expiring < 12m),93
+K. De Bruyne,Manchester City,27,102000000.0,355000.0,4.0,3.828009320221218,4. Secure (Long Term),92
+E. Hazard,Chelsea,27,93000000.0,340000.0,1.0,0.8279972601681014,1. Crisis (Expiring < 12m),91
+L. Modrić,Real Madrid,32,67000000.0,420000.0,1.0,0.7790418060840998,1. Crisis (Expiring < 12m),91
+L. Suárez,FC Barcelona,31,80000000.0,455000.0,2.0,2.1830880728874678,2. Urgent (2 Years Left),91
+Sergio Ramos,Real Madrid,32,51000000.0,380000.0,1.0,1.0505575058716043,1. Crisis (Expiring < 12m),91
+J. Oblak,Atlético Madrid,25,68000000.0,94000.0,2.0,2.1040362888980226,2. Urgent (2 Years Left),93
+R. Lewandowski,FC Bayern München,29,77000000.0,205000.0,2.0,1.7602922471479012,2. Urgent (2 Years Left),90
+T. Kroos,Real Madrid,28,76500000.0,355000.0,3.0,3.2349549260809973,3. Stable (3 Years Left),90
+D. Godín,Atlético Madrid,32,44000000.0,125000.0,0.0,0.16622132040021087,1. Crisis (Expiring < 12m),90
+David Silva,Manchester City,32,60000000.0,285000.0,1.0,0.8561695553391381,1. Crisis (Expiring < 12m),90
+N. Kanté,Chelsea,27,63000000.0,225000.0,4.0,3.8409124836035504,4. Secure (Long Term),90
+P. Dybala,Juventus,24,89000000.0,205000.0,3.0,2.841702254926717,3. Stable (3 Years Left),94
+H. Kane,Tottenham Hotspur,24,83500000.0,205000.0,5.0,4.902121121479769,4. Secure (Long Term),91
+A. Griezmann,Atlético Madrid,27,78000000.0,145000.0,4.0,4.012378215816119,4. Secure (Long Term),90
+M. ter Stegen,FC Barcelona,26,58000000.0,240000.0,3.0,2.965972509321058,3. Stable (3 Years Left),92
+T. Courtois,Real Madrid,26,53500000.0,240000.0,5.0,4.895614570099021,4. Secure (Long Term),90
+Sergio Busquets,FC Barcelona,29,51500000.0,315000.0,4.0,4.055926447361189,4. Secure (Long Term),89
+E. Cavani,Paris Saint-Germain,31,60000000.0,200000.0,1.0,0.819746930326021,1. Crisis (Expiring < 12m),89
+M. Neuer,FC Bayern München,32,38000000.0,130000.0,2.0,1.896072324267609,2. Urgent (2 Years Left),89
+S. Agüero,Manchester City,30,64500000.0,300000.0,2.0,1.9331809216468459,2. Urgent (2 Years Left),89
+G. Chiellini,Juventus,33,27000000.0,215000.0,1.0,0.978034992108518,1. Crisis (Expiring < 12m),89
+K. Mbappé,Paris Saint-Germain,19,81000000.0,100000.0,3.0,3.142587980696507,3. Stable (3 Years Left),95
+M. Salah,Liverpool,26,69500000.0,255000.0,4.0,3.84983689107918,4. Secure (Long Term),89
+Casemiro,Real Madrid,26,59500000.0,285000.0,2.0,2.0071172192068056,2. Urgent (2 Years Left),90
+J. Rodríguez,FC Bayern München,26,69500000.0,315000.0,0.0,0.046207284431021234,1. Crisis (Expiring < 12m),89
+L. Insigne,Napoli,27,62000000.0,165000.0,3.0,2.773225206359999,3. Stable (3 Years Left),88
+Isco,Real Madrid,26,73500000.0,315000.0,3.0,3.053772425950719,3. Stable (3 Years Left),91
+C. Eriksen,Tottenham Hotspur,26,73500000.0,205000.0,1.0,0.8352620618436457,1. Crisis (Expiring < 12m),91
+Coutinho,FC Barcelona,26,69500000.0,340000.0,4.0,3.7825257964926395,4. Secure (Long Term),89
+P. Aubameyang,Arsenal,29,59000000.0,265000.0,2.0,2.2244427686266666,2. Urgent (2 Years Left),88
+M. Hummels,FC Bayern München,29,46000000.0,160000.0,2.0,2.2328160165372797,2. Urgent (2 Years Left),88
+Marcelo,Real Madrid,30,43000000.0,285000.0,3.0,3.1541986740582306,3. Stable (3 Years Left),88
+G. Bale,Real Madrid,28,60000000.0,355000.0,3.0,2.9023068845866855,3. Stable (3 Years Left),88
+H. Lloris,Tottenham Hotspur,31,36000000.0,150000.0,3.0,2.798836057003192,3. Stable (3 Years Left),88
+G. Higuaín,Milan,30,57000000.0,245000.0,0.0,0.09211651325607845,1. Crisis (Expiring < 12m),88
+Thiago Silva,Paris Saint-Germain,33,24000000.0,165000.0,1.0,0.9700762468698007,1. Crisis (Expiring < 12m),88
+S. Handanovič,Inter,33,30000000.0,110000.0,2.0,1.8110191174223895,2. Urgent (2 Years Left),88
+S. Umtiti,FC Barcelona,24,57000000.0,205000.0,4.0,3.9975884550556353,4. Secure (Long Term),92
+M. Icardi,Inter,25,64500000.0,130000.0,2.0,1.7671942605576092,2. Urgent (2 Years Left),90
+K. Koulibaly,Napoli,27,51000000.0,115000.0,2.0,2.204660201039391,2. Urgent (2 Years Left),90
+P. Pogba,Manchester United,25,64000000.0,210000.0,2.0,1.8793899908000085,2. Urgent (2 Years Left),91
+K. Navas,Real Madrid,31,30500000.0,195000.0,1.0,1.081261142176991,1. Crisis (Expiring < 12m),87
+R. Lukaku,Manchester United,25,62500000.0,230000.0,3.0,2.9058555380447055,3. Stable (3 Years Left),89
+C. Immobile,Lazio,28,52000000.0,115000.0,4.0,4.010034010588905,4. Secure (Long Term),87
+Jordi Alba,FC Barcelona,29,38000000.0,250000.0,1.0,1.0233551396716398,1. Crisis (Expiring < 12m),87
+D. Mertens,Napoli,31,45000000.0,135000.0,1.0,0.8424272277627636,1. Crisis (Expiring < 12m),87
+J. Vertonghen,Tottenham Hotspur,31,34000000.0,155000.0,0.0,0.23479231388227928,1. Crisis (Expiring < 12m),87
+M. Hamšík,Napoli,30,46500000.0,125000.0,1.0,1.1375664116805573,1. Crisis (Expiring < 12m),87
+I. Rakitić,FC Barcelona,30,46500000.0,260000.0,2.0,2.2197494707820944,2. Urgent (2 Years Left),87
+Piqué,FC Barcelona,31,34000000.0,240000.0,3.0,3.1974136752138245,3. Stable (3 Years Left),87
+L. Sané,Manchester City,22,61000000.0,195000.0,2.0,2.0489499894055427,2. Urgent (2 Years Left),92
+Bernardo Silva,Manchester City,23,59500000.0,180000.0,3.0,3.210937117511558,3. Stable (3 Years Left),91
+Ederson,Manchester City,24,41500000.0,125000.0,6.0,5.794246251025959,4. Secure (Long Term),90
+S. Mané,Liverpool,26,52000000.0,195000.0,4.0,3.8479914312095724,4. Secure (Long Term),87
+V. van Dijk,Liverpool,26,44500000.0,165000.0,4.0,3.772613644455269,4. Secure (Long Term),88
+R. Sterling,Manchester City,23,56500000.0,195000.0,4.0,3.912665165381632,4. Secure (Long Term),89
+Roberto Firmino,Liverpool,26,53000000.0,195000.0,4.0,3.944338644844741,4. Secure (Long Term),87
+R. Varane,Real Madrid,25,50000000.0,210000.0,3.0,2.885674515886948,3. Stable (3 Years Left),91
+M. Verratti,Paris Saint-Germain,25,55000000.0,135000.0,2.0,2.164368754575965,2. Urgent (2 Years Left),89
+Alex Sandro,Juventus,27,36500000.0,160000.0,1.0,0.9283766633467947,1. Crisis (Expiring < 12m),86
+Douglas Costa,Juventus,27,46500000.0,175000.0,3.0,2.8904672548436903,3. Stable (3 Years Left),86
+T. Müller,FC Bayern München,28,45000000.0,135000.0,2.0,2.0213480415791243,2. Urgent (2 Years Left),86
+Thiago,FC Bayern München,27,45500000.0,130000.0,2.0,1.8204621124873812,2. Urgent (2 Years Left),86
+M. Reus,Borussia Dortmund,29,43500000.0,100000.0,4.0,4.15109849037702,4. Secure (Long Term),86
+Azpilicueta,Chelsea,28,35000000.0,175000.0,3.0,2.7872753218398856,3. Stable (3 Years Left),86
+L. Bonucci,Juventus,31,30000000.0,160000.0,4.0,4.243443468300258,4. Secure (Long Term),86
+T. Alderweireld,Tottenham Hotspur,29,39000000.0,150000.0,1.0,1.1361223846483286,1. Crisis (Expiring < 12m),87
+M. Pjanić,Juventus,28,44000000.0,180000.0,4.0,3.849357840767086,4. Secure (Long Term),86
+M. Benatia,Juventus,31,30000000.0,160000.0,1.0,0.7527610585618012,1. Crisis (Expiring < 12m),86
+M. Özil,Arsenal,29,43500000.0,190000.0,2.0,2.157730714227417,2. Urgent (2 Years Left),86
+Fernandinho,Manchester City,33,18000000.0,185000.0,1.0,1.1034286719238087,1. Crisis (Expiring < 12m),86
+Iniesta,Vissel Kobe,34,21500000.0,21000.0,2.0,2.1145035840204938,2. Urgent (2 Years Left),86
+M. Škriniar,Inter,23,46500000.0,82000.0,3.0,3.135635173342973,3. Stable (3 Years Left),92
+S. Milinković-Savić,Lazio,23,50500000.0,73000.0,4.0,3.7870223258670452,4. Secure (Long Term),90
+Marco Asensio,Real Madrid,22,54000000.0,215000.0,4.0,3.9292328642721364,4. Secure (Long Term),92
+N. Fekir,Olympique Lyonnais,24,50000000.0,92000.0,1.0,0.8079345297625649,1. Crisis (Expiring < 12m),89
+Alisson,Liverpool,25,36500000.0,115000.0,5.0,5.181551712937797,4. Secure (Long Term),90
+J. Kimmich,FC Bayern München,23,40500000.0,92000.0,4.0,4.061649063413779,4. Secure (Long Term),88
+Saúl,Atlético Madrid,23,50500000.0,77000.0,7.0,6.915449012426325,4. Secure (Long Term),90
+R. Mahrez,Manchester City,27,40500000.0,205000.0,4.0,3.781779175143012,4. Secure (Long Term),85
+D. Alaba,FC Bayern München,26,38000000.0,110000.0,2.0,1.905491160857831,2. Urgent (2 Years Left),87
+Koke,Atlético Madrid,26,45000000.0,88000.0,0.0,-0.08740833898662648,1. Crisis (Expiring < 12m),86
+A. Lacazette,Arsenal,27,45000000.0,180000.0,3.0,3.114803089169032,3. Stable (3 Years Left),86
+K. Manolas,Roma,27,37500000.0,96000.0,3.0,3.0687787356776064,3. Stable (3 Years Left),87
+N. Otamendi,Manchester City,30,28500000.0,170000.0,3.0,3.1936063712881633,3. Stable (3 Years Left),85
+Parejo,Valencia CF,29,37000000.0,66000.0,1.0,0.9861074625809747,1. Crisis (Expiring < 12m),85
+Paulinho,Guangzhou Evergrande Taobao FC,29,37000000.0,235000.0,0.0,-0.19020287703084915,1. Crisis (Expiring < 12m),85
+W. Szczęsny,Juventus,28,32000000.0,125000.0,2.0,2.1066223936114974,2. Urgent (2 Years Left),87
+A. Sánchez,Manchester United,29,37500000.0,215000.0,3.0,3.1303925243084487,3. Stable (3 Years Left),85
+Y. Brahimi,FC Porto,28,39000000.0,28000.0,0.0,0.030638598784748117,1. Crisis (Expiring < 12m),85
+J. Boateng,FC Bayern München,29,30000000.0,115000.0,2.0,2.1354835899772806,2. Urgent (2 Years Left),85
+A. Vidal,FC Barcelona,31,26000000.0,205000.0,2.0,1.9968977981821954,2. Urgent (2 Years Left),85
+I. Perišić,Inter,29,37500000.0,110000.0,3.0,3.011366414690997,3. Stable (3 Years Left),85
+E. Džeko,Roma,32,30500000.0,115000.0,1.0,0.9637705091792748,1. Crisis (Expiring < 12m),85
+S. Khedira,Juventus,31,33000000.0,160000.0,2.0,1.7627095633720475,2. Urgent (2 Years Left),85
+Diego Costa,Atlético Madrid,29,38500000.0,100000.0,2.0,1.8039457134966521,2. Urgent (2 Years Left),85
+R. Nainggolan,Inter,30,35500000.0,105000.0,3.0,2.7657145928433673,3. Stable (3 Years Left),85
+B. Matuidi,Juventus,31,26000000.0,145000.0,1.0,1.0682052056318903,1. Crisis (Expiring < 12m),85
+Miranda,Inter,33,15500000.0,96000.0,1.0,0.9071779905381634,1. Crisis (Expiring < 12m),85
+K. Benzema,Real Madrid,30,37000000.0,240000.0,2.0,2.0042853455823515,2. Urgent (2 Years Left),85
+Filipe Luís,Atlético Madrid,32,21500000.0,81000.0,0.0,0.2037832369630465,1. Crisis (Expiring < 12m),85
+V. Kompany,Manchester City,32,22000000.0,170000.0,0.0,-0.12535388542556253,1. Crisis (Expiring < 12m),85
+D. Sánchez,Tottenham Hotspur,22,34000000.0,105000.0,5.0,4.955191461517815,4. Secure (Long Term),88
+J. Giménez,Atlético Madrid,23,34000000.0,63000.0,4.0,4.127775569271524,4. Secure (Long Term),88
+Alex Telles,FC Porto,25,32000000.0,22000.0,2.0,1.8643990827458112,2. Urgent (2 Years Left),87
+A. Laporte,Manchester City,24,34000000.0,135000.0,4.0,3.7884899549143967,4. Secure (Long Term),88
+Bruno Fernandes,Sporting CP,23,40500000.0,22000.0,4.0,3.894875726456884,4. Secure (Long Term),88
+N. Süle,FC Bayern München,22,36500000.0,84000.0,3.0,2.8306106436270024,3. Stable (3 Years Left),90
+A. Martial,Manchester United,22,42500000.0,165000.0,0.0,0.21484882617128653,1. Crisis (Expiring < 12m),90
+D. Alli,Tottenham Hotspur,22,42500000.0,115000.0,5.0,5.154060189782209,4. Secure (Long Term),90
+Fabinho,Liverpool,24,34000000.0,120000.0,4.0,4.066701878255212,4. Secure (Long Term),88
+Marquinhos,Paris Saint-Germain,24,35500000.0,90000.0,3.0,3.185730295093859,3. Stable (3 Years Left),89
+William Carvalho,Real Betis,26,31500000.0,38000.0,4.0,4.151836038449558,4. Secure (Long Term),86
+Jorginho,Chelsea,26,38000000.0,155000.0,4.0,3.843285029443018,4. Secure (Long Term),87
+F. Thauvin,Olympique de Marseille,25,39000000.0,72000.0,2.0,2.196279499244989,2. Urgent (2 Years Left),87
+Carvajal,Real Madrid,26,31500000.0,185000.0,3.0,3.0196711209578253,3. Stable (3 Years Left),87
+M. Depay,Olympique Lyonnais,24,42000000.0,93000.0,2.0,2.1537200775820313,2. Urgent (2 Years Left),89
+H. Son,Tottenham Hotspur,25,37000000.0,125000.0,4.0,4.198045649961746,4. Secure (Long Term),85
+A. Lopes,Olympique Lyonnais,27,25000000.0,72000.0,1.0,0.9090017374859319,1. Crisis (Expiring < 12m),86
+S. de Vrij,Inter,26,31500000.0,88000.0,4.0,3.8050259622638385,4. Secure (Long Term),86
+M. Perin,Juventus,25,29500000.0,105000.0,3.0,2.8639675812709706,3. Stable (3 Years Left),89
+J. Cuadrado,Juventus,30,29500000.0,150000.0,1.0,0.9635538943131281,1. Crisis (Expiring < 12m),84
+Iago Aspas,RC Celta,30,30000000.0,45000.0,3.0,3.1590073829612466,3. Stable (3 Years Left),84
+B. Leno,Arsenal,26,27000000.0,115000.0,4.0,4.1803652916281715,4. Secure (Long Term),87
+N. Matić,Manchester United,29,24000000.0,165000.0,1.0,0.7534760652655954,1. Crisis (Expiring < 12m),84
+L. Hrádecký,Bayer 04 Leverkusen,28,22000000.0,74000.0,4.0,4.0053736512887825,4. Secure (Long Term),84
+Illarramendi,Real Sociedad,28,31000000.0,51000.0,4.0,3.9587055015743893,4. Secure (Long Term),84
+K. Walker,Manchester City,28,24500000.0,165000.0,3.0,2.861053905235365,3. Stable (3 Years Left),84
+I. Gündoğan,Manchester City,27,32000000.0,175000.0,1.0,0.8099326836668415,1. Crisis (Expiring < 12m),84
+José Callejón,Napoli,31,27500000.0,105000.0,1.0,0.918807585701814,1. Crisis (Expiring < 12m),84
+A. Di María,Paris Saint-Germain,30,29500000.0,125000.0,2.0,2.22145485195626,2. Urgent (2 Years Left),84
+M. Mandžukić,Juventus,32,25000000.0,160000.0,1.0,0.9116014660103776,1. Crisis (Expiring < 12m),84
+Willian,Chelsea,29,30500000.0,175000.0,1.0,1.009395310871683,1. Crisis (Expiring < 12m),84
+Sergio Asenjo,Villarreal CF,29,24000000.0,42000.0,3.0,3.101509479447589,3. Stable (3 Years Left),85
+E. Banega,Sevilla FC,30,29000000.0,31000.0,1.0,0.931814801189647,1. Crisis (Expiring < 12m),84
+A. Witsel,Borussia Dortmund,29,24000000.0,77000.0,3.0,3.2358910413604804,3. Stable (3 Years Left),84
+D. Payet,Olympique de Marseille,31,27500000.0,75000.0,2.0,2.2312236474710554,2. Urgent (2 Years Left),84
+Jonas,SL Benfica,34,16500000.0,25000.0,1.0,0.8758911479126821,1. Crisis (Expiring < 12m),84
+Sokratis,Arsenal,30,23000000.0,140000.0,2.0,1.9986242529461928,2. Urgent (2 Years Left),84
+S. Ruffier,AS Saint-Étienne,31,19000000.0,41000.0,2.0,1.9004391549083848,2. Urgent (2 Years Left),84
+Falcao,AS Monaco,32,25000000.0,115000.0,1.0,0.8924202471887338,1. Crisis (Expiring < 12m),84
+K. Schmeichel,Leicester City,31,19000000.0,78000.0,4.0,3.7684434736772663,4. Secure (Long Term),84
+Raúl Albiol,Napoli,32,18000000.0,88000.0,2.0,2.0547821669899484,2. Urgent (2 Years Left),84
+A. Gómez,Atalanta,30,30000000.0,53000.0,3.0,3.0013395116144306,3. Stable (3 Years Left),84
+Quaresma,Beşiktaş JK,34,15500000.0,80000.0,1.0,0.7757393756249946,1. Crisis (Expiring < 12m),84
+A. Robben,FC Bayern München,34,15500000.0,110000.0,0.0,-0.11067676788169428,1. Crisis (Expiring < 12m),84
+O. Dembélé,FC Barcelona,21,40000000.0,155000.0,3.0,3.204132942983327,3. Stable (3 Years Left),92
+Gabriel Jesus,Manchester City,21,41000000.0,130000.0,4.0,3.869780945333486,4. Secure (Long Term),92
+Ronaldo Cabrais,Grêmio,26,28000000.0,51000.0,2.0,1.8224474360456115,2. Urgent (2 Years Left),83
+Josué Chiamulera,Grêmio,26,22500000.0,43000.0,2.0,1.9947263801387816,2. Urgent (2 Years Left),83
+Louri Beretta,Atlético Mineiro,26,28500000.0,60000.0,2.0,2.2428252270553,2. Urgent (2 Years Left),83
+P. Kimpembe,Paris Saint-Germain,22,30500000.0,82000.0,4.0,3.87102763575575,4. Secure (Long Term),89
+N. Keïta,Liverpool,23,34000000.0,120000.0,4.0,4.086067773702939,4. Secure (Long Term),88
+C. Tolisso,FC Bayern München,23,34000000.0,85000.0,3.0,3.1308098076643587,3. Stable (3 Years Left),88
+T. Lemar,Atlético Madrid,22,35500000.0,64000.0,4.0,3.8688187719962,4. Secure (Long Term),89
+K. Coman,FC Bayern München,22,34000000.0,85000.0,4.0,4.11410817430593,4. Secure (Long Term),87
+J. Tah,Bayer 04 Leverkusen,22,29500000.0,67000.0,4.0,3.933891566359627,4. Secure (Long Term),88
+Anderson Talisca,Guangzhou Evergrande Taobao FC,24,36500000.0,18000.0,0.0,0.06615291529678974,1. Crisis (Expiring < 12m),90
+T. Werner,RB Leipzig,22,34500000.0,70000.0,1.0,1.0667648553804474,1. Crisis (Expiring < 12m),87
+A. Rabiot,Paris Saint-Germain,23,33000000.0,91000.0,0.0,0.01788734203737924,1. Crisis (Expiring < 12m),87
+L. Goretzka,FC Bayern München,23,34000000.0,85000.0,3.0,2.795144885027204,3. Stable (3 Years Left),88
+Q. Promes,Sevilla FC,26,30500000.0,28000.0,4.0,4.167651247794619,4. Secure (Long Term),84
+H. Ziyech,Ajax,25,32500000.0,28000.0,2.0,1.9103900324858678,2. Urgent (2 Years Left),86
+Lucas Vázquez,Real Madrid,27,27000000.0,205000.0,2.0,1.8432592551999272,2. Urgent (2 Years Left),83
+Y. Carrasco,Dalian YiFang FC,24,33000000.0,20000.0,2.0,1.770387570777382,2. Urgent (2 Years Left),86
+Gerard Moreno,Villarreal CF,26,32000000.0,53000.0,4.0,4.045446471594121,4. Secure (Long Term),85
+Felipe,FC Porto,29,20000000.0,22000.0,2.0,2.0887821809211413,2. Urgent (2 Years Left),83
+M. Kovačić,Chelsea,24,35000000.0,165000.0,0.0,-0.24170608553607192,1. Crisis (Expiring < 12m),89
+Kepa,Chelsea,23,28500000.0,84000.0,6.0,6.00604652914964,4. Secure (Long Term),91
+Manu Trigueros,Villarreal CF,26,30000000.0,49000.0,3.0,2.863247887598969,3. Stable (3 Years Left),84
+S. Gnabry,FC Bayern München,22,34500000.0,85000.0,1.0,1.072586395204725,1. Crisis (Expiring < 12m),88
+J. Pickford,Everton,24,25000000.0,78000.0,5.0,4.837183214502495,4. Secure (Long Term),88
+S. Savić,Atlético Madrid,27,26000000.0,67000.0,1.0,1.095468869051233,1. Crisis (Expiring < 12m),86
+J. Stones,Manchester City,24,28500000.0,125000.0,3.0,2.9433676731502687,3. Stable (3 Years Left),87
+Suso,Milan,24,33000000.0,115000.0,3.0,3.2183649943683674,3. Stable (3 Years Left),86
+J. Draxler,Paris Saint-Germain,24,32500000.0,91000.0,2.0,1.8187604720729966,2. Urgent (2 Years Left),86
+Felipe Anderson,West Ham United,25,31500000.0,110000.0,3.0,2.9205331755251294,3. Stable (3 Years Left),85
+Lucas Moura,Tottenham Hotspur,25,31000000.0,115000.0,4.0,3.8067367606202946,4. Secure (Long Term),84
+Danilo Pereira,FC Porto,26,27000000.0,21000.0,3.0,3.2123468091392815,3. Stable (3 Years Left),86
+Nacho Fernández,Real Madrid,28,24500000.0,180000.0,2.0,2.1886696766904903,2. Urgent (2 Years Left),85
+T. Horn,1. FC Köln,25,24000000.0,25000.0,4.0,3.8789708138575776,4. Secure (Long Term),87
+Allan,Napoli,27,26500000.0,87000.0,4.0,4.079992023017089,4. Secure (Long Term),83
+F. Acerbi,Lazio,30,19000000.0,64000.0,4.0,4.158611100100608,4. Secure (Long Term),83
+Sergi Roberto,FC Barcelona,26,26500000.0,170000.0,3.0,3.027600405799731,3. Stable (3 Years Left),86
+Rodrigo,Valencia CF,27,30500000.0,57000.0,3.0,3.0148252891780034,3. Stable (3 Years Left),84
+Pizzi,SL Benfica,28,25500000.0,22000.0,3.0,2.870926145450226,3. Stable (3 Years Left),83
+K. Kampl,RB Leipzig,27,26500000.0,74000.0,2.0,1.7965513839029497,2. Urgent (2 Years Left),83
+Neto,Valencia CF,28,21000000.0,41000.0,2.0,2.1986078789766634,2. Urgent (2 Years Left),84
+O. Baumann,TSG 1899 Hoffenheim,28,21000000.0,42000.0,2.0,2.200209028581665,2. Urgent (2 Years Left),84
+I. Gueye,Everton,28,21000000.0,125000.0,3.0,3.066550728636634,3. Stable (3 Years Left),83
+H. Mkhitaryan,Arsenal,29,25500000.0,145000.0,2.0,1.9195148955243504,2. Urgent (2 Years Left),83
+Marcos Alonso,Chelsea,27,24000000.0,130000.0,4.0,3.9246047873063303,4. Secure (Long Term),84
+K. Glik,AS Monaco,30,19000000.0,86000.0,2.0,2.1129778394351195,2. Urgent (2 Years Left),83
+K. Strootman,Olympique de Marseille,28,21000000.0,66000.0,4.0,4.198555129976288,4. Secure (Long Term),83
+B. Dost,Sporting CP,29,26000000.0,26000.0,2.0,2.1935432121325587,2. Urgent (2 Years Left),83
+Oscar,Shanghai SIPG FC,26,30500000.0,29000.0,1.0,1.1399377729288118,1. Crisis (Expiring < 12m),84
+M. Balotelli,OGC Nice,27,27500000.0,55000.0,0.0,0.07101582307714388,1. Crisis (Expiring < 12m),83
+Luiz Gustavo,Olympique de Marseille,30,19000000.0,63000.0,2.0,1.7920699824975244,2. Urgent (2 Years Left),83
+Giuliano,Al Nassr,28,26000000.0,64000.0,2.0,1.830814357047307,2. Urgent (2 Years Left),83
+David Luiz,Chelsea,31,17500000.0,130000.0,0.0,0.19927709426353962,1. Crisis (Expiring < 12m),83
+R. Fährmann,FC Schalke 04,29,20000000.0,38000.0,3.0,3.053214529829795,3. Stable (3 Years Left),84
+Juan Mata,Manchester United,30,24500000.0,160000.0,0.0,-0.24540147419168518,1. Crisis (Expiring < 12m),83
+Adán,Atlético Madrid,31,15500000.0,55000.0,1.0,0.8007357714330161,1. Crisis (Expiring < 12m),83
+Rui Patrício,Wolverhampton Wanderers,30,16500000.0,74000.0,3.0,3.081750884554028,3. Stable (3 Years Left),83
+Y. Sommer,Borussia Mönchengladbach,29,20000000.0,35000.0,2.0,1.7525307919231095,2. Urgent (2 Years Left),84
+Javi Martínez,FC Bayern München,29,20000000.0,94000.0,2.0,1.8304040257087493,2. Urgent (2 Years Left),83
+L. Bender,Bayer 04 Leverkusen,29,20000000.0,82000.0,2.0,2.024366894683293,2. Urgent (2 Years Left),83
+Lucas Leiva,Lazio,31,17500000.0,64000.0,1.0,1.0959475988463465,1. Crisis (Expiring < 12m),83
+Cesc Fàbregas,Chelsea,31,22000000.0,140000.0,0.0,0.07598062975130027,1. Crisis (Expiring < 12m),83
+M. Dembélé,Tottenham Hotspur,30,24000000.0,120000.0,0.0,-0.1378653452697201,1. Crisis (Expiring < 12m),83
+J. Pavlenka,SV Werder Bremen,26,19500000.0,30000.0,2.0,2.106089610673768,2. Urgent (2 Years Left),85
+M. de Ligt,Ajax,18,27000000.0,11000.0,2.0,1.8686245437484001,2. Urgent (2 Years Left),91
+Rodri,Atlético Madrid,22,29000000.0,59000.0,4.0,3.912699849079634,4. Secure (Long Term),87
+Arthur,FC Barcelona,21,32500000.0,125000.0,5.0,5.123245702559012,4. Secure (Long Term),90
+G. Donnarumma,Milan,19,29000000.0,23000.0,2.0,2.0748164495236074,2. Urgent (2 Years Left),93
+Rosberto Dourado,Atlético Mineiro,30,16500000.0,46000.0,0.0,0.17461170524708897,1. Crisis (Expiring < 12m),82
+Gelson Martins,Atlético Madrid,23,29500000.0,59000.0,4.0,4.078806446150172,4. Secure (Long Term),87
+Gonçalo Guedes,Valencia CF,21,29000000.0,36000.0,5.0,5.034154301667736,4. Secure (Long Term),86
+L. Torreira,Arsenal,22,25000000.0,98000.0,4.0,3.7968373839140463,4. Secure (Long Term),87
+Malcom,FC Barcelona,21,31500000.0,140000.0,4.0,3.933857901529717,4. Secure (Long Term),89
+Pau López,Real Betis,23,21500000.0,21000.0,4.0,3.8826011838408627,4. Secure (Long Term),87
+L. Hernández,Atlético Madrid,22,25500000.0,53000.0,5.0,4.871994821689542,4. Secure (Long Term),88
+C. Lenglet,FC Barcelona,23,26000000.0,135000.0,4.0,4.236505277376223,4. Secure (Long Term),88
+A. Kramarić,TSG 1899 Hoffenheim,27,26000000.0,54000.0,3.0,2.94654886233338,3. Stable (3 Years Left),83
+A. Robertson,Liverpool,24,24500000.0,98000.0,2.0,2.196023277588557,2. Urgent (2 Years Left),87
+Dani García,Athletic Club de Bilbao,28,20000000.0,33000.0,3.0,3.0655693129986314,3. Stable (3 Years Left),83
+F. Bernardeschi,Juventus,24,29500000.0,110000.0,3.0,3.147405651770824,3. Stable (3 Years Left),87
+J. Brandt,Bayer 04 Leverkusen,22,30500000.0,68000.0,2.0,2.001318546552596,2. Urgent (2 Years Left),88
+D. Rugani,Juventus,23,24500000.0,95000.0,2.0,2.0384519423131797,2. Urgent (2 Years Left),86
+Samu Castillejo,Milan,23,29000000.0,94000.0,4.0,3.996258846909432,4. Secure (Long Term),86
+João Cancelo,Juventus,24,25500000.0,95000.0,4.0,3.8476214938990223,4. Secure (Long Term),88
+A. Romagnoli,Milan,23,26500000.0,84000.0,3.0,3.111226057630753,3. Stable (3 Years Left),89
+T. Partey,Atlético Madrid,25,25500000.0,59000.0,4.0,3.890386181220428,4. Secure (Long Term),88
+Fred,Manchester United,25,26500000.0,140000.0,4.0,3.762157983215727,4. Secure (Long Term),84
+J. Vardy,Leicester City,31,20000000.0,96000.0,3.0,3.072736147953584,3. Stable (3 Years Left),82
+A. Belotti,Torino,24,30000000.0,58000.0,2.0,1.8385553397035244,2. Urgent (2 Years Left),87
+E. Forsberg,RB Leipzig,26,26000000.0,67000.0,3.0,3.220229292176457,3. Stable (3 Years Left),83
+J. Lingard,Manchester United,25,26500000.0,140000.0,2.0,2.2269642885012937,2. Urgent (2 Years Left),83
+F. Vázquez,Sevilla FC,29,21500000.0,27000.0,2.0,2.2074321951102243,2. Urgent (2 Years Left),82
+E. Višća,Medipol Başakşehir FK,28,22500000.0,40000.0,2.0,1.9350793501277221,2. Urgent (2 Years Left),82
+A. Rüdiger,Chelsea,25,22500000.0,110000.0,3.0,2.7577283082644337,3. Stable (3 Years Left),84
+A. Florenzi,Roma,27,20500000.0,73000.0,4.0,4.214159281293862,4. Secure (Long Term),83
+H. Maguire,Leicester City,25,23500000.0,77000.0,4.0,3.964092074158657,4. Secure (Long Term),85
+T. Meunier,Paris Saint-Germain,26,21000000.0,87000.0,1.0,1.2333274095218347,1. Crisis (Expiring < 12m),83
+S. Sané,FC Schalke 04,27,18500000.0,41000.0,3.0,3.2318099885446263,3. Stable (3 Years Left),82
+G. Kondogbia,Valencia CF,25,27500000.0,46000.0,3.0,3.17650472773368,3. Stable (3 Years Left),85
+Rafinha,FC Barcelona,25,29500000.0,165000.0,1.0,0.8972244460347929,1. Crisis (Expiring < 12m),87
+Gabriel Paulista,Valencia CF,27,21000000.0,44000.0,3.0,2.9425488643009627,3. Stable (3 Years Left),83
+Morata,Chelsea,25,28500000.0,135000.0,3.0,3.1755683357584283,3. Stable (3 Years Left),85
+J. Cillessen,FC Barcelona,29,18000000.0,135000.0,2.0,1.9084610025781388,2. Urgent (2 Years Left),84
+W. Ben Yedder,Sevilla FC,27,23500000.0,28000.0,2.0,1.8347463733430462,2. Urgent (2 Years Left),82
+C. Bakambu,Beijing Sinobo Guoan FC,27,26000000.0,33000.0,2.0,2.028400631229175,2. Urgent (2 Years Left),83
+Pablo Sarabia,Sevilla FC,26,26000000.0,26000.0,1.0,1.2180773870803905,1. Crisis (Expiring < 12m),83
+W. Zaha,Crystal Palace,25,28500000.0,78000.0,4.0,4.098014898337486,4. Secure (Long Term),85
+Luis Alberto,Lazio,25,28500000.0,67000.0,3.0,3.0350305850446824,3. Stable (3 Years Left),85
+Jonathan Viera,Beijing Sinobo Guoan FC,28,22500000.0,31000.0,1.0,0.7985882468853842,1. Crisis (Expiring < 12m),82
+Bartra,Real Betis,27,21000000.0,32000.0,4.0,4.057503613349585,4. Secure (Long Term),83
+S. Coates,Sporting CP,27,21000000.0,19000.0,3.0,3.2450269250521315,3. Stable (3 Years Left),83
+Willian José,Real Sociedad,26,26500000.0,44000.0,5.0,4.820042007618262,4. Secure (Long Term),83
+Mário Fernandes,PFC CSKA Moscow,27,18500000.0,1000.0,3.0,3.0091648261818684,3. Stable (3 Years Left),82
+Víctor Ruiz,Villarreal CF,29,19500000.0,43000.0,0.0,0.18868653596397772,1. Crisis (Expiring < 12m),83
+T. Delaney,Borussia Dortmund,26,21500000.0,61000.0,3.0,3.120384308877102,3. Stable (3 Years Left),83
+K. Casteels,VfL Wolfsburg,26,19500000.0,46000.0,2.0,2.098507870497634,2. Urgent (2 Years Left),85
+M. Götze,Borussia Dortmund,26,27000000.0,67000.0,1.0,1.1012420419935547,1. Crisis (Expiring < 12m),85
+S. Mustafi,Arsenal,26,22500000.0,115000.0,2.0,1.9297455756098776,2. Urgent (2 Years Left),84
+J. Pastore,Roma,29,21500000.0,84000.0,3.0,2.8967959221322466,3. Stable (3 Years Left),82
+Pedro,Chelsea,30,21000000.0,140000.0,1.0,1.1546805777392568,1. Crisis (Expiring < 12m),82
+G. Bonaventura,Milan,28,22000000.0,115000.0,1.0,1.1550566973395904,1. Crisis (Expiring < 12m),82
+R. Bürki,Borussia Dortmund,27,18500000.0,50000.0,2.0,2.183536159290052,2. Urgent (2 Years Left),85
+Taison,Shakhtar Donetsk,30,21000000.0,1000.0,2.0,2.206620276278236,2. Urgent (2 Years Left),82
+S. Nzonzi,Roma,29,17000000.0,77000.0,3.0,3.005671199430469,3. Stable (3 Years Left),82
+Marlos,Shakhtar Donetsk,30,21000000.0,1000.0,0.0,0.0007581473435998021,1. Crisis (Expiring < 12m),82
+A. Ramsey,Arsenal,27,25000000.0,130000.0,0.0,0.14914758948338758,1. Crisis (Expiring < 12m),83
+K. Trippier,Tottenham Hotspur,27,18500000.0,99000.0,3.0,3.074981965388883,3. Stable (3 Years Left),82
+G. Sigurðsson,Everton,28,22500000.0,125000.0,3.0,3.1009834386288517,3. Stable (3 Years Left),82
+S. Giovinco,Toronto FC,31,20000000.0,15000.0,0.0,0.14789633471805053,1. Crisis (Expiring < 12m),82
+M. Arnautović,West Ham United,29,22000000.0,120000.0,3.0,3.1950026709087833,3. Stable (3 Years Left),82
+N. Gaitán,Dalian YiFang FC,30,21000000.0,22000.0,2.0,1.9189975784257678,2. Urgent (2 Years Left),82
+J. Henderson,Liverpool,28,18000000.0,125000.0,1.0,0.937791476319972,1. Crisis (Expiring < 12m),82
+M. Kruse,SV Werder Bremen,30,21500000.0,45000.0,0.0,-0.2030090300795655,1. Crisis (Expiring < 12m),82
+L. Fejsa,SL Benfica,29,17000000.0,18000.0,2.0,2.039140070498087,2. Urgent (2 Years Left),82
+G. Wijnaldum,Liverpool,27,23000000.0,130000.0,2.0,1.767971136898371,2. Urgent (2 Years Left),82
+O. Giroud,Chelsea,31,20000000.0,140000.0,0.0,-0.017200990933769922,1. Crisis (Expiring < 12m),82
+A. Guardado,Real Betis,31,19000000.0,35000.0,1.0,1.0213223173537882,1. Crisis (Expiring < 12m),82
+M. Rashford,Manchester United,20,27000000.0,110000.0,1.0,0.8932706260641422,1. Crisis (Expiring < 12m),89
+Laure Santeiro,Fluminense,30,17000000.0,40000.0,2.0,2.0454166302845054,2. Urgent (2 Years Left),81
+L. Bailey,Bayer 04 Leverkusen,20,26500000.0,54000.0,4.0,3.7652501249695245,4. Secure (Long Term),89
+M. Akanji,Borussia Dortmund,22,21000000.0,49000.0,3.0,2.768674094374607,3. Stable (3 Years Left),87
+F. de Jong,Ajax,21,26000000.0,19000.0,3.0,3.1613002803298293,3. Stable (3 Years Left),89
+Nélson Semedo,FC Barcelona,24,20000000.0,125000.0,3.0,2.9300953207056315,3. Stable (3 Years Left),86
+Pablo Fornals,Villarreal CF,22,24000000.0,36000.0,3.0,2.8135302563259423,3. Stable (3 Years Left),86
+Fabián,Napoli,22,26000000.0,64000.0,4.0,4.011121630027402,4. Secure (Long Term),89
+E. Bailly,Manchester United,24,21000000.0,105000.0,1.0,1.1349967765493054,1. Crisis (Expiring < 12m),87
+Dani Ceballos,Real Madrid,21,25000000.0,120000.0,4.0,3.8579105137484215,4. Secure (Long Term),88
+H. Lozano,PSV,22,24000000.0,22000.0,4.0,4.0614452379095,4. Secure (Long Term),86
+Morales,Levante UD,30,17000000.0,33000.0,2.0,1.792673732496884,2. Urgent (2 Years Left),81
+J. Seri,Fulham,26,20500000.0,73000.0,3.0,2.775840860584304,3. Stable (3 Years Left),82
+M. Politano,Inter,24,22500000.0,57000.0,0.0,0.015677315784073997,1. Crisis (Expiring < 12m),84
+M. Brozović,Inter,25,18500000.0,64000.0,3.0,3.0203175608050534,3. Stable (3 Years Left),84
+Williams,Athletic Club de Bilbao,24,24500000.0,31000.0,6.0,6.068714950749103,4. Secure (Long Term),87
+A. Correa,Atlético Madrid,23,24500000.0,54000.0,5.0,5.113045666861331,4. Secure (Long Term),87
+A. Christensen,Chelsea,22,21500000.0,91000.0,3.0,3.2379260397312675,3. Stable (3 Years Left),88
+João Mário,Inter,25,22500000.0,71000.0,2.0,2.0081501741505976,2. Urgent (2 Years Left),84
+T. Strakosha,Lazio,23,17000000.0,36000.0,0.0,-0.08852176352937702,1. Crisis (Expiring < 12m),86
+E. Hysaj,Napoli,24,20000000.0,58000.0,2.0,2.147593097384352,2. Urgent (2 Years Left),86
+P. Zieliński,Napoli,24,24500000.0,64000.0,2.0,1.885416125631037,2. Urgent (2 Years Left),88
+Ricardo Pereira,Leicester City,24,19000000.0,64000.0,4.0,3.969485710352818,4. Secure (Long Term),85
+Grimaldo,SL Benfica,22,20500000.0,14000.0,2.0,1.789228190671133,2. Urgent (2 Years Left),87
+R. Guerreiro,Borussia Dortmund,24,24000000.0,54000.0,1.0,0.7626753717077288,1. Crisis (Expiring < 12m),86
+A. Doucouré,Watford,25,19500000.0,60000.0,4.0,4.231324207338963,4. Secure (Long Term),85
+J. Martínez,Atlanta United,25,22500000.0,14000.0,1.0,1.1679900602561029,1. Crisis (Expiring < 12m),84
+C. Bacca,Villarreal CF,31,16000000.0,45000.0,3.0,3.097987103046849,3. Stable (3 Years Left),81
+A. Plea,Borussia Mönchengladbach,25,22000000.0,40000.0,4.0,3.954476472207135,4. Secure (Long Term),83
+B. Davies,Tottenham Hotspur,25,18500000.0,87000.0,2.0,1.8366471600354228,2. Urgent (2 Years Left),84
+M. Nastasić,FC Schalke 04,25,18500000.0,36000.0,3.0,2.828218521335543,3. Stable (3 Years Left),84
+A. Milik,Napoli,24,25500000.0,71000.0,2.0,1.8751214490822976,2. Urgent (2 Years Left),88
+M. Sabitzer,RB Leipzig,24,22500000.0,54000.0,3.0,3.02461333235306,3. Stable (3 Years Left),84
+B. Mendy,Manchester City,23,20000000.0,105000.0,3.0,3.107297961350031,3. Stable (3 Years Left),86
+C. Kramer,Borussia Mönchengladbach,27,17000000.0,35000.0,2.0,2.0800986883588655,2. Urgent (2 Years Left),82
+S. Vrsaljko,Inter,26,18000000.0,57000.0,0.0,-0.11003305152702858,1. Crisis (Expiring < 12m),84
+T. Hazard,Borussia Mönchengladbach,25,21500000.0,40000.0,1.0,1.227432640331597,1. Crisis (Expiring < 12m),83
+K. Bellarabi,Bayer 04 Leverkusen,28,18000000.0,76000.0,2.0,2.118948458347884,2. Urgent (2 Years Left),81
+S. Zaza,Torino,27,21000000.0,48000.0,0.0,0.027177026255700343,1. Crisis (Expiring < 12m),82
+F. Ghoulam,Napoli,27,16500000.0,68000.0,3.0,3.0558603731171763,3. Stable (3 Years Left),82
+J. Iličić,Atalanta,30,17000000.0,41000.0,2.0,1.959800031213895,2. Urgent (2 Years Left),81
+K. Volland,Bayer 04 Leverkusen,25,22000000.0,76000.0,2.0,1.8738654947505786,2. Urgent (2 Years Left),83
+Paco Alcácer,Borussia Dortmund,24,23500000.0,59000.0,4.0,3.927986339325631,4. Secure (Long Term),85
+Vitolo,Atlético Madrid,28,18000000.0,65000.0,3.0,3.1289230552321845,3. Stable (3 Years Left),81
+G. Xhaka,Arsenal,25,22000000.0,115000.0,2.0,1.757196744314878,2. Urgent (2 Years Left),84
+D. Tadić,Ajax,29,17500000.0,26000.0,3.0,2.808036320253458,3. Stable (3 Years Left),81
+C. Aránguiz,Bayer 04 Leverkusen,29,17000000.0,76000.0,1.0,0.7730013210108764,1. Crisis (Expiring < 12m),81
+S. Verdi,Napoli,25,19500000.0,77000.0,4.0,3.770364401159485,4. Secure (Long Term),81
+D. Lovren,Liverpool,28,16000000.0,115000.0,2.0,2.1777302920055037,2. Urgent (2 Years Left),82
+X. Shaqiri,Liverpool,26,19000000.0,130000.0,4.0,4.1018289296900114,4. Secure (Long Term),81
+J. Corona,FC Porto,25,21500000.0,18000.0,1.0,0.9870869145436626,1. Crisis (Expiring < 12m),83
+A. Areola,Paris Saint-Germain,25,16500000.0,61000.0,0.0,-0.20108291967449926,1. Crisis (Expiring < 12m),85
+K. Vogt,TSG 1899 Hoffenheim,26,17500000.0,42000.0,3.0,2.9958079375584163,3. Stable (3 Years Left),82
+Ander Herrera,Manchester United,28,17500000.0,140000.0,0.0,-0.01326411460971716,1. Crisis (Expiring < 12m),81
+E. Salvio,SL Benfica,27,18500000.0,19000.0,0.0,-0.1633990650449924,1. Crisis (Expiring < 12m),81
+S. El Shaarawy,Roma,25,21000000.0,77000.0,1.0,0.9669258246189865,1. Crisis (Expiring < 12m),82
+C. Smalling,Manchester United,28,16000000.0,130000.0,0.0,-0.05074763280131328,1. Crisis (Expiring < 12m),82
+Hulk,Shanghai SIPG FC,31,15500000.0,25000.0,1.0,1.0579250490261083,1. Crisis (Expiring < 12m),81
+S. Kagawa,Borussia Dortmund,29,17500000.0,65000.0,1.0,1.0675468254338218,1. Crisis (Expiring < 12m),81
+M. Lanzini,West Ham United,25,23000000.0,90000.0,1.0,0.7726520048860223,1. Crisis (Expiring < 12m),85
+F. Smolov,Lokomotiv Moscow,28,18500000.0,1000.0,3.0,2.9373063073132357,3. Stable (3 Years Left),81
+L. Stindl,Borussia Mönchengladbach,29,18000000.0,43000.0,2.0,2.062929957857118,2. Urgent (2 Years Left),81
+O. Toprak,Borussia Dortmund,28,16000000.0,59000.0,2.0,2.001568129290044,2. Urgent (2 Years Left),82
+D. Perotti,Roma,29,17500000.0,84000.0,2.0,2.178244920594161,2. Urgent (2 Years Left),81
+Pedro León,SD Eibar,31,15500000.0,32000.0,1.0,1.0793468158094726,1. Crisis (Expiring < 12m),81
+A. Candreva,Inter,31,15500000.0,74000.0,2.0,1.8314672135407148,2. Urgent (2 Years Left),81
+D. Wass,Valencia CF,29,17000000.0,46000.0,3.0,2.785284373700215,3. Stable (3 Years Left),81
+E. Lamela,Tottenham Hotspur,26,21000000.0,105000.0,3.0,3.0712096391031576,3. Stable (3 Years Left),82
+C. Vela,Los Angeles FC,29,17500000.0,15000.0,3.0,2.763255655270811,3. Stable (3 Years Left),81
+Renato Augusto,Beijing Sinobo Guoan FC,30,16500000.0,28000.0,2.0,2.0428877906367315,2. Urgent (2 Years Left),81
+H. Herrera,FC Porto,28,17500000.0,20000.0,0.0,0.2201151207124788,1. Crisis (Expiring < 12m),81
+Nani,Sporting CP,31,15500000.0,19000.0,1.0,1.0377370889379396,1. Crisis (Expiring < 12m),81
+M. Gómez,RC Celta,21,20500000.0,25000.0,3.0,2.944084963103261,3. Stable (3 Years Left),85
+K. Havertz,Bayer 04 Leverkusen,19,22000000.0,32000.0,3.0,3.0716441092211766,3. Stable (3 Years Left),89
+T. Ndombele,Olympique Lyonnais,21,22500000.0,51000.0,4.0,3.9791264452457584,4. Secure (Long Term),89
+H. Aouar,Olympique Lyonnais,20,23500000.0,51000.0,4.0,4.022808394657967,4. Secure (Long Term),90
+Carlos Soler,Valencia CF,21,21000000.0,31000.0,2.0,2.2207324043882624,2. Urgent (2 Years Left),87
+Odriozola,Real Madrid,22,18500000.0,115000.0,5.0,4.9430513189003875,4. Secure (Long Term),88
+M. Almirón,Atlanta United,24,19500000.0,11000.0,0.0,0.2305952819119571,1. Crisis (Expiring < 12m),84
+Oyarzabal,Real Sociedad,21,21000000.0,29000.0,5.0,5.202675320978032,4. Secure (Long Term),87
+F. Balbuena,West Ham United,26,15500000.0,80000.0,2.0,1.8478955673946482,2. Urgent (2 Years Left),83
+M. Marega,FC Porto,27,16000000.0,19000.0,2.0,1.7846806504375827,2. Urgent (2 Years Left),80
+B. Pavard,VfB Stuttgart,22,17500000.0,33000.0,2.0,1.8003890006887133,2. Urgent (2 Years Left),86
+W. Ndidi,Leicester City,21,17000000.0,50000.0,5.0,4.759110912825775,4. Secure (Long Term),85
+G. Lo Celso,Real Betis,22,20000000.0,72000.0,0.0,-0.2027785196220358,1. Crisis (Expiring < 12m),86
+Rúben Neves,Wolverhampton Wanderers,21,20500000.0,59000.0,4.0,4.091503386708179,4. Secure (Long Term),87
+Mariano,Real Madrid,24,20000000.0,140000.0,4.0,3.7855943242301144,4. Secure (Long Term),85
+M. Caldara,Milan,24,17500000.0,73000.0,4.0,3.9094878151468806,4. Secure (Long Term),86
+T. Bakayoko,Milan,23,17000000.0,85000.0,0.0,0.17243765548472728,1. Crisis (Expiring < 12m),85
+M. Dahoud,Borussia Dortmund,22,20000000.0,50000.0,3.0,2.761635967867913,3. Stable (3 Years Left),86
+Rafa,SL Benfica,25,18500000.0,17000.0,2.0,2.157234241294468,2. Urgent (2 Years Left),83
+K. Baldé,Inter,23,20000000.0,65000.0,0.0,-0.10907261261330004,1. Crisis (Expiring < 12m),85
+Rony Lopes,AS Monaco,22,20000000.0,65000.0,3.0,2.8090824138108283,3. Stable (3 Years Left),85
+Santi Mina,Valencia CF,22,20000000.0,40000.0,2.0,2.0983685826820753,2. Urgent (2 Years Left),85
+K. Demirbay,TSG 1899 Hoffenheim,24,19500000.0,37000.0,3.0,3.064471423389942,3. Stable (3 Years Left),84
+Gayà,Valencia CF,23,16500000.0,33000.0,4.0,4.188736006763526,4. Secure (Long Term),85
+André Gomes,Everton,24,19500000.0,130000.0,0.0,0.11753552190194289,1. Crisis (Expiring < 12m),85
+M. Sanson,Olympique de Marseille,23,19500000.0,47000.0,2.0,2.1517404651924243,2. Urgent (2 Years Left),85
+E. Can,Juventus,24,19500000.0,91000.0,3.0,2.891017286285653,3. Stable (3 Years Left),85
+H. Çalhanoğlu,Milan,24,19500000.0,89000.0,2.0,1.8387197718898614,2. Urgent (2 Years Left),84
+M. Ginter,Borussia Mönchengladbach,24,15500000.0,28000.0,2.0,2.1253073758204293,2. Urgent (2 Years Left),82
+M. Keane,Everton,25,15500000.0,88000.0,3.0,3.153417369633632,3. Stable (3 Years Left),83
+L. Shaw,Manchester United,22,16500000.0,96000.0,4.0,4.245252571000337,4. Secure (Long Term),85
+S. Haller,Eintracht Frankfurt,24,19000000.0,41000.0,2.0,1.9563088384557132,2. Urgent (2 Years Left),83
+Bernard,Everton,25,17500000.0,97000.0,3.0,2.9360090428963916,3. Stable (3 Years Left),81
+Portu,Girona FC,26,17500000.0,37000.0,3.0,3.1382064803709984,3. Stable (3 Years Left),81
+M. Batshuayi,Valencia CF,24,19500000.0,105000.0,0.0,-0.07959822987349108,1. Crisis (Expiring < 12m),84
+Héctor Bellerín,Arsenal,23,16500000.0,85000.0,4.0,4.215378662801783,4. Secure (Long Term),85
+J. Tarkowski,Burnley,25,15500000.0,56000.0,3.0,3.179206375921506,3. Stable (3 Years Left),83
+Deulofeu,Watford,24,18500000.0,56000.0,4.0,3.964497013687509,4. Secure (Long Term),82
+E. Dier,Tottenham Hotspur,24,16500000.0,73000.0,2.0,2.1254355338957485,2. Urgent (2 Years Left),84
+J. Murillo,Valencia CF,26,16000000.0,38000.0,3.0,3.1272714370423413,3. Stable (3 Years Left),84
+L. Digne,Everton,24,16000000.0,79000.0,4.0,3.8015619344179665,4. Secure (Long Term),84
+M. Uth,FC Schalke 04,26,17500000.0,42000.0,3.0,3.2012764533397835,3. Stable (3 Years Left),81
+Cristian Tello,Real Betis,26,16000000.0,30000.0,3.0,3.0026261862239285,3. Stable (3 Years Left),80
+L. Muriel,Sevilla FC,27,17500000.0,24000.0,3.0,3.1632287330538706,3. Stable (3 Years Left),81
+V. Aboubakar,FC Porto,26,18000000.0,19000.0,2.0,1.910024800515306,2. Urgent (2 Years Left),82
+A. Oxlade-Chamberlain,Liverpool,24,19500000.0,94000.0,3.0,3.1977616142481002,3. Stable (3 Years Left),85
+S. Aurier,Tottenham Hotspur,25,15500000.0,82000.0,3.0,2.9446008393670815,3. Stable (3 Years Left),83
+Sergi Enrich,SD Eibar,28,15500000.0,34000.0,0.0,-0.24458117425985082,1. Crisis (Expiring < 12m),80
+R. Rodríguez,Milan,25,15500000.0,81000.0,2.0,2.202690988209632,2. Urgent (2 Years Left),83
+R. Pereyra,Watford,27,15500000.0,65000.0,2.0,1.7956433383930668,2. Urgent (2 Years Left),80
+A. Ljajić,Beşiktaş JK,26,17500000.0,52000.0,0.0,-0.09034318120479257,1. Crisis (Expiring < 12m),81
+Canales,Real Betis,27,15500000.0,30000.0,3.0,3.2250309835254023,3. Stable (3 Years Left),80
+L. de Jong,PSV,27,16000000.0,23000.0,2.0,2.225303573468778,2. Urgent (2 Years Left),80
+Muniain,Athletic Club de Bilbao,25,18500000.0,31000.0,5.0,5.036718944061643,4. Secure (Long Term),83
+Alexandre Pato,Tianjin Quanjian FC,28,15500000.0,35000.0,0.0,0.06591860608489963,1. Crisis (Expiring < 12m),80
+D. Sturridge,Liverpool,28,15500000.0,125000.0,0.0,-0.025777239010840114,1. Crisis (Expiring < 12m),80
+V. Tsygankov,Dynamo Kyiv,20,18000000.0,1000.0,4.0,3.8966053858490324,4. Secure (Long Term),86
+David Neres,Ajax,21,18000000.0,18000.0,3.0,2.914332272684958,3. Stable (3 Years Left),86
+Raphinha,Sporting CP,21,18000000.0,13000.0,3.0,3.0862592280385193,3. Stable (3 Years Left),86
+A. Harit,FC Schalke 04,21,18000000.0,27000.0,2.0,2.12618726471884,2. Urgent (2 Years Left),86
+Richarlison,Everton,21,18000000.0,79000.0,4.0,4.145789521862924,4. Secure (Long Term),86
+L. Martínez,Inter,20,18000000.0,54000.0,4.0,4.144809071397277,4. Secure (Long Term),86
+F. Kessié,Milan,21,19500000.0,24000.0,0.0,-0.20439694847565482,1. Crisis (Expiring < 12m),88
+André Silva,Sevilla FC,22,19000000.0,84000.0,0.0,-0.002789847648709265,1. Crisis (Expiring < 12m),87
+C. Pulisic,Borussia Dortmund,19,18000000.0,26000.0,1.0,0.7787793800083221,1. Crisis (Expiring < 12m),87
+Marcos Llorente,Real Madrid,23,16000000.0,110000.0,2.0,2.0247644411618677,2. Urgent (2 Years Left),87
+B. Verbič,Dynamo Kyiv,24,15500000.0,1000.0,4.0,3.9707652506866884,4. Secure (Long Term),81
+S. Bergwijn,PSV,20,18000000.0,17000.0,3.0,3.1938520913791497,3. Stable (3 Years Left),86
+A. Golovin,AS Monaco,22,17000000.0,61000.0,4.0,3.9254575062760395,4. Secure (Long Term),85
+C. Pavón,Boca Juniors,22,17500000.0,27000.0,3.0,2.8085335082138028,3. Stable (3 Years Left),85
+F. Cervi,SL Benfica,24,17000000.0,15000.0,4.0,3.821495841026418,4. Secure (Long Term),84
+A. Rebić,Eintracht Frankfurt,24,16000000.0,39000.0,3.0,3.1307553158587362,3. Stable (3 Years Left),82
+A. Sanabria,Real Betis,22,17500000.0,27000.0,2.0,2.0591090316581306,2. Urgent (2 Years Left),85
+M. Philipp,Borussia Dortmund,24,17000000.0,53000.0,3.0,2.800561338061395,3. Stable (3 Years Left),84
+A. Saint-Maximin,OGC Nice,21,18000000.0,31000.0,1.0,0.7920534030574987,1. Crisis (Expiring < 12m),86
+L. Alario,Bayer 04 Leverkusen,25,16000000.0,67000.0,3.0,3.10048456572956,3. Stable (3 Years Left),82
+Ricardo Horta,SC Braga,23,17000000.0,16000.0,3.0,2.786381503182097,3. Stable (3 Years Left),84
+M. Meyer,Crystal Palace,22,16000000.0,53000.0,2.0,2.1609300296451783,2. Urgent (2 Years Left),83
+Bruma,RB Leipzig,23,16500000.0,48000.0,3.0,3.103121113578248,3. Stable (3 Years Left),83
+R. Centurión,Racing Club,25,15500000.0,25000.0,2.0,1.7906743903209499,2. Urgent (2 Years Left),81
+Otávio,FC Porto,23,17500000.0,15000.0,2.0,1.792418857042596,2. Urgent (2 Years Left),85
+D. Baselli,Torino,26,15500000.0,49000.0,1.0,1.2433197892505876,1. Crisis (Expiring < 12m),82
+Denis Suárez,FC Barcelona,24,17500000.0,120000.0,1.0,0.9371353978780601,1. Crisis (Expiring < 12m),86
+M. Elyounoussi,Southampton,23,17500000.0,48000.0,4.0,3.9353210735334456,4. Secure (Long Term),85
+L. Bittencourt,TSG 1899 Hoffenheim,24,16000000.0,35000.0,4.0,4.156399783628752,4. Secure (Long Term),82
+Sergi Darder,RCD Espanyol,24,16000000.0,29000.0,4.0,4.223624288691929,4. Secure (Long Term),83
+J. Veretout,Fiorentina,25,16500000.0,59000.0,2.0,2.2430005319114352,2. Urgent (2 Years Left),84
+H. Vanaken,Club Brugge KV,25,15500000.0,27000.0,1.0,1.1266890926294708,1. Crisis (Expiring < 12m),81
+Campaña,Levante UD,25,15500000.0,28000.0,1.0,0.9381297927654579,1. Crisis (Expiring < 12m),82
+M. Gregoritsch,FC Augsburg,24,16000000.0,27000.0,3.0,2.7917503583493346,3. Stable (3 Years Left),82
+R. Barkley,Chelsea,24,16000000.0,89000.0,4.0,4.138573457963719,4. Secure (Long Term),82
+Sérgio Oliveira,FC Porto,26,15500000.0,17000.0,2.0,2.0292021248679024,2. Urgent (2 Years Left),82
+C. Wilson,Bournemouth,26,15500000.0,77000.0,3.0,2.962111004623488,3. Stable (3 Years Left),81
+F. Chiesa,Fiorentina,20,16000000.0,46000.0,3.0,3.203177192547368,3. Stable (3 Years Left),87
+L. Jović,Eintracht Frankfurt,20,15500000.0,12000.0,0.0,-0.19440125884692433,1. Crisis (Expiring < 12m),86
+Diogo Jota,Wolverhampton Wanderers,21,15500000.0,56000.0,2.0,1.9963125521454295,2. Urgent (2 Years Left),86
+Y. Tielemans,AS Monaco,21,16000000.0,47000.0,3.0,2.7556768223837094,3. Stable (3 Years Left),87
+P. Cutrone,Milan,20,16000000.0,62000.0,4.0,3.984330320997063,4. Secure (Long Term),89
+Vinícius Júnior,Real Madrid,17,17500000.0,66000.0,6.0,5.778151637840919,4. Secure (Long Term),92
+R. Bentancur,Juventus,21,15500000.0,62000.0,3.0,2.809408958134036,3. Stable (3 Years Left),89
+N. Barella,Cagliari,21,15500000.0,24000.0,3.0,2.8087631233885526,3. Stable (3 Years Left),89
