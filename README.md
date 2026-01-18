@@ -20,15 +20,21 @@ This project acts as a **Football Consultancy Suite**, utilizing machine learnin
 The project is divided into two distinct technical pipelines:
 
 ### 1️⃣ Data Engineering Pipeline (`notebooks/01_...`)
-**Goal:** Transform raw, messy data into a "Golden Record" for analysis.
-- **Advanced Imputation:** Trained a **Random Forest Regressor** to predict missing `Release Clause` values ($R^2 \approx 0.94$) instead of using standard mean filling, preserving the financial distribution.
-- **Domain Logic Application:**
-    * **Goalkeepers:** Imputed missing outfield stats with `0` based on position logic.
-    * **Contracts:** Calculated `Contract_Years_Remaining` and imputed missing expiration dates using a distribution-based 3-year offset.
-- **Feature Engineering:** Mapped 160+ nationalities to broad **Regional Markets** (e.g., "South America", "DACH Region") for macro-scouting.
+**Goal:** Transform raw FIFA data into a clean, standardized, and analysis-ready **Golden Record**.
+
+- **Initial Cleaning:** Removed non-analytical columns, corrected data types, and validated structural integrity.
+- **Domain Logic Handling:** Filled goalkeeper outfield attributes with `0` to distinguish role-based gaps from true missingness.
+- **Financial Parsing:** Converted currency strings (Value, Wage, Release Clause) into numerical floats and handled free-agent edge cases.
+- **Contract Standardization:** Parsed date fields, computed `Contract_Years_Remaining`, and imputed missing expiration dates using a distribution-based 3-year offset.
+- **Physical Normalization:** Converted height/weight units, encoded categorical fields, and standardized skill representations.
+- **Geographic Feature Engineering:** Mapped ~160 nationalities into aggregated regional markets for higher-level scouting analysis.
+- **Advanced Imputation:** Trained a Random Forest model to predict missing `Release Clause` values, preserving financial distribution realism.
+- **Export & Finalization:** Restored readable labels, ordered fields logically, and exported the enriched dataset for downstream analysis.
+
 
 ### 2️⃣ Strategic Intelligence Analysis (`notebooks/02_...`)
 **Goal:** Convert the standardized Golden Record into decision-ready insights for scouting, transfers, and long-term squad strategy.
+
 - **Talent Demographics:** Profile players by age, league, nationality, and archetype to understand market talent clusters.
 - **Market Efficiency:** Compare potential vs. valuation vs. wages to surface undervalued assets and "Hidden Gems."
 - **Squad Architecture:** Group granular positions into functional roles (e.g., Defenders, Midfielders, Attackers) to assess depth, redundancies, and structural needs.
