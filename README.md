@@ -107,30 +107,29 @@ FIFA19-Strategic-Analysis/
 ├── requirements.txt            # Python Dependencies
 └── README.md                   # Project Documentation
 
-
 ```
 ## 🚀 Installation & Usage
 
-1.  **Clone the repo:**
-```bash
-git clone git clone [https://github.com/mahmoudsameh00/FIFA19-Strategic-Analysis.git](https://github.com/mahmoudsameh00/FIFA19-Strategic-Analysis.git)
-cd FIFA19-Strategic-Analysis
- ```
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/mahmoudsameh00/FIFA19-Strategic-Analysis.git](https://github.com/mahmoudsameh00/FIFA19-Strategic-Analysis.git)
+    cd FIFA19-Strategic-Analysis
+    ```
 
 2.  **Install dependencies:**
- ```bash
- pip install -r requirements.txt
- ```
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 3.  **Run the Analysis:**
-   
-Step 1: Open notebooks/01_Data_Engineering_Pipeline.ipynb to see the data cleaning and ML training process.
-Step 2: Open notebooks/02_Strategic_Intelligence_Analysis.ipynb to generate the strategic datasets found in the Tableau_Datasets/ folder and export the static plots.
-Step 3: Open dashboard/FIFA19_Strategic_Analysis_Dashboard.twbx (requires Tableau Desktop or Tableau Public) to interact with the executive dashboards.
+    * **Step 1:** Open `notebooks/01_Data_Engineering_Pipeline.ipynb` to execute the data cleaning and Random Forest imputation training.
+    * **Step 2:** Open `notebooks/02_Strategic_Intelligence_Analysis.ipynb` to run the KNN algorithms, generate the Tableau datasets, and export static plots.
+    * **Step 3:** Open `dashboard/FIFA19_Strategic_Analysis_Dashboard.twbx` (using Tableau Desktop or Tableau Public) to interact with the final visualizations.
 
 ---
 
-```
 ## 🤝 Acknowledgements
-
+* **Data Source:** The original dataset was scraped from the *FIFA 19* database by [Karan Gadiya on Kaggle](https://www.kaggle.com/karangadiya/fifa19).
+* **Tools Used:** This project relies on the open-source power of **Pandas**, **Scikit-Learn**, **Plotly**, and **Tableau**.
+* **Inspiration:** The "Moneyball" philosophy of using statistical analysis to overcome budget constraints in sports management.
 
