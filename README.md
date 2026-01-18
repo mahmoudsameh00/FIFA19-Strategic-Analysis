@@ -71,20 +71,29 @@ The analysis culminates in 4 interactive dashboards:
 ```text
 FIFA19-Strategic-Analysis/
 │
-├── 📁 data/
-│   ├── raw/                    # Original Kaggle Dataset
-│   └── processed/              # The "Golden Record" (Cleaned CSV)
+├── 📁 Rawdata/
+│   ├── fifa19.csv                    # Original Kaggle Dataset
+│   └── fifa19_eda_ready.csv              # The "Golden Record" (Cleaned CSV)
+│
+├── 📁 Tableau_Datasets/        # Processed CSVs specifically for Tableau
+│   ├── Tableau_Age_Curve.csv
+│   ├── Tableau_Gem_Finder.csv
+│   ├── Tableau_Squad_Depth.csv
+│   └── ... (Other Dashboard Inputs)
 │
 ├── 📁 notebooks/
 │   ├── 01_Data_Engineering_Pipeline.ipynb   # Cleaning, ML Imputation, Encoding
 │   └── 02_Strategic_Intelligence_Analysis.ipynb  # Business Logic & Prep for Tableau
 │
 ├── 📁 models/
-│   └── release_clause_rf_model.pkl  # Trained Random Forest Model
-│
+│   ├── release_clause_rf_model.joblib  # Trained Random Forest Model (Release Clause Imputation)
+│   └── Positional_Backup_Model.joblib  # KNN Model for Player Similarity
+│   
 ├── 📁 dashboard/
 │   ├── FIFA19_Strategic_Analysis_Dashboard.twbx  # Tableau Workbook
-│   └── images/                 # Screenshots for README
+│   └── images/                                   # Screenshots for README
 │
+├── 📁 plots/  # 15 Static High-Res Python Visualizations 
+│             
 ├── requirements.txt            # Python Dependencies
 └── README.md                   # Project Documentation
