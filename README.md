@@ -39,32 +39,34 @@ The project is divided into two distinct technical pipelines:
 *(Click the link below to download the interactive workbook)*
 📂 **[Download FIFA19_Strategic_Analysis_Dashboard.twbx](./dashboard/FIFA19_Strategic_Analysis_Dashboard.twbx)**
 
-The analysis culminates in 4 interactive dashboards:
+This workbook converts the Python insights into 4 executive-level dashboards, designed to answer specific strategic questions:
 
 ### 🔹 Dashboard 1: Valuation & Economics
-**Business Question:** *Are we overpaying for talent?*
-* Analyzes the **"Positional Tax"** (the premium paid for Strikers vs. Defenders).
-* Visualizes **Wage Efficiency** (Cost per Attribute Point) to identify overpaid stars.
-![Valuation](./dashboard/images/01_valuation_economics.png)
+**Focus:** *Establishing a financial baseline and identifying market anomalies.*
+1.  **Correlation Matrix (Heatmap):** Analyzes the drivers of player value by correlating financial metrics (`Value`, `Wage`, `Release Clause`) against key attributes (`Overall`, `Potential`, `Age`, `Reactions`, `Composure`, `Intl. Reputation`).
+2.  **Wage Efficiency (Radar Chart):** Maps the relationship between **Wage** and **Market Value**. Deviations highlight "Bargains" (High Value / Low Wage) versus "Overpaid" assets (Low Value / High Wage).
+3.  **The Talent Premium Curve:** A scatter plot of **Value vs. Overall Rating**, demonstrating the exponential cost structure of the transfer market (e.g., the massive price jump required to upgrade a player from 85 to 90 Rated).
+4.  **The Positional Tax:** A comparative bar chart showing the average Market Value per position, quantifying the "Forward Premium" (clubs paying ~30% more for attackers than defenders).
 
-### 🔹 Dashboard 2: Talent Growth & ROI
-**Business Question:** *Where are the future stars?*
-* **The Age Curve:** Visualizes the peak performance window (Age 24-29) for optimal recruitment.
-* **Gem Finder:** Isolates U21 players with Potential >82 and Market Value <£10M.
-![Talent](./dashboard/images/02_talent_growth.png)
+### 🔹 Dashboard 2: Global Scouting & Talent
+**Focus:** *Identifying high-ROI acquisition targets.*
+1.  **Global Talent Map (Geospatial):** A density map pinpointing the specific nations producing the highest volume of "Elite Potential" players.
+2.  **Gem Finder (Bubble Chart):** A multi-variable filter isolating U21 players with **High Potential (>82)** but **Low Release Clauses (<£5M)**. Bubble size indicates the "Growth Gap."
+3.  **ROI Story:** Visualizes "Undervalued Assets" by plotting Market Value against total Stat Points, exposing players who offer elite output for a fraction of the standard price.
+4.  **Growth Dumbbells:** Connects a player's *Current Rating* to their *Potential Rating* with a dumbbell plot, clearly visualizing the development runway left for each prospect.
 
 ### 🔹 Dashboard 3: Squad Architecture
-**Business Question:** *Do we have enough depth?*
-* **Depth Map:** A heatmap of "First Team Ready" players per position.
-* **Radar Charts:** Compares specific transfer targets against the "Ideal Player" profile for their role.
-![Squad](./dashboard/images/03_squad_depth.png)
+**Focus:** *Team depth, balance, and succession planning.*
+1.  **The Age Curve:** Tracks the average Overall Rating across age groups to mathematically determine the optimal "Buying Window" (Age 21-24) and "Selling Window" (Age 28-30).
+2.  **Squad Depth Heatmap:** A grid visualization showing the count of "First Team Ready" players for every position, instantly highlighting depth crises (e.g., "0 Backup Left Backs").
+3.  **Player Radar Replacements:** Overlays a potential signing's attributes against a departing star (using the KNN model output) to visually validate them as a statistically suitable successor.
 
-### 🔹 Dashboard 4: Contract Risk Management
-**Business Question:** *Who is leaving for free?*
-* **Bosman Targets:** A watchlist of elite players approaching free agency.
-* **Deadwood Action Plan:** A prioritized list of players to sell or terminate based on wage burden.
-![Contracts](./dashboard/images/04_contract_strategy.png)
-
+### 🔹 Dashboard 4: Contract Strategy
+**Focus:** *Risk management and asset protection.*
+1.  **Flight Risk Analysis:** Flags high-value assets (>£20M) with less than 1 year remaining on their contract, warning of potential free transfer losses.
+2.  **Contract Strategy Timeline:** Visualizes the squad's contract expiry schedule over the next 5 years to prevent mass exoduses.
+3.  **Bosman Targets:** A watchlist of elite players from *other* clubs whose contracts expire in 2019, identifying targets for free acquisition.
+4.  **Deadwood Action Plan:** A scatter plot of **Wage vs. Performance**. The "Danger Zone" (Top-Left) identifies players earning star wages while delivering sub-par performance—primary candidates for termination.
 ---
 
 ## 📂 Repository Structure
