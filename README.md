@@ -50,7 +50,7 @@ This workbook converts the Python insights into 4 executive-level dashboards:
 
 ### 🔹 Dashboard 1: Valuation & Economics
 **Focus:** *Financial baselining and market efficiency.*
-![Valuation Dashboard](./dashboards/images/Dashboard_1.png)
+![Valuation Dashboard](./Dashboards/Images/Dashboard 1.png)
 1.  **Correlation Matrix:** Heatmap identifying the key statistical drivers (e.g., Reactions, Composure) behind Market Value.
 2.  **Wage Efficiency:** Radar chart spotting "Bargains" (High Value / Low Wage) vs. "Overpaid" assets.
 3.  **The Talent Premium Curve:** Scatter plot visualizing the exponential price surge required to acquire elite talent vs. average players.
