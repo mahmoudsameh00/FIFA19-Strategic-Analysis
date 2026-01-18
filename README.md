@@ -108,7 +108,7 @@ FIFA19-Strategic-Analysis/
 └── README.md                   # Project Documentation
 
 ## 🚀 Installation & Usage
-
+```
 1.  **Clone the repo:**
 ```bash
 git clone git clone [https://github.com/mahmoudsameh00/FIFA19-Strategic-Analysis.git](https://github.com/mahmoudsameh00/FIFA19-Strategic-Analysis.git)
@@ -121,19 +121,14 @@ cd FIFA19-Strategic-Analysis
  ```
 
 3.  **Run the Analysis:**
+   
 Step 1: Open notebooks/01_Data_Engineering_Pipeline.ipynb to see the data cleaning and ML training process.
-
 Step 2: Open notebooks/02_Strategic_Intelligence_Analysis.ipynb to generate the strategic datasets found in the Tableau_Datasets/ folder and export the static plots.
-
 Step 3: Open dashboard/FIFA19_Strategic_Analysis_Dashboard.twbx (requires Tableau Desktop or Tableau Public) to interact with the executive dashboards.
 
 ---
 
 ```
 ## 🤝 Acknowledgements
-* [MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/vision/holistic_landmarker): For efficient on-device hand tracking.
-* [Qwen (Alibaba Cloud)](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/blob/main/qwen2.5-1.5b-instruct-q4_k_m.gguf): For Arabic grammar correction.
-* [llama-cpp-python](https://github.com/abetlen/llama-cpp-python): For enabling the execution of the LLM locally on CPU/GPU.
-* [OpenCV](https://opencv.org/): For computer vision tasks.
 
-https://github.com/user-attachments/assets/cdb120a7-8fd5-4e47-ad6d-ce22745ebded
+
