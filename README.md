@@ -64,7 +64,7 @@ This workbook converts the Python insights into 4 executive-level dashboards:
 ### 🔹 Dashboard 3: Squad Architecture
 **Focus:** *Depth planning and replacement logic.*
 1.  **The Age Curve:** Models performance vs. age to identify optimal "Buying" (21-24) and "Selling" (28-30) windows.
-2.  **Squad Depth (Gantt):** Visualizes player coverage per position to instantly flag depth crises (e.g., zero backup Left Backs).
+2.  **Squad Depth:** Visualizes player coverage per position to instantly flag depth crises (e.g., zero backup Left Backs).
 3.  **Player Radar Replacements:** Validates potential signings by overlaying their stats against a departing star's profile to ensure a tactical fit.
 
 ### 🔹 Dashboard 4: Contract Strategy
