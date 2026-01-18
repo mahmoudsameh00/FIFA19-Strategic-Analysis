@@ -58,6 +58,7 @@ This workbook converts the Python insights into 4 executive-level dashboards:
 
 ### 🔹 Dashboard 2: Global Scouting & Talent
 **Focus:** *Identifying high-ROI acquisition targets.*
+![Talent Dashboard](./Dashboards/Images/Dashboard_2.png)
 1.  **Global Talent Map:** Geospatial density map pinpointing top nations for "Elite Potential" production.
 2.  **Gem Finder:** Bubble chart isolating High Potential (>82) U21 players with low Release Clauses (<£5M).
 3.  **ROI Story:** Identifies "Undervalued Assets" providing elite statistical output for a fraction of the standard market price.
@@ -65,12 +66,14 @@ This workbook converts the Python insights into 4 executive-level dashboards:
 
 ### 🔹 Dashboard 3: Squad Architecture
 **Focus:** *Depth planning and replacement logic.*
+![Squad Dashboard](./Dashboards/Images/Dashboard_3.png)
 1.  **The Age Curve:** Models performance vs. age to identify optimal "Buying" (21-24) and "Selling" (28-30) windows.
 2.  **Squad Depth:** Visualizes player coverage per position to instantly flag depth crises (e.g., zero backup Left Backs).
 3.  **Player Radar Replacements:** Validates potential signings by overlaying their stats against a departing star's profile to ensure a tactical fit.
 
 ### 🔹 Dashboard 4: Contract Strategy
 **Focus:** *Risk management and asset protection.*
+![Contract Dashboard](./Dashboards/Images/Dashboard_4.png)
 1.  **Flight Risk Analysis:** Flags high-value assets (>£20M) entering the final year of their contract.
 2.  **Contract Strategy Timeline:** Forecasts the squad's expiry schedule to prevent mass departures in a single season.
 3.  **Bosman Targets:** Watchlist of elite external players approaching free agency (available for £0).
