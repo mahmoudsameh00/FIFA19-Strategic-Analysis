@@ -50,6 +50,7 @@ This workbook converts the Python insights into 4 executive-level dashboards:
 
 ### 🔹 Dashboard 1: Valuation & Economics
 **Focus:** *Financial baselining and market efficiency.*
+![Valuation Dashboard](./dashboards/images/Dashboard_1.png)
 1.  **Correlation Matrix:** Heatmap identifying the key statistical drivers (e.g., Reactions, Composure) behind Market Value.
 2.  **Wage Efficiency:** Radar chart spotting "Bargains" (High Value / Low Wage) vs. "Overpaid" assets.
 3.  **The Talent Premium Curve:** Scatter plot visualizing the exponential price surge required to acquire elite talent vs. average players.
@@ -131,5 +132,4 @@ FIFA19-Strategic-Analysis/
 ## 🤝 Acknowledgements
 * **Data Source:** The original dataset was scraped from the *FIFA 19* database by [Karan Gadiya on Kaggle](https://www.kaggle.com/karangadiya/fifa19).
 * **Tools Used:** This project relies on the open-source power of **Pandas**, **Scikit-Learn**, **Plotly**, and **Tableau**.
-* **Inspiration:** The "Moneyball" philosophy of using statistical analysis to overcome budget constraints in sports management.
 
