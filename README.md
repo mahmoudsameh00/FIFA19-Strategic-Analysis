@@ -43,7 +43,7 @@ The project is divided into two distinct technical pipelines:
 
 ---
 ## 📊 Tableau Dashboard Suite
-*(Click the link below to download the interactive workbook)*
+*(Click the link to download the interactive workbook)*
 📂 **[Download FIFA19_Strategic_Analysis_Dashboard.twbx](./dashboard/FIFA19_Strategic_Analysis_Dashboard.twbx)**
 
 This workbook converts the Python insights into 4 executive-level dashboards:
