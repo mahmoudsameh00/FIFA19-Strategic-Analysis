@@ -34,13 +34,6 @@ The project is divided into two distinct technical pipelines:
 * **Risk Assessment:** Flagged "Flight Risks" (High Value + <1 Year Contract) and "Deadwood" (Low Performance + High Wage).
 
 ---
-
-## 📊 Tableau Dashboard Suite
-*(Click the link below to download the interactive workbook)*
-📂 **[Download FIFA19_Strategic_Analysis_Dashboard.twbx](./dashboard/FIFA19_Strategic_Analysis_Dashboard.twbx)**
-
-This workbook converts the Python insights into 4 executive-level dashboards, designed to answer specific strategic questions:
-
 ## 📊 Tableau Dashboard Suite
 *(Click the link below to download the interactive workbook)*
 📂 **[Download FIFA19_Strategic_Analysis_Dashboard.twbx](./dashboard/FIFA19_Strategic_Analysis_Dashboard.twbx)**
