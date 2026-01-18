@@ -21,17 +21,19 @@ The project is divided into two distinct technical pipelines:
 
 ### 1️⃣ Data Engineering Pipeline (`notebooks/01_...`)
 **Goal:** Transform raw, messy data into a "Golden Record" for analysis.
-* **Advanced Imputation:** Trained a **Random Forest Regressor** to predict missing `Release Clause` values ($R^2 \approx 0.94$) instead of using standard mean filling, preserving the financial distribution.
-* **Domain Logic Application:**
+- **Advanced Imputation:** Trained a **Random Forest Regressor** to predict missing `Release Clause` values ($R^2 \approx 0.94$) instead of using standard mean filling, preserving the financial distribution.
+- **Domain Logic Application:**
     * **Goalkeepers:** Imputed missing outfield stats with `0` based on position logic.
     * **Contracts:** Calculated `Contract_Years_Remaining` and imputed missing expiration dates using a distribution-based 3-year offset.
-* **Feature Engineering:** Mapped 160+ nationalities to broad **Regional Markets** (e.g., "South America", "DACH Region") for macro-scouting.
+- **Feature Engineering:** Mapped 160+ nationalities to broad **Regional Markets** (e.g., "South America", "DACH Region") for macro-scouting.
 
 ### 2️⃣ Strategic Intelligence Analysis (`notebooks/02_...`)
-**Goal:** Generate actionable intelligence and specific transfer targets.
-* **Growth Modeling:** Calculated `Growth_Potential = Potential - Overall` to find players entering their prime.
-* **Squad Architecture:** Aggregated specific positions (e.g., LWB, LB, CB) into functional roles (**Defender, Midfielder, Attacker**) to build Squad Depth Heatmaps.
-* **Risk Assessment:** Flagged "Flight Risks" (High Value + <1 Year Contract) and "Deadwood" (Low Performance + High Wage).
+**Goal:** Convert the standardized Golden Record into decision-ready insights for scouting, transfers, and long-term squad strategy.
+- **Talent Demographics:** Profile players by age, league, nationality, and archetype to understand market talent clusters.
+- **Market Efficiency:** Compare potential vs. valuation vs. wages to surface undervalued assets and "Hidden Gems."
+- **Squad Architecture:** Group granular positions into functional roles (e.g., Defenders, Midfielders, Attackers) to assess depth, redundancies, and structural needs.
+- **Contract & Risk Outlook:** Evaluate expiring contracts, Bosman opportunities, and financial exposure to support timing-sensitive transfer decisions.
+
 
 ---
 ## 📊 Tableau Dashboard Suite
