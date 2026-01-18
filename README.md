@@ -53,7 +53,7 @@ This workbook converts the Python insights into 4 executive-level dashboards:
 1.  **Correlation Matrix:** Heatmap identifying the key statistical drivers (e.g., Reactions, Composure) behind Market Value.
 2.  **Wage Efficiency:** Radar chart spotting "Bargains" (High Value / Low Wage) vs. "Overpaid" assets.
 3.  **The Talent Premium Curve:** Scatter plot visualizing the exponential price surge required to acquire elite talent vs. average players.
-4.  **The Positional Tax:** Quantifies the market premium paid for specific roles (e.g., Attacking Midfielders cost ~30% more than Defenders).
+4.  **The Positional Tax:** Quantifies the market premium paid for specific roles (e.g., Attacking Midfielders carry a significantly higher market premium compared to Defenders).
 
 ### 🔹 Dashboard 2: Global Scouting & Talent
 **Focus:** *Identifying high-ROI acquisition targets.*
